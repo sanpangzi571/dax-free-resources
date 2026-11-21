@@ -353,7 +353,7 @@ button { font-family: inherit; }
 }
 .stars { color: var(--star); letter-spacing: 1px; font-size: 13px; white-space: nowrap; }
 .stars .num { color: var(--ink-3); letter-spacing: 0; font-size: 12px; }
-.deadline { white-space: nowrap; }
+.deadline { min-width: 0; overflow-wrap: break-word; }
 .deadline.urgent { color: var(--red); font-weight: 700; }
 .deadline.soon { color: var(--amber); font-weight: 600; }
 .card-src { color: var(--ink-4); font-size: 12px; }
