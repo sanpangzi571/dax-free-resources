@@ -39,7 +39,11 @@
     if (item.badge) {
       badge = ' <span class="rc-badge ' + esc(item.badgeClass || '') + '">' + esc(item.badge) + '</span>';
     }
-    return '<td class="rc-name">' + esc(item.name) + badge + '</td>';
+    var name = esc(item.name);
+    if (item.url) {
+      name = '<a href="' + esc(item.url) + '" target="_blank" rel="noopener noreferrer">' + name + ' ↗</a>';
+    }
+    return '<td class="rc-name">' + name + badge + '</td>';
   }
 
   function sectionHtml(sec) {
@@ -118,7 +122,7 @@
     var hash = (location.hash || '').replace('#', '');
     if (hash === 'servers' || hash === 'containers' || hash === 'ai' ||
         hash === 'ai-trial' || hash === 'databases' || hash === 'storage' ||
-        hash === 'domains' || hash === 'email') {
+        hash === 'domains' || hash === 'email' || hash === 'crypto') {
       setView(hash);
     }
   }
