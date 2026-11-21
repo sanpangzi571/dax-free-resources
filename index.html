@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>dax 免费资源大全 · 空投 / 服务器 / 容器 / AI / 数据库 / 存储 / 域名</title>
+<meta name="description" content="全网免费资源一站查：零成本空投、免费服务器、容器、AI 模型、数据库、存储、域名、邮箱与监控，按官网实时额度整理，附避坑提示。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <p class="site-kicker">Free Resources · 每日更新</p>
+    <h1 class="site-title">dax 免费资源大全<span class="dot">.</span></h1>
+    <p class="site-sub">全网免费资源一站查 · 空投、服务器、容器、AI 模型、数据库、存储、域名、邮箱 / 监控 · 每天更新</p>
+    <div class="site-meta" id="siteMeta">数据加载中…</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="view-tabs" aria-label="版块切换">
+    <button type="button" class="view-tab on" data-view="airdrops">空投项目</button>
+    <button type="button" class="view-tab" data-view="servers">免费服务器</button>
+    <button type="button" class="view-tab" data-view="containers">容器类</button>
+    <button type="button" class="view-tab" data-view="ai">免费 AI 模型</button>
+    <button type="button" class="view-tab" data-view="ai-trial">AI 试用额度</button>
+    <button type="button" class="view-tab" data-view="databases">免费数据库</button>
+    <button type="button" class="view-tab" data-view="storage">免费存储 / CDN</button>
+    <button type="button" class="view-tab" data-view="domains">免费域名 / SSL</button>
+    <button type="button" class="view-tab" data-view="email">免费邮箱 / 监控</button>
+  </nav>
+
+  <section class="toolbar" aria-label="筛选">
+    <div class="toolbar-row">
+      <input class="search" id="q" type="search" placeholder="搜索项目名、链、关键词…" autocomplete="off" aria-label="搜索项目">
+      <select class="select" id="sort" aria-label="排序">
+        <option value="deadline">排序：即将截止</option>
+        <option value="potential">排序：潜力最高</option>
+        <option value="updated">排序：最近更新</option>
+      </select>
+      <label class="check"><input type="checkbox" id="favOnly"> 只看收藏</label>
+      <label class="check"><input type="checkbox" id="verifiedOnly"> 仅已核实</label>
+    </div>
+    <div class="toolbar-row">
+      <div class="pill-group" id="catGroup" role="group" aria-label="分类筛选"></div>
+    </div>
+    <div class="toolbar-row">
+      <div class="pill-group" id="statusGroup" role="group" aria-label="状态筛选"></div>
+      <div class="pill-group" id="costGroup" role="group" aria-label="成本筛选"></div>
+    </div>
+    <div class="result-line" id="resultLine"></div>
+  </section>
+
+  <div class="layout">
+    <section aria-label="项目列表">
+      <div class="grid" id="grid"></div>
+    </section>
+
+    <aside class="side">
+      <section class="side-box" aria-label="最新动态">
+        <h2>最新动态 <span class="count" id="newsCount"></span></h2>
+        <ul class="news-list" id="newsList"></ul>
+        <button class="news-more" id="newsMore" type="button">展开全部动态</button>
+      </section>
+
+      <section class="side-box safe-box" aria-label="防骗提醒">
+        <h2>防骗提醒</h2>
+        <ul>
+          <li>只从项目官网 / 官方公告进领取页，不点私信、评论区里的链接。</li>
+          <li>不签看不懂的授权，不交助记词、不转账“激活”。</li>
+          <li>用撸空投专用小号钱包，主力资产放别的钱包。</li>
+          <li>本站信息仅供参考，动手前先核对官方规则与截止时间。</li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+
+  <section id="resourcesView" hidden aria-label="免费资源">
+    <div id="resourcesRoot"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>数据来源：Muse 空投雷达（每日自动核验更新）；免费资源版块按各厂商官网整理，额度以官网实时为准。页面为静态站，收藏与任务勾选只保存在你自己的浏览器里，不上传服务器。</p>
+    <p>本站不构成投资建议。空投规则以项目官方渠道为准；凡是先付费、先授权全部资产的“教程”都不是官方教程。免费档随时会变，动手前先核对官网。</p>
+    <p id="footMeta"></p>
+  </div>
+</footer>
+
+<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal">
+    <div class="modal-head">
+      <div>
+        <h2 id="modalTitle"></h2>
+        <div class="tags" id="modalTags"></div>
+      </div>
+      <button class="modal-close" id="modalClose" type="button" aria-label="关闭">✕</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+    <div class="modal-foot" id="modalFoot"></div>
+  </div>
+</div>
+
+<script src="app.js" defer></script>
+<script src="resources.js" defer></script>
+</body>
+</html>

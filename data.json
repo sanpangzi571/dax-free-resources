@@ -1,0 +1,3356 @@
+{
+  "lastRefreshedAt": "2026-11-21T01:28:58.765Z",
+  "news": [
+    {
+      "createdAt": 1795224538765,
+      "id": 119,
+      "kind": "new",
+      "projectSlug": "agent-circle",
+      "text": "新收录：Agent Circle（Circle Arena Season 0），详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 118,
+      "kind": "new",
+      "projectSlug": "tzero",
+      "text": "新收录：Tzero（T0），详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 117,
+      "kind": "new",
+      "projectSlug": "agent-circle",
+      "text": "新收录：Agent Circle Season 0 纸上交易赛（HyperEVM 测试网），12 月 6 日 19:00 UTC 结束，仅面向能自备交易 agent 的开发者。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 116,
+      "kind": "new",
+      "projectSlug": "tzero",
+      "text": "新收录：Tzero（LayerZero 新链 Zero 的首个发射台）Season 0 测试网积分，分 5% 的 $T0 供应，500 分起有资格，快照日待官方提前 7 天公布。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 115,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 取消积分制：11 月 14 日起每条已验证签名的 trajectory 直接赚 $AXIS，首期领取已于今日 10:00 UTC 开放。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 114,
+      "kind": "deadline",
+      "projectSlug": "datai",
+      "text": "Datai 领取将于 11 月 22 日 13:00 UTC 截止，明日到期，符合资格请尽快领取。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 113,
+      "kind": "ended",
+      "projectSlug": "flint-trade",
+      "text": "Flint Trade Devnet 交易竞赛已于 11 月 20 日 11:00 UTC 结束，最终名次待官方核验后公布。"
+    },
+    {
+      "createdAt": 1795224538765,
+      "id": 112,
+      "kind": "ended",
+      "projectSlug": "fables",
+      "text": "Fables 领取窗口已于 11 月 20 日 23:59 UTC 关闭，未领取额度作废。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 111,
+      "kind": "new",
+      "projectSlug": "grass-stage-2",
+      "text": "新收录：Grass Stage 2，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 110,
+      "kind": "update",
+      "projectSlug": "aeredium-loveh",
+      "text": "AEREDIUM LOVEH 借贷协议 11 月 17 日上线公共测试网，每个确认的安全漏洞奖励 10,000 AERX 空投积分。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 109,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 规则调整：11 月 14 日起积分制结束，改为每条验证轨迹直接赚 $AXIS，每周六 10:00（UTC）结算，首次领取 11 月 21 日。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 108,
+      "kind": "deadline",
+      "projectSlug": "datai",
+      "text": "Datai 领取 11 月 22 日 13:00（UTC）截止，未领代币将回归金库。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 107,
+      "kind": "deadline",
+      "projectSlug": "flint-trade",
+      "text": "Flint Trade 比赛今天 11:00（UTC）结束，须在此之前完成注册才有资格。"
+    },
+    {
+      "createdAt": 1795138205842,
+      "id": 106,
+      "kind": "deadline",
+      "projectSlug": "fables",
+      "text": "Fables 领取今晚 23:59（UTC）截止，未领分配将作废，符合资格的尽快领取。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 105,
+      "kind": "new",
+      "projectSlug": "aeredium-loveh",
+      "text": "新收录：AEREDIUM LOVEH，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 104,
+      "kind": "new",
+      "projectSlug": "aura-protocol",
+      "text": "新收录：Aura Protocol，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 103,
+      "kind": "update",
+      "projectSlug": "flop-labs",
+      "text": "Flop Labs 澄清：11 月 24 日为测试网暂定开始日、非截止日，TGE 日期仍未公布。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 102,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics 规则变化：11 月 14 日起积分制结束，改为直接赚 $AXIS，每周六结算，首次领取 11 月 21 日。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 101,
+      "kind": "update",
+      "projectSlug": "zest-protocol",
+      "text": "Zest Season 1 空投今日 12:00 UTC 开放领取，截止 12 月 10 日。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 100,
+      "kind": "deadline",
+      "projectSlug": "datai",
+      "text": "Datai 领取 11 月 22 日 13:00 UTC 截止，未领取的代币将回归国库。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 99,
+      "kind": "deadline",
+      "projectSlug": "flint-trade",
+      "text": "Flint Devnet 交易赛明日（11 月 20 日 11:00 UTC）截止，须在此之前完成注册。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 98,
+      "kind": "deadline",
+      "projectSlug": "fables",
+      "text": "Fables 领取明日（11 月 20 日 23:59 UTC）截止，未领取的请尽快领取。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 97,
+      "kind": "ended",
+      "projectSlug": "perpl",
+      "text": "Perpl mPoints Season 1 已于 11 月 18 日结束；收官锦标赛持续至 11 月 23 日。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 96,
+      "kind": "ended",
+      "projectSlug": "nami-genesis",
+      "text": "Nami Genesis 积分赚取已于 11 月 18 日结束，Epoch 0 推迟，领取待 Epoch 1 开放。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 95,
+      "kind": "new",
+      "projectSlug": "aeredium-loveh",
+      "text": "新收录：AEREDIUM LOVEH 测试网安全挑战上线，每个确认有效的合约漏洞奖 10,000 AERX 积分，仅适合会审计合约的用户。"
+    },
+    {
+      "createdAt": 1795051756427,
+      "id": 94,
+      "kind": "new",
+      "projectSlug": "aura-protocol",
+      "text": "新收录：Aura Protocol 激励测试网 Bonus Epoch 进行中，Token Quest 11 月 30 日截止，满 10,000 分才有资格。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 93,
+      "kind": "new",
+      "projectSlug": "flint-trade",
+      "text": "新收录：Flint Trade，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 92,
+      "kind": "update",
+      "projectSlug": "zest-protocol",
+      "text": "Zest：Season 1 剩余 90% 份额 11 月 19 日 12:00 UTC 开领，12 月 10 日截止，未领将回归社区金库。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 91,
+      "kind": "deadline",
+      "projectSlug": "fables",
+      "text": "Fables：积分领取与 PROLOGUE 兑换 11 月 20 日 23:59 UTC 截止，仅剩 2 天，未领作废。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 90,
+      "kind": "new",
+      "projectSlug": "flint-trade",
+      "text": "新收录 Flint Trade：Solana devnet 交易赛 11 月 13–20 日，免费参赛分 1 万 USDC，前 21 名有奖，积分拟带入主网。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 89,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics：11 月 14 日起积分制结束，改为每条验证轨迹直接赚 $AXIS，每周结算领取。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 88,
+      "kind": "update",
+      "projectSlug": "vearl-testnet",
+      "text": "Vearl：官方未公布 Testnet 1 结束日，原 11 月 20 日截止未获证实，已改为待确认。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 87,
+      "kind": "deadline",
+      "projectSlug": "nami-genesis",
+      "text": "Nami Genesis：官方文档确认 11 月 18 日 16:00 UTC 结束并快照，今天就是最后一天。"
+    },
+    {
+      "createdAt": 1794965276666,
+      "id": 86,
+      "kind": "update",
+      "projectSlug": "predict-fun",
+      "text": "Predict.fun：11 月 17 日官方推迟 TGE 与 Season 1 领取 2–4 周，原 12 月 18 日截止作废，具体日期待确认。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 85,
+      "kind": "new",
+      "projectSlug": "multipli-testnet",
+      "text": "新收录：Multipli 测试网，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 84,
+      "kind": "new",
+      "projectSlug": "vibe-vibe",
+      "text": "新收录：vibe/vibe（VIBEVIBE），详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 83,
+      "kind": "new",
+      "projectSlug": "multipli-testnet",
+      "text": "新收录：Multipli 激励测试网，质押测试稳定币赚 tORBS 积分，零成本参与；兑换比例待官方公布。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 82,
+      "kind": "new",
+      "projectSlug": "vibe-vibe",
+      "text": "新收录：vibe/vibe 测试网（Robinhood Chain），5% 供应预留测试网用户，SPARK 持有者另享 25%，全程零成本。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 81,
+      "kind": "update",
+      "projectSlug": "ipx-fan-szn",
+      "text": "IPX：FAN SZN 排行榜已冻结，今日（11 月 17 日）公布获奖结果；FAN SZN 在平台上线后继续运营。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 80,
+      "kind": "update",
+      "projectSlug": "flop-labs",
+      "text": "Flop Labs：激励测试网目标 11 月 24 日启动（暂定），约 90 天；Devnet 不计奖励。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 79,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics：Season 2 积分制 11 月 14 日结束，改为每条经验证签名的轨迹直接赚取 $AXIS，可每周领取。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 78,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended：XTEN 分配查询器已上线，1 Xpoint 约合 4.2857 XTEN，须在 12 月 31 日前在 App 内签署条款，否则分配划入生态基金。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 77,
+      "kind": "deadline",
+      "projectSlug": "zest-protocol",
+      "text": "Zest：Season 1 剩余 0.9% 份额 11 月 19 日 12:00 UTC 开放领取，12 月 10 日截止，逾期回归社区金库。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 76,
+      "kind": "deadline",
+      "projectSlug": "fables",
+      "text": "Fables：FABLES 领取与 PROLOGUE 兑换 11 月 20 日 23:59 UTC 截止，未领份额不补发。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 75,
+      "kind": "deadline",
+      "projectSlug": "predict-fun",
+      "text": "Predict.fun：PREDICT 领取明日（11 月 18 日）09:00 UTC 开启，30 天窗口；经币安参与的用户须在今日 09:00 UTC 前提交领取方式表。"
+    },
+    {
+      "createdAt": 1794878948274,
+      "id": 74,
+      "kind": "ended",
+      "projectSlug": "saturn",
+      "text": "Saturn：S1/S2 空投注册已于 11 月 16 日 14:00 UTC 截止，未注册的积分钱包不再获得分配；Season 2 积分继续累积至 TGE 或 12 月 8 日快照。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 73,
+      "kind": "new",
+      "projectSlug": "axis-robotics",
+      "text": "新收录：Axis Robotics Season 2，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 72,
+      "kind": "new",
+      "projectSlug": "axis-robotics",
+      "text": "新收录 Axis Robotics Season 2：机器人训练任务改按 $AXIS 直接结算、每周可领，6000 万 AXIS 池子，积分制 11 月 14 日已结束。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 71,
+      "kind": "ended",
+      "projectSlug": "ipx-fan-szn",
+      "text": "IPX FAN SZN 冲刺已结束：排行榜 11 月 15 日 23:59 UTC 冻结，11 月 17 日 Drop Day 公布前 350 名结果。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 70,
+      "kind": "update",
+      "projectSlug": "infinifi",
+      "text": "infiniFi：S1/S2 未领取的 INFI 将并入 Season 3 奖励池，Season 3 进行中，TGE 目标 2026 年 Q4，今日 11:00 ET 有官方 Spaces。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 69,
+      "kind": "update",
+      "projectSlug": "flop-labs",
+      "text": "Flop Labs 定档：测试网与空投目标 11 月 24 日启动（暂定，约 90 天），Devnet 已于 11 月 3 日上线，主网/TGE 日期未确认。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 68,
+      "kind": "update",
+      "projectSlug": "zest-protocol",
+      "text": "Zest Season 1 剩余 0.9% 将于 11 月 19 日 12:00 UTC 解锁开放领取，12 月 10 日截止，逾期未领回归社区金库。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 67,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended XTEN 分配查询器已上线：持 Xpoints 用户须在 12 月 31 日 23:59 UTC 前在 App 内签署条款，1 Xpoint ≈ 4.2857 XTEN，TGE 日期待公布。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 66,
+      "kind": "update",
+      "projectSlug": "predict-fun",
+      "text": "Predict.fun 重启 TGE：Season 1 领取 11 月 18 日 9:00 UTC 开启，7000 万 PREDICT 可查分配，35% 立领或 12 期分期，窗口 30 天。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 65,
+      "kind": "deadline",
+      "projectSlug": "treehouse",
+      "text": "Treehouse Season 2 领取 11 月 25 日 7:00 UTC 截止：已于 10 月 26 日全额归属，现在领可一次拿满，逾期回归金库。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 64,
+      "kind": "deadline",
+      "projectSlug": "vearl-testnet",
+      "text": "Vearl 测试网一期 11 月 20 日结束：需满 3 个活跃日并完成奖励地址签名注册，才有资格分 0.7% 的主网供应。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 63,
+      "kind": "deadline",
+      "projectSlug": "fables",
+      "text": "Fables 领取 11 月 20 日截止：FABLES 积分领取与 PROLOGUE 兑换同日关闭，未领额度不再补发。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 62,
+      "kind": "deadline",
+      "projectSlug": "datai",
+      "text": "Datai 领取 11 月 22 日 13:00 UTC 截止：仅 942 个 DATUM 活动钱包可领 40 万 DATAI，须用活动钱包经 Sablier 领取，逾期回归金库。"
+    },
+    {
+      "createdAt": 1794792506267,
+      "id": 61,
+      "kind": "deadline",
+      "projectSlug": "saturn",
+      "text": "Saturn 注册今天截止：11 月 16 日 14:00 UTC（美东 9:00）关闭 Season 1/2 登记，错过不再补；登记不是领取，领币待 TGE 开启。"
+    },
+    {
+      "createdAt": 1794706168082,
+      "id": 60,
+      "kind": "new",
+      "projectSlug": "genius-airdrop",
+      "text": "新收录：Genius 11 月空投，详情页已附保姆级教程与任务清单。"
+    }
+  ],
+  "projects": [
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": 1795352400000,
+      "deadlineLabel": "2026-11-22 21:00（北京时间）领取截止",
+      "description": "Datai Network 的 DATAI 已于 2026-10-22 在 BNB Chain 完成 TGE。DATUM 活动的 942 个合格钱包（10-10 快照）可通过 Sablier 领取共 400,000 DATAI，截止 2026-11-22 13:00 UTC，逾期未领回流金库。领取需用活动原钱包，另付约 1.99 美元等值 BNB 的 Sablier 费用加 gas（金额以领取页为准）。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 4,
+      "name": "Datai",
+      "officialUrl": "https://datai.network/",
+      "potential": 3,
+      "prepItems": [
+        "撸空投专用小号钱包"
+      ],
+      "rewardNote": "DATUM 活动共 400,000 DATAI 分给 942 个合格钱包，按积分平方根分配、单钱包约 397–865 枚，个人份额以 Sablier 领取页显示为准。",
+      "riskItems": [
+        "细节待核实：先看官方规则再行动，不充值、不无限授权"
+      ],
+      "slug": "datai",
+      "sourceName": "链研站 · 零撸空投雷达收录",
+      "sourceUrl": "https://lianyanzhan.com/",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "本站目前只核到截止日期（2026-11-22，来自链研站收录），玩法与官方入口待确认。先去项目官方 X / 官网核对活动状态和任务规则，再决定要不要花时间。",
+          "caution": "任何要求先付费、先授权全部资产的「教程」都不是官方教程。",
+          "id": 15,
+          "title": "先核实，再动手"
+        },
+        {
+          "body": "用空投专用小号钱包参与，主力资产放其他钱包，助记词离线保存。",
+          "caution": null,
+          "id": 16,
+          "title": "准备专用钱包"
+        },
+        {
+          "body": "以官方页面当时的任务说明为准逐项完成（具体任务待确认），做完一项在本站勾一项。",
+          "caution": null,
+          "id": 17,
+          "title": "按官方说明完成任务"
+        },
+        {
+          "body": "日期口径的截止可能在当天任意时点关闭，建议提前一天复查完成状态。",
+          "caution": null,
+          "id": 18,
+          "title": "截止前复查"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 2,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 12,
+          "text": "回官方渠道核对活动状态与截止时间"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 13,
+          "text": "按官方任务说明完成参与步骤（待官方规则确认）"
+        }
+      ],
+      "updatedAt": 1794360539364
+    },
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": 1795590000000,
+      "deadlineLabel": "2026-11-25 15:00（北京时间）领取截止",
+      "description": "Treehouse 的 Season 2 TREE 空投领取进行中：快照为 2026-04-25，总分配 23,100,000 TREE，已于 2026-10-26 全部解锁。在以太坊主网通过官方站 gaiafoundation.xyz 领取，截止 2026-11-25 07:00 UTC，未领回流金库。资格三类：GoNuts 积分满 500、治理投票者、Squirrel Council NFT 持有者。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 5,
+      "name": "Treehouse",
+      "officialUrl": "https://gaiafoundation.xyz",
+      "potential": 3,
+      "prepItems": [
+        "撸空投专用小号钱包"
+      ],
+      "rewardNote": "Season 2 共 23,100,000 TREE，20% 首发 + 80% 线性解锁已于 2026-10-26 全部完成，个人份额以领取页查询为准。",
+      "riskItems": [
+        "细节待核实：先看官方规则再行动，不充值、不无限授权"
+      ],
+      "slug": "treehouse",
+      "sourceName": "链研站 · 零撸空投雷达收录",
+      "sourceUrl": "https://lianyanzhan.com/",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "本站目前只核到截止日期（2026-11-25，来自链研站收录），玩法与官方入口待确认。先去项目官方 X / 官网核对活动状态和任务规则。",
+          "caution": "任何要求先付费、先授权全部资产的「教程」都不是官方教程。",
+          "id": 19,
+          "title": "先核实，再动手"
+        },
+        {
+          "body": "用空投专用小号钱包参与，主力资产放其他钱包，助记词离线保存。",
+          "caution": null,
+          "id": 20,
+          "title": "准备专用钱包"
+        },
+        {
+          "body": "以官方页面当时的任务说明为准逐项完成（具体任务待确认），做完一项在本站勾一项。",
+          "caution": null,
+          "id": 21,
+          "title": "按官方说明完成任务"
+        },
+        {
+          "body": "日期口径的截止可能在当天任意时点关闭，建议提前一天复查完成状态。",
+          "caution": null,
+          "id": 22,
+          "title": "截止前复查"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 2,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 14,
+          "text": "回官方渠道核对活动状态与截止时间"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 15,
+          "text": "按官方任务说明完成参与步骤（待官方规则确认）"
+        }
+      ],
+      "updatedAt": 1794319249583
+    },
+    {
+      "category": "claim",
+      "chain": "Base",
+      "confirmed": true,
+      "cost": "gas_only",
+      "deadlineAt": 1795867200000,
+      "deadlineLabel": "2026-11-28 20:00（北京时间）领取截止",
+      "description": "Doppler Finance 的 Genesis 空投领取在 Base 网络进行，共 1 亿 XDP（占供应量 1%）。只有在 2026-07-30 之前登记过 Base 地址的用户有资格，逾期未领作废。",
+      "doneCount": 0,
+      "favorite": true,
+      "featured": false,
+      "id": 7,
+      "name": "Doppler Finance",
+      "officialUrl": "https://app.doppler.finance/airdrop",
+      "potential": 3,
+      "prepItems": [
+        "2026-07-30 前登记过的那个 Base 地址钱包（换地址查不到资格）",
+        "Base 链少量 ETH 作 gas（领取是链上交易）"
+      ],
+      "rewardNote": "Genesis 空投总量 1 亿 XDP（1% 供应量），个人份额以领取页查询结果为准。",
+      "riskItems": [
+        "资格绑定历史登记地址，新钱包/新地址没有资格",
+        "领取页只认官方链接；任何要你先转账「激活」的都是骗局"
+      ],
+      "slug": "doppler-finance",
+      "sourceName": "Bittime 2026 年 11 月空投日历",
+      "sourceUrl": "https://www.bittime.com/en/blog/airdrop-november-2026",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "资格只认 2026-07-30 之前登记过的 Base 地址。先想清楚当时登记的是哪个钱包，用错地址查询只会显示无资格。",
+          "caution": null,
+          "id": 27,
+          "title": "确认资格地址"
+        },
+        {
+          "body": "领取是 Base 网络上的链上交易，需要少量 ETH 付 gas。提前把一点 ETH 备在该地址的 Base 网络下，别等领取时才发现付不了手续费。",
+          "caution": null,
+          "id": 28,
+          "title": "准备 Base 链 gas"
+        },
+        {
+          "body": "只从 Doppler Finance 官方公告 / 官网进入领取页（本站暂未核到直达链接，标注待确认），连接资格钱包，先看页面显示的可领数量再操作。",
+          "caution": "领取季钓鱼站极多：域名多一个字母、社群私发的链接，都不要连钱包。",
+          "id": 29,
+          "title": "从官方入口进入领取页"
+        },
+        {
+          "body": "点领取、签名并支付 gas，交易确认后在钱包的 Base 网络下核对 XDP 余额。截止 2026-11-28 20:00（北京时间），逾期未领直接作废。",
+          "caution": null,
+          "id": 30,
+          "title": "领取并核对到账"
+        }
+      ],
+      "symbol": "XDP",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 20,
+          "text": "用登记过的 Base 地址查资格"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 21,
+          "text": "备好 Base 链 gas（少量 ETH）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 22,
+          "text": "在 11-28 20:00 前完成领取"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 23,
+          "text": "领取后在钱包里核对 XDP 到账"
+        }
+      ],
+      "updatedAt": 1794319249583
+    },
+    {
+      "category": "points",
+      "chain": "Incentiv",
+      "confirmed": false,
+      "cost": "gas_only",
+      "deadlineAt": 1796032800000,
+      "deadlineLabel": "Epoch 0 截止 11 月 30 日 10:00 UTC（第三方转述官方公告，待官方页复核）",
+      "description": "已上线主网的 EVM PoW Layer 1，在 Portal 做链上操作赚 XP，按赛季末 Tier 倍率折算 $CENT 奖励；Epoch 0 将于 11 月 30 日结束。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 16,
+      "name": "Incentiv",
+      "officialUrl": "https://portal.incentiv.io/",
+      "potential": 2,
+      "prepItems": [
+        "可支付少量主网 gas 的钱包（金额待确认）",
+        "Incentiv Portal 账号"
+      ],
+      "rewardNote": "官方文档只确认赛季末最终 XP（含 Tier 倍率）用于计算奖励份额（Diamond 前 1% 为 2.0×、Gold 前 5% 为 1.5×、Silver 前 20% 为 1.3×、Bronze 1.0×）；8500 万 CENT 总池、1000 XP 门槛、3 个月 cliff+12 个月线性解锁均为第三方转述，未在官方文档页直接读到原文。",
+      "riskItems": [
+        "截止日、1000 XP 门槛、8500 万 CENT、3 个月 cliff+12 个月线性解锁均为第三方转述官方公告，本次未在官方文档页直接读到原文",
+        "是主网真 gas 成本，不是纯测试网零成本；刷量可能 gas 花费大于奖励",
+        "CENT 已上线交易、价格波动大，奖励份额未定",
+        "领取流程未公布，警惕假冒领取站"
+      ],
+      "slug": "incentiv",
+      "sourceName": "Incentiv 官方文档《Season Rewards Guide》（2026-11-05 更新）",
+      "sourceUrl": "https://incentiv.io/docs/GetStarted/Rewards/xp-tiers.html",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 https://portal.incentiv.io/，按页面指引创建/连接智能钱包。",
+          "caution": "只认 incentiv.io / portal.incentiv.io 域名，勿点社群转发的所谓领取链接；不要提供助记词。",
+          "id": 66,
+          "title": "进官方 Portal 注册"
+        },
+        {
+          "body": "按官方 Season Rewards Guide，XP 来自链上操作、徽章、Mystery Box、推荐；官方建议每日 20+ 笔交易可冲击更高 XP 档位。",
+          "caution": "具体每类操作给多少 XP、哪些操作计分，官方该页未列明细，待确认，不要按第三方清单照抄数字。",
+          "id": 67,
+          "title": "做链上操作攒 XP"
+        },
+        {
+          "body": "排行榜是动态的，赛季末按排名定倍率（Diamond 2.0× / Gold 1.5× / Silver 1.3×）。",
+          "caution": "最后几天不活跃会被别人反超，倍率会掉。",
+          "id": 68,
+          "title": "保住 Tier 排名"
+        },
+        {
+          "body": "推荐可加 XP；每攒够一定操作可开 Mystery Box。",
+          "caution": "用 XP 买盒子是否划算官方未给结论，待确认，不要为开盒子多花 gas。",
+          "id": 69,
+          "title": "（可选）推荐与 Mystery Box"
+        },
+        {
+          "body": "奖励分配与领取流程官方尚未公布，等待官方公告。",
+          "caution": "在官方公布领取页之前，任何提前出现的“CENT 领取”链接均为可疑链接。",
+          "id": 70,
+          "title": "等 Epoch 0 结束后的官方领取通知"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": "portal.incentiv.io，按官方指引完成",
+          "done": false,
+          "id": 59,
+          "text": "Portal 注册并建钱包"
+        },
+        {
+          "detail": "官方建议 20+ 笔/天冲击高档位；具体计分规则待确认",
+          "done": false,
+          "id": 60,
+          "text": "每日链上操作攒 XP"
+        },
+        {
+          "detail": "目标至少 Silver 前 20%，争取 1.3×",
+          "done": false,
+          "id": 61,
+          "text": "维持排行榜 Tier"
+        },
+        {
+          "detail": "推荐奖励计入总 XP，具体比例待确认",
+          "done": false,
+          "id": 62,
+          "text": "推荐新用户"
+        }
+      ],
+      "updatedAt": 1794360539364
+    },
+    {
+      "category": "points",
+      "chain": "LitVM（LiteForge 测试网）",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1796047200000,
+      "deadlineLabel": "Token Quest 截止 2026-11-30 14:00 UTC；Bonus Epoch 结束日待确认",
+      "description": "LitVM 上的硬件/RWA 发射台，激励测试网 Airdrop ZERO 共 1.5 亿 AURA（占总量 30%），最后一期 Bonus Epoch 进行中，每笔测试网交易 15 分，满 10,000 分才有资格。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 29,
+      "name": "Aura Protocol",
+      "officialUrl": "https://beta.auralaunch.org/incentives",
+      "potential": 3,
+      "prepItems": [
+        "EVM 钱包（建议全新小号）",
+        "X 账号（必须绑定，否则无资格）",
+        "测试币 zkLTC（水龙头免费领）",
+        "接受：积分不等于代币，TGE/领取日均未公布"
+      ],
+      "rewardNote": "Airdrop ZERO 共 1.5 亿 AURA（占总量 30%）；须满 10,000 分且至少 1 笔 dApp 交易并通过反女巫检查；积分换算比例、TGE 与领取日均待官方公布。",
+      "riskItems": [
+        "官方有付费 Booster（每级约 1/2/4 美元，用 Arbitrum One 上的 ETH 支付），不保证能换成 AURA，零撸路线请跳过所有付费项。",
+        "团队匿名：官网、文档、条款均未具名团队成员与公司，未公布审计机构。",
+        "无 TGE/领取/换算时间表：Bonus Epoch 结束日、快照、代币上线、领取均未公布，积分最终可能价值为零。",
+        "官方 X 曾发过假 Litecoin 安全警报后称是“玩笑”，信息以官网文档为准。"
+      ],
+      "slug": "aura-protocol",
+      "sourceName": "99airdrops《Aura Protocol Airdrop Guide》",
+      "sourceUrl": "https://99airdrops.com/airdrops/aura-protocol/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "在钱包中添加 Chain ID 4441、Gas 币 zkLTC 的 LitVM LiteForge 测试网。",
+          "caution": "RPC 已从旧 Caldera 地址迁移至 Zeeve，请以 LitVM 官方文档 docs.litvm.com 复核最新地址后再填，不要用旧的 Caldera 地址。",
+          "id": 125,
+          "title": "添加 LiteForge 测试网"
+        },
+        {
+          "body": "在激励面板 https://beta.auralaunch.org/incentives 上的水龙头免费领取 zkLTC。",
+          "caution": "每钱包每 6 小时可领一次（以页面实际显示为准）；全程只用测试币，不花真钱。",
+          "id": 126,
+          "title": "领取测试币 zkLTC"
+        },
+        {
+          "body": "打开激励面板，连接钱包并绑定 X 账号。",
+          "caution": "市面上有多个同名 Aura 项目，只认 auralaunch.org、beta.auralaunch.org、x.com/auralaunchorg，任何地方都不要输入助记词。",
+          "id": 127,
+          "title": "连接钱包并绑定 X"
+        },
+        {
+          "body": "按页面提示完成人性验证（humanity check），然后领取每日登录奖励。",
+          "caution": "指南称人性验证值 5,000 分，以页面实际显示为准；验证服务商与具体形式待确认。",
+          "id": 128,
+          "title": "完成人性验证并领每日登录奖励"
+        },
+        {
+          "body": "质押、投票、参与测试发售或部署代币，每笔交易 15 分；另可做免费社交任务。目标：至少 10,000 分＋至少 1 笔 dApp 交易＋通过反机器人/反女巫检查。",
+          "caution": "低于 10,000 分无奖励；积分不是 1:1 兑换 AURA，官方未公布换算比例。",
+          "id": 129,
+          "title": "刷测试网交易攒分"
+        },
+        {
+          "body": "2026-11-09 至 2026-11-30 14:00 UTC 期间：部署一个代币，然后在 https://litvmswap.com/pools 上建池加流动性，再发帖到 X。",
+          "caution": "具体评选标准待确认，以官方 X 的 Token Quest 原帖为准。",
+          "id": 130,
+          "title": "可选参加 Token Quest"
+        }
+      ],
+      "symbol": "AURA",
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 112,
+          "text": "添加 LiteForge 测试网（Chain ID 4441）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 113,
+          "text": "水龙头领取 zkLTC（每 6 小时可领一次，以页面为准）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 114,
+          "text": "连接激励面板并绑定 X 账号"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 115,
+          "text": "完成人性验证并领取每日登录奖励"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 116,
+          "text": "做测试网交易（质押/投票/测试发售/部署代币），攒满 10,000 分"
+        },
+        {
+          "detail": "奖品为 10 万 AURA 积分＋50 zkLTC 奖池（zkLTC 为测试币），评选标准待确认",
+          "done": false,
+          "id": 117,
+          "text": "可选：11 月 30 日 14:00 UTC 前参加 Token Quest（部署代币＋加池＋发 X）"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "多链",
+      "confirmed": false,
+      "cost": "mixed",
+      "deadlineAt": 1796101140000,
+      "deadlineLabel": "2026-11-30 23:59 EST（= 12 月 1 日 04:59 UTC）",
+      "description": "Genius v2 抵押品空投：11 月 2–30 日（美东时间）存入 WBTC 或支持的美元稳定币，按当日合资格存款占比分享每天 10 万亿积分，积分用于计算 Genius v2 的 Genius Credit 分配；积分本身不是代币。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 24,
+      "name": "Genius 11 月空投",
+      "officialUrl": "https://www.geniusairdrop.com/",
+      "potential": 2,
+      "prepItems": [
+        "EVM 兼容钱包",
+        "WBTC 或支持的美元稳定币（可参与的存款资产）",
+        "注意：存款为真实资金，非零成本"
+      ],
+      "rewardNote": "每天 10 万亿积分按当日存款占比分配；积分用于计算 Genius Credit 额度，非可交易代币",
+      "riskItems": [
+        "积分不是 GENI 代币，无内在货币价值，兑换为 Genius Credit 的方式待公布",
+        "参与需存入真实资金，面临智能合约风险与资产波动",
+        "11 月 26 日安全审查完成仅为目标时间，可能变动"
+      ],
+      "slug": "genius-airdrop",
+      "sourceName": "Genius 官网",
+      "sourceUrl": "https://www.geniusairdrop.com/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 geniusairdrop.com，用 EVM 兼容钱包参与。",
+          "caution": "只用官网链接，勿点私信或广告里的所谓领取链接。",
+          "id": 105,
+          "title": "打开官网并连接钱包"
+        },
+        {
+          "body": "存入 WBTC 或支持的美元稳定币，当日积分 = 10 万亿 × 本人合资格存款 ÷ 当日全部合资格存款。",
+          "caution": "最低存款额与支持的稳定币清单待确认，以官网为准；存款面临智能合约与资产价格风险。",
+          "id": 106,
+          "title": "存入合资格资产"
+        },
+        {
+          "body": "积分按日记录；11 月 23 日计划更新分配情况，11 月 26 日为安全审查完成目标（可能变动）。",
+          "caution": "分配报告发布前无法核对个人积分是否准确。",
+          "id": 107,
+          "title": "等待每日积分与分配报告"
+        },
+        {
+          "body": "窗口于 11 月 30 日 23:59 EST 关闭，之后不再累计积分。",
+          "caution": "积分只是分配记录，领取 Genius Credit 的具体方式待官方后续公布。",
+          "id": 108,
+          "title": "11 月 30 日前完成参与"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 93,
+          "text": "连接 EVM 钱包"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 94,
+          "text": "存入 WBTC 或支持的美元稳定币"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 95,
+          "text": "11 月 30 日前保持存款参与每日分配"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 96,
+          "text": "查看 11 月 23 日分配更新"
+        }
+      ],
+      "updatedAt": 1794706168082
+    },
+    {
+      "category": "claim",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1796385600000,
+      "deadlineLabel": "2026-12-04 20:00（北京时间）领取截止",
+      "description": "永续 DEX Aster 的 Stage 6（Convergence）空投领取已开放：本阶段分发 6,400 万枚 ASTER（占总供应 0.8%），积分达到 10,000 的参与者可领，100% 已解锁部分直接到 Aster 应用内现货余额。",
+      "doneCount": 0,
+      "favorite": true,
+      "featured": true,
+      "id": 8,
+      "name": "Aster Stage 6",
+      "officialUrl": "https://www.asterdex.com/en/airdrop",
+      "potential": 5,
+      "prepItems": [
+        "参与 Stage 6 刷积分的原钱包（积分 ≥ 10,000 才有资格）",
+        "认准官方域名 asterdex.com，其他域名都是仿冒"
+      ],
+      "rewardNote": "Stage 6 共分发 64,000,000 ASTER（0.8% 总供应），门槛为 10,000 积分，个人份额以领取页显示为准。",
+      "riskItems": [
+        "领取窗口只有 30 天，逾期未领失效",
+        "Aster 是钓鱼重灾区：只从官网或官方 X 进链接，不点搜索广告"
+      ],
+      "slug": "aster-stage-6",
+      "sourceName": "Bittime Aster Stage 6 领取指南",
+      "sourceUrl": "https://www.bittime.com/en/blog/cara-claim-airdrop-aster-stage-6",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "手动输入 asterdex.com 打开 Aster 官网（本站详情页的官方入口按钮也是这个域名）。不要从搜索引擎广告位、社群链接或陌生人私信进入。",
+          "caution": "仿冒 Aster 站会做得一模一样，唯一的区别在域名——逐字核对。",
+          "id": 31,
+          "title": "认准官网域名"
+        },
+        {
+          "body": "连接你 Stage 6 期间刷积分的那个钱包。积分和资格都绑定原地址，新钱包查不到任何份额。",
+          "caution": null,
+          "id": 32,
+          "title": "连接参与钱包"
+        },
+        {
+          "body": "在官网的空投 / Stage 6 领取入口查看可领数量：门槛是 10,000 积分，本阶段总分发 6,400 万 ASTER。如果显示为 0，先确认登录的是不是原钱包、积分是否达标。",
+          "caution": null,
+          "id": 33,
+          "title": "进入 Stage 6 领取页查份额"
+        },
+        {
+          "body": "点领取并按提示确认。按官方口径，本窗口领取的是 100% 已解锁部分，领取后直接进入你在 Aster 应用内的现货余额，不再有额外锁仓。",
+          "caution": null,
+          "id": 34,
+          "title": "领取到现货余额"
+        },
+        {
+          "body": "到 Aster 的现货账户里核对 ASTER 余额并截图保存。窗口 2026-12-04 20:00（北京时间）关闭，逾期未领失效，别等最后一天。",
+          "caution": null,
+          "id": 35,
+          "title": "核对到账"
+        }
+      ],
+      "symbol": "ASTER",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": "门槛 10,000 积分",
+          "done": false,
+          "id": 24,
+          "text": "用原钱包在 asterdex.com 查 Stage 6 资格"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 25,
+          "text": "核对页面显示的可领数量"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 26,
+          "text": "在 12-04 20:00 前完成领取"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 27,
+          "text": "在 Aster 现货余额里核对 ASTER 到账"
+        }
+      ],
+      "updatedAt": 1794360539364
+    },
+    {
+      "category": "testnet",
+      "chain": "HyperEVM 测试网",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1796583600000,
+      "deadlineLabel": "2026-12-06 19:00 UTC（Season 0 结束）",
+      "description": "Hyperliquid 生态的 AI 交易员市场；Season 0 为纸上交易赛，在 HyperEVM 测试网进行，零资金参与。仅面向能自备可交易 agent 的开发者，普通用户参与门槛高。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 33,
+      "name": "Agent Circle（Circle Arena Season 0）",
+      "officialUrl": "https://agentscircle.network",
+      "potential": 2,
+      "prepItems": [
+        "自备可交易的 AI agent（需在自有基础设施上运行）",
+        "在 agentscircle.network 加入 waitlist 并选择「I'm a builder」",
+        "妥善保存只显示一次的 Season 0 入场密钥"
+      ],
+      "rewardNote": "Season 0 无现金奖励；参赛者加入创始 builder 队列、赚 Season 0 积分，主网上线时排名靠前者优先获得上架资格。",
+      "riskItems": [
+        "仅面向开发者：没有可交易 agent 的普通用户无法参与",
+        "Season 0 无现金奖励，奖励与主网转化规则未公布",
+        "trader 一侧的具体参与步骤官方文档未展开，待确认"
+      ],
+      "slug": "agent-circle",
+      "sourceName": "Agent Circle 官方文档",
+      "sourceUrl": "https://agentscircle.udokaam.dev/quickstart",
+      "status": "active",
+      "steps": [
+        {
+          "body": "在 agentscircle.network 加入 waitlist，选择「I'm a builder」；入场密钥只显示一次，收到后妥善保存。",
+          "caution": null,
+          "id": 146,
+          "title": "加入 waitlist 拿入场密钥"
+        },
+        {
+          "body": "把自己的 agent 接入 Arena API，用入场密钥发送第一笔纸上交易订单。Season 0 为纸上交易，无资金风险。",
+          "caution": null,
+          "id": 147,
+          "title": "接入自己的 agent"
+        },
+        {
+          "body": "按回撤调整后净收益每日更新排行榜；至少在 10 个不同 UTC 日有成交、且在至少 20% 的分钟标记有持仓或挂单才有排名。注意：11 月 27 日之后首次交易将无法凑满 10 天。",
+          "caution": null,
+          "id": 148,
+          "title": "按排行榜规则冲榜"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 131,
+          "text": "加入 waitlist，保存入场密钥"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 132,
+          "text": "接入 agent 并发送第一笔纸上订单"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 133,
+          "text": "保持多日交易以满足排名门槛"
+        }
+      ],
+      "updatedAt": 1795224538765
+    },
+    {
+      "category": "claim",
+      "chain": "Stacks",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1796918340000,
+      "deadlineLabel": "领取已于 11 月 19 日 12:00 UTC 开放，截止 12 月 10 日（官方只给日期；15:59 UTC 为北京时间 23:59 折算口径）",
+      "description": "Zest Season 1 空投（占总量 0.9%）已于 11 月 19 日 12:00 UTC 开放领取，须在 12 月 10 日前领取，逾期未领回流社区金库。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 19,
+      "name": "Zest Protocol（ZEST）",
+      "officialUrl": "https://app.zestprotocol.com",
+      "potential": 3,
+      "prepItems": [
+        "5 月 13 日快照时在 Zest 积分榜上有排名的钱包",
+        "快照时有未结供应头寸可享 1.25× 加成（已成定局，无法补做）",
+        "用于领取的 gas 费（具体链与费用待确认）"
+      ],
+      "rewardNote": "Season 1 空投为总供应 1%，剩余 0.9% 于 11 月 19 日解锁",
+      "riskItems": [
+        "快照已于 5 月 13 日完成，新用户无法参与本轮",
+        "12 月 10 日后未领份额回归社区金库",
+        "领取的具体 gas 与链上流程官方尚未公布，以 11 月 19 日页面实际流程为准"
+      ],
+      "slug": "zest-protocol",
+      "sourceName": "Zest Protocol 官方文档",
+      "sourceUrl": "https://docs.zestprotocol.com/zest-token/airdrop",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "打开 app.zestprotocol.com（Zest Protocol 官方 Points 页面），连接 5 月 13 日快照时参与积分的钱包。",
+          "caution": "只认官方域名，勿点私信或广告里的领取链接。",
+          "id": 79,
+          "title": "打开官方 Points 页面"
+        },
+        {
+          "body": "在 Points 页面查看自己的 Season 1 分配：按积分线性分配，单个钱包上限为总空投的 5%，快照时有未结供应头寸享 1.25×，Genesis NFT 另有 1.5×–1.7× 加成。",
+          "caution": "机构流动性提供者单独处理，不在公开积分分配内。",
+          "id": 80,
+          "title": "查看 Season 1 分配"
+        },
+        {
+          "body": "剩余 0.9% 份额于 11 月 19 日解锁后可领，领取截止 12 月 10 日。10% 份额已在 TGE 解锁。",
+          "caution": "12 月 10 日后未领取的份额回归社区金库，不可补领。",
+          "id": 81,
+          "title": "11 月 19 日解锁后领取"
+        },
+        {
+          "body": "官方文档未公布领取的具体链上操作与 gas 要求，11 月 19 日解锁时以 Points 页面实际流程为准。",
+          "caution": "领取前请核对官方公告，勿提前签署不明合约。",
+          "id": 82,
+          "title": "领取细节待确认"
+        }
+      ],
+      "symbol": "ZEST",
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": "app.zestprotocol.com Points 页面",
+          "done": false,
+          "id": 71,
+          "text": "连接快照钱包查看 Season 1 分配"
+        },
+        {
+          "detail": "截止 12 月 10 日",
+          "done": false,
+          "id": 72,
+          "text": "11 月 19 日解锁后领取剩余 0.9% 份额"
+        },
+        {
+          "detail": "持仓 1.25×，Genesis NFT 1.5×–1.7×",
+          "done": false,
+          "id": 73,
+          "text": "核对是否享有持仓/NFT 加成"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "PLX Chain（规划中，尚未上线）",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": 1796947140000,
+      "deadlineLabel": "2026-12-10 23:59 UTC",
+      "description": "PLX Network 手机云挖矿应用的首场积分排行榜活动 Drop 01：11 月 10 日–12 月 10 日，30 万 PLX 分给排行榜前 1500 名，须满 15 个活跃日和 3000 分；12 月 13 日公布获奖者，12 月 14 日起发放。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 22,
+      "name": "PLX Network 创世空投 Drop 01",
+      "officialUrl": "https://www.plxnetwork.com",
+      "potential": 2,
+      "prepItems": [
+        "一部安卓手机，从官网 Google Play 官方链接下载 PLX 应用，勿用第三方 APK",
+        "邮箱注册账号，一人一号一设备",
+        "每天预留时间做签到与挖矿领取"
+      ],
+      "rewardNote": "30 万 PLX 分给前 1500 名，第 1 名 5 万 PLX，1001–1500 名每人 20 PLX；仅限排行榜名次内发放",
+      "riskItems": [
+        "PLX 链仍在开发中，无已核实的代币合约与交易所上线，应用内余额不等于可转让代币",
+        "官方公布的代币分配比例合计 102%，超过 10 亿上限，分配表待官方修正",
+        "排行榜奖励合计 29 万 PLX，与公布的 30 万奖池有 1 万缺口，待官方说明",
+        "12 月 14 日发放不等于 TGE 或上线交易，变现时间待确认"
+      ],
+      "slug": "plx-genesis-drop",
+      "sourceName": "CoinGabbar（援引 PLX 官方 X 与官网）",
+      "sourceUrl": "https://www.coingabbar.com/en/crypto-airdrops/plx-network-airdrop",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开官网 www.plxnetwork.com，按官方 Google Play 安装链接下载应用并用邮箱注册账号。",
+          "caution": "只用官网链接，勿下载第三方 APK；一人一号一设备，模拟器与虚假注册会被取消资格。",
+          "id": 94,
+          "title": "下载官方应用并注册"
+        },
+        {
+          "body": "每天开启一次挖矿会话并完成领取（100 分），再完成每日签到（100 分），每天共 200 分。",
+          "caution": "15 天每天两项全做正好攒满 3000 分底线；漏一天就需靠连胜或周挑战补分。",
+          "id": 95,
+          "title": "每日挖矿与签到"
+        },
+        {
+          "body": "连续签到 7/14/21/30 天分别奖励 500/1000/1500/3000 分（以应用内实际规则为准）。",
+          "caution": "中途断签是否重置连胜，待确认——以应用内规则为准。",
+          "id": 96,
+          "title": "攒连胜奖励"
+        },
+        {
+          "body": "第 1 周 Ignite（11 月 10–17 日，5 天签到）、第 2 周 Streak（11 月 17–24 日，7 天全签到）、第 3 周 Referral Rush（11 月 24 日–12 月 1 日，邀请至少 1 位核实好友，推荐分翻倍）、第 4 周 Power Boost（12 月 1–8 日，看 40 条奖励广告，广告分 1.5 倍），每项 500 分；12 月 8–10 日为最后冲刺。",
+          "caution": "每周挑战的具体完成判定以应用内显示为准。",
+          "id": 97,
+          "title": "完成每周挑战"
+        },
+        {
+          "body": "每位核实推荐 100 分，上限 20 人；被邀请人需活跃 3 天后才计入。",
+          "caution": "第 3 周推荐分翻倍；虚假账号会被取消资格。",
+          "id": 98,
+          "title": "邀请核实好友（可选）"
+        },
+        {
+          "body": "12 月 10 日 23:59 UTC 前在应用内确认积分、活跃天数与排行榜名次；仅前 1500 名获奖，12 月 13 日公布，12 月 14 日起发放。",
+          "caution": "只满 3000 分不够，必须进前 1500 名才有奖。",
+          "id": 99,
+          "title": "截止前核对排名"
+        }
+      ],
+      "symbol": "PLX",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 84,
+          "text": "每日挖矿领取（100 分）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 85,
+          "text": "每日签到（100 分）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 86,
+          "text": "完成每周挑战（每项 500 分）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 87,
+          "text": "攒满 15 个活跃日与 3000 分"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 88,
+          "text": "12 月 10 日前确认排行榜名次"
+        }
+      ],
+      "updatedAt": 1794706168082
+    },
+    {
+      "category": "claim",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1798704000000,
+      "deadlineLabel": "2026-12-31 16:00（北京时间）领取截止",
+      "description": "StandX 已取消代币发行，改为一次性发放 DUSD 稳定币空投，无锁仓；领取窗口 11 月 2 日至 12 月 31 日 08:00 UTC。注意：平台逐步关停，持仓 2027 年 1 月 15 日平仓，DUSD 赎回与提现 2027 年 1 月 31 日截止，领到后尽早赎回。",
+      "doneCount": 0,
+      "favorite": true,
+      "featured": false,
+      "id": 9,
+      "name": "StandX",
+      "officialUrl": "https://standx.com/airdrop",
+      "potential": 4,
+      "prepItems": [
+        "参与过 StandX 的原钱包"
+      ],
+      "rewardNote": "一次性 DUSD 稳定币分配，无锁仓；个人金额以领取页查询为准。",
+      "riskItems": [
+        "未领份额逾期作废，没有补领通道",
+        "领取入口只认官方链接，警惕仿冒领取页骗授权"
+      ],
+      "slug": "standx",
+      "sourceName": "Bittime 2026 年 11 月空投日历",
+      "sourceUrl": "https://www.bittime.com/en/blog/airdrop-november-2026",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "用参与 StandX 时的钱包从官方渠道进入领取页（本站暂未核到直达链接，标注待确认），先看分配给你的 DUSD 数量。",
+          "caution": null,
+          "id": 36,
+          "title": "查额度"
+        },
+        {
+          "body": "按页面提示领取。本次是一次性稳定币分配、没有锁仓，领取动作本身不应要求你先存入任何资金。",
+          "caution": "凡是「先充值才能领」的页面都是仿冒站，立即关掉。",
+          "id": 37,
+          "title": "领取"
+        },
+        {
+          "body": "领取后在钱包 / 平台账户里核对 DUSD 余额。窗口到 2026-12-31 16:00（北京时间）关闭，未领作废。",
+          "caution": null,
+          "id": 38,
+          "title": "核对到账"
+        }
+      ],
+      "symbol": "DUSD",
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 28,
+          "text": "用原钱包查 DUSD 分配额度"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 29,
+          "text": "在 12-31 16:00 前完成领取"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 30,
+          "text": "核对 DUSD 到账"
+        }
+      ],
+      "updatedAt": 1794878948274
+    },
+    {
+      "category": "claim",
+      "chain": "Arc",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1798761540000,
+      "deadlineLabel": "2026-12-31 23:59 UTC 为签署 XTEN 分配条款截止日，TGE 日期待官方另行公布",
+      "description": "XTEN 分配查询器已上线，符合资格的 Xpoints 持有者须在 12 月 31 日 23:59 UTC 前签署条款查看分配，逾期分配转入生态基金；TGE 日期尚未公布。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 18,
+      "name": "Extended（XTEN）",
+      "officialUrl": "https://extended.exchange",
+      "potential": 4,
+      "prepItems": [
+        "此前参与 Extended Xpoints 积分计划的账号（11 月 6 日 00:00 UTC 快照时积分余额为正）",
+        "登录 Extended App 的账号与钱包",
+        "曾用 Starknet 账号者需准备一个自托管 EVM 钱包作为接收地址（具体指定流程待确认）"
+      ],
+      "rewardNote": "3 亿 XTEN（30% 创世供应），1 Xpoint ≈ 4.2857 XTEN，TGE 全额解锁",
+      "riskItems": [
+        "积分计划已于 11 月 2 日结束，新用户无法再赚 Xpoints；只有快照时有积分余额的账号可参与",
+        "TGE 日期未公布，XTEN 价格与上线时间均待确认",
+        "只在 extended.exchange 官方 App 内签署，任何收费或索要助记词的均为诈骗"
+      ],
+      "slug": "extended-xten",
+      "sourceName": "Airdrops.io",
+      "sourceUrl": "http://airdrops.io/extended/",
+      "status": "tge_soon",
+      "steps": [
+        {
+          "body": "在浏览器打开 extended.exchange，登录此前参与 Xpoints 计划的账号。只通过官方 App 操作，不要点击回复、私信或广告里的链接。",
+          "caution": "Extended 不会主动私信索要助记词或收费。",
+          "id": 75,
+          "title": "打开官方 Extended App"
+        },
+        {
+          "body": "App 内会提示接受 XTEN Community Distribution Terms（社区分配条款），按提示签署。签署免费、无需 gas，窗口为 11 月 11 日至 12 月 31 日 23:59 UTC。",
+          "caution": "12 月 31 日 23:59 UTC 前未签署，份额将划归生态基金。",
+          "id": 76,
+          "title": "签署社区分配条款"
+        },
+        {
+          "body": "签署条款后即可在 App 内查看自己的 XTEN 分配（约 1 Xpoint = 4.2857 XTEN）。",
+          "caution": "分配以 11 月 6 日 00:00 UTC 快照为准。",
+          "id": 77,
+          "title": "查看 XTEN 分配"
+        },
+        {
+          "body": "XTEN 的 TGE 日期尚未公布，官方称将另行公告；签署条款后按官方后续通知领取。TGE 时间、领取流程待确认。",
+          "caution": "在官方公布前，任何声称可提前领取 XTEN 的页面均为假冒。",
+          "id": 78,
+          "title": "等待 TGE 公告"
+        }
+      ],
+      "symbol": "XTEN",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": "11 月 11 日至 12 月 31 日 23:59 UTC，免费签署",
+          "done": false,
+          "id": 67,
+          "text": "在 Extended App 内签署社区分配条款"
+        },
+        {
+          "detail": "约 1 Xpoint = 4.2857 XTEN",
+          "done": false,
+          "id": 68,
+          "text": "签署后查看 XTEN 分配"
+        },
+        {
+          "detail": "按 App 内提示操作",
+          "done": false,
+          "id": 69,
+          "text": "Starknet 账号用户指定自托管 EVM 接收钱包"
+        },
+        {
+          "detail": "TGE 日期待公布",
+          "done": false,
+          "id": 70,
+          "text": "关注官方 TGE 日期公告"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "claim",
+      "chain": "Solana",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1800633540000,
+      "deadlineLabel": "2027-01-22（官方只给日期，按北京时间当日 23:59 折算；满 6 个月或全部领完时提前结束，以先到者为准）",
+      "description": "分享闲置带宽的老牌项目 Grass，Stage 2 奖励以 USDC（非 GRASS 代币）发放；仅限 2024-10-14 至 2026-06-08（Epoch 1–19）赚到 Network Points 的老用户领取，新用户无法参与。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 31,
+      "name": "Grass Stage 2",
+      "officialUrl": "https://app.grass.io/dashboard",
+      "potential": 3,
+      "prepItems": [
+        "赚积分的 Grass 账号",
+        "对应的非托管钱包",
+        "手动输入官网地址的习惯"
+      ],
+      "rewardNote": "Stage 2 奖励以 USDC 发放，金额以分配页显示为准；过期未领的奖励归项目方所有。",
+      "riskItems": [
+        "假冒领取站高发，只认 app.grass.io/dashboard",
+        "官方从不索要助记词/私钥",
+        "截止日无具体小时、可能提前结束，过期未领归项目方所有",
+        "无 Season 3/下一轮分配的官方消息，不要为“下一轮”付费或刷量"
+      ],
+      "slug": "grass-stage-2",
+      "sourceName": "Grass 官方 Dashboard（Stage 2 奖励页）",
+      "sourceUrl": "https://app.grass.io/dashboard",
+      "status": "claimable",
+      "steps": [
+        {
+          "body": "确认自己在 Epoch 1–19 期间 Network Points 大于 0、且不在受限司法辖区；准备好当时赚积分的 Grass 账号与钱包。新注册或零积分账号无资格，不要信任何“补领/代领”。",
+          "caution": "资格以官方页面显示为准，核不到的不猜。",
+          "id": 136,
+          "title": "确认资格"
+        },
+        {
+          "body": "手动输入 https://app.grass.io/dashboard 打开，用赚积分的账号登录。",
+          "caution": "只认这一个站，不要点 X 回复、私信里的任何领取链接；官方从不私信索要助记词。",
+          "id": 137,
+          "title": "打开官方 Dashboard"
+        },
+        {
+          "body": "进入 Allocation（分配）页核对 USDC 金额，确认领取。",
+          "caution": "领取金额、到账链上细节以页面显示为准，待确认项不要猜。",
+          "id": 138,
+          "title": "核对并确认领取"
+        },
+        {
+          "body": "领取后核对钱包 USDC 到账情况。",
+          "caution": "不要拖到最后一天——官方未公布截止小时，且可能提前结束。",
+          "id": 139,
+          "title": "核对钱包到账"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 123,
+          "text": "登录官方 Dashboard 核对领取资格"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 124,
+          "text": "在 Allocation 页确认并领取 USDC"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 125,
+          "text": "核对钱包 USDC 到账"
+        }
+      ],
+      "updatedAt": 1795138205842
+    },
+    {
+      "category": "testnet",
+      "chain": "Sepolia / Mitosis Testnet",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "流动性协议 Mitosis 的激励测试网：从 Sepolia 水龙头领测试币，到 testnet.mitosis.org 连接钱包领取测试代币（限领 10 次）并做交互。项目方已确认有空投，测试网全程零成本。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": true,
+      "id": 10,
+      "name": "Mitosis 测试网",
+      "officialUrl": "https://testnet.mitosis.org",
+      "potential": 4,
+      "prepItems": [
+        "EVM 钱包小号（如 MetaMask），提前添加 Sepolia 测试网",
+        "Sepolia 测试 ETH：从水龙头免费领，不需要真金白银",
+        "不需要任何主网资产，凡是让你先充真钱的都不是测试网玩法"
+      ],
+      "rewardNote": null,
+      "riskItems": [
+        "测试币没有价值，任何「出售测试币/代领」都是骗局",
+        "水龙头只用官方或主流公共水龙头，别在陌生站连主钱包"
+      ],
+      "slug": "mitosis-mito",
+      "sourceName": "Maran's Crypto 测试网教程（Typefully）",
+      "sourceUrl": "https://typefully.com/MaransCrypto/guide-to-mito-testnet-airdrop-and-farming-IFLXdHK",
+      "status": "active",
+      "steps": [
+        {
+          "body": "用空投专用 EVM 钱包，在钱包的网络列表里切换到 Sepolia 测试网。没有这个网络就在钱包设置里手动添加（参数以钱包内置列表为准）。",
+          "caution": null,
+          "id": 39,
+          "title": "准备钱包并切到 Sepolia"
+        },
+        {
+          "body": "去 Sepolia 水龙头（faucet）输入钱包地址领测试 ETH，免费。水龙头地址以 Mitosis 官方文档/教程给出的为准（具体链接待确认）；领不到就换一个公共水龙头，测试币全网互通。",
+          "caution": "水龙头只需要你的地址，不需要助记词、不需要签名授权。要你导入助记词的「水龙头」是盗币站。",
+          "id": 40,
+          "title": "领 Sepolia 测试 ETH"
+        },
+        {
+          "body": "打开 testnet.mitosis.org，点 Connect Wallet 连接刚才的钱包，确认网络在 Mitosis 测试网 / Sepolia 侧。",
+          "caution": null,
+          "id": 41,
+          "title": "打开测试网并连接钱包"
+        },
+        {
+          "body": "在测试网页面领取测试代币（教程口径：限领 10 次）。领到的是测试环境代币，没有真实价值，只用于完成后续交互。",
+          "caution": null,
+          "id": 42,
+          "title": "领取测试代币"
+        },
+        {
+          "body": "按页面功能做存入、提取等交互，把流程完整走一遍。测试网类空投通常看重活跃天数而不是单次金额，隔几天回来再交互一次，比一天刷一百次更有效。",
+          "caution": null,
+          "id": 43,
+          "title": "做交互并保持活跃"
+        }
+      ],
+      "symbol": "MITO",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 31,
+          "text": "钱包切换到 Sepolia 并领测试 ETH"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 32,
+          "text": "打开 testnet.mitosis.org 连接钱包"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 33,
+          "text": "领取测试代币（限领 10 次，用完再领）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 34,
+          "text": "完成测试网内的存入 / 交互操作"
+        },
+        {
+          "detail": "测试网空投普遍看活跃天数",
+          "done": false,
+          "id": 35,
+          "text": "隔几天回来再交互一次，保持活跃"
+        }
+      ],
+      "updatedAt": 1794284313436
+    },
+    {
+      "category": "claim",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "TGE 已推迟 2–4 周，具体日期待官方确认；原 12 月 18 日截止不再适用",
+      "description": "11 月 17 日官方推迟 PREDICT TGE 与 Season 1 领取 2–4 周；领取选项表截止改为 TGE 前一日 09:00 UTC，原 11 月 26 日截止不再适用。Season 1 共 7000 万 PREDICT（占总量 7%），可 35% 即时领取或 12 期分期领全额。",
+      "doneCount": 0,
+      "favorite": true,
+      "featured": false,
+      "id": 6,
+      "name": "Predict.fun",
+      "officialUrl": "https://predict.fun/points/airdrop",
+      "potential": 3,
+      "prepItems": [
+        "持有 Predict Points 的原钱包",
+        "想清楚选 A 还是 B：选错一般不可改"
+      ],
+      "rewardNote": "PREDICT 代币按所选方案分发：A 立即 35%（放弃 65%），B 一年质押后 100%，默认 B。",
+      "riskItems": [
+        "方案选择通常不可撤销，提交前看清百分比和锁定期",
+        "领取/选择入口只认官方链接，仿冒站会诱导你签授权"
+      ],
+      "slug": "predict-fun",
+      "sourceName": "Bittime 2026 年 11 月空投日历",
+      "sourceUrl": "https://www.bittime.com/en/blog/airdrop-november-2026",
+      "status": "tge_soon",
+      "steps": [
+        {
+          "body": "用参与 Predict.fun 时的钱包登录官方页面，查看自己的 Predict Points 数量。没有积分的账号不在本次选择范围内。",
+          "caution": null,
+          "id": 23,
+          "title": "查积分"
+        },
+        {
+          "body": "方案 A：立即拿到 35%，其余 65% 直接放弃；方案 B：全部 100% 但要质押一年。不做任何选择的话，系统默认按方案 B 执行。这是拿多少和等多久的取舍，没有标准答案，按自己的资金安排决定。",
+          "caution": "不要听社群「必选 X」的喊话，锁定期和机会成本只有你自己能算。",
+          "id": 24,
+          "title": "想清楚 A 还是 B"
+        },
+        {
+          "body": "只从 Predict.fun 官方公告 / 官网进入选择页面（本站暂未核到直达链接，标注待确认），连接钱包后选定方案并签名提交。签名应只是确认选择，不应包含代币转出或无限授权。",
+          "caution": null,
+          "id": 25,
+          "title": "从官方入口提交选择"
+        },
+        {
+          "body": "提交后回页面确认所选方案已生效，截图保存。截止时间是 2026-11-26 17:00（北京时间），别拖到最后一小时。",
+          "caution": null,
+          "id": 26,
+          "title": "确认并保存凭证"
+        }
+      ],
+      "symbol": "PREDICT",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 16,
+          "text": "查自己的 Predict Points 数量"
+        },
+        {
+          "detail": "A：立即 35%，放弃 65%；B：质押一年拿 100%",
+          "done": false,
+          "id": 17,
+          "text": "比较方案 A / B 并做决定"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 18,
+          "text": "在 11-26 17:00 前提交选择"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 19,
+          "text": "截图保存选择结果"
+        }
+      ],
+      "updatedAt": 1794965276666
+    },
+    {
+      "category": "testnet",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "Testnet 1 未公布结束日（原 11 月 20 日截止未获官方证实，改为待确认）",
+      "description": "公开测试网 1 自 10 月 23 日运行，官方未公布结束日；0.7% 主网供应分给合格矿工，需至少 3 个活跃日、占总积分 ≥0.005% 并签署奖励地址注册。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 12,
+      "name": "Vearl 测试网",
+      "officialUrl": "https://vearl.org/participate/",
+      "potential": 3,
+      "prepItems": [
+        "一台带 GPU 的电脑（这是算力挖矿，没有 GPU 参与不了）",
+        "EVM 钱包：用来签名登记奖励地址"
+      ],
+      "rewardNote": "本期测试网分配主网最大供应量的 0.7%（五期测试网合计 7%），按积分占比分。",
+      "riskItems": [
+        "需要真实电力和设备磨损，电费成本自己算",
+        "只从官方 participate 页面下载客户端，来路不明的挖矿程序是木马重灾区"
+      ],
+      "slug": "vearl-testnet",
+      "sourceName": "AirdropTracker 2026 年 11 月测试网清单",
+      "sourceUrl": "https://www.airdroptracker.io/blog/testnet-airdrops-to-try-november-2026",
+      "status": "active",
+      "steps": [
+        {
+          "body": "本期规则（据 AirdropTracker 汇总的官方口径）：至少 3 个活跃日、个人积分至少占总积分的 0.005%、且必须签名登记奖励地址，三条缺一不可。先估算自己的 GPU 能跑到什么量级，再决定投入。",
+          "caution": null,
+          "id": 48,
+          "title": "看清资格线再决定要不要跑"
+        },
+        {
+          "body": "从 Vearl 官方 participate 页面开始（本站暂未核到直达链接，标注待确认），只下载官方提供的客户端。",
+          "caution": "挖矿软件是木马重灾区：社群网盘、陌生人发的「优化版客户端」一律不用。",
+          "id": 49,
+          "title": "从官方页面进入参与入口"
+        },
+        {
+          "body": "按官方流程连接钱包并签名登记你的奖励地址。这一步决定将来空投发到哪，务必用自己长期保管的钱包，登记后截图保存。",
+          "caution": null,
+          "id": 50,
+          "title": "签名登记奖励地址"
+        },
+        {
+          "body": "保持挖矿运行：普通区块 1 积分/个，付费工作 1.5 积分/个。重点是攒够 3 个活跃日并把积分占比守在 0.005% 以上，中途长期停机会被后来者稀释。",
+          "caution": null,
+          "id": 51,
+          "title": "持续运行攒活跃日"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 40,
+          "text": "从官方 participate 页确认本期规则"
+        },
+        {
+          "detail": "不登记地址，积分再高也领不到",
+          "done": false,
+          "id": 41,
+          "text": "签名登记奖励地址"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 42,
+          "text": "运行挖矿，攒满至少 3 个活跃日"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 43,
+          "text": "确认积分占比达到 0.005% 资格线"
+        }
+      ],
+      "updatedAt": 1794965276666
+    },
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": true,
+      "cost": "mixed",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "用 USDT/USDC 交易真实美股、港股、韩股与 ETF 的平台 StableStock 于 2026-11-02 上线 Genesis 积分计划：交易或持有带 Points 徽章的股票/ETF 每日得积分，前一日积分于次日 02:00 UTC 前发放到账；上线前的历史交易与持有会追溯计积分，早期用户另有 OG Boost。官方明确：积分只是参与度量，未公布代币与兑换比例。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 13,
+      "name": "StableStock Genesis 积分",
+      "officialUrl": "https://app.stablestock.finance/trade/market",
+      "potential": 3,
+      "prepItems": [
+        "StableStock 账号（注册与实名要求以 App 内当前提示为准，待确认）",
+        "少量 USDT 或 USDC 本金：积分靠真实交易/持有产生，现金余额不计积分",
+        "先确认自己所在地区是否在官方服务范围内（官方称有司法辖区限制，具体名单待确认）"
+      ],
+      "rewardNote": "未公布代币、总量与积分兑换比例；官方原文称积分不代表现金、证券或任何保证回报，最终分配由官方酌定。",
+      "riskItems": [
+        "需要真实本金：股价下跌的亏损可能远超积分价值，这不是零成本项目",
+        "官方未公布代币与兑换比例，积分可能最终一文不值",
+        "刷量、自成交会被官方扣减、冻结或撤销积分",
+        "杠杆交易有强平风险，强平仓位不计积分"
+      ],
+      "slug": "stablestock-genesis",
+      "sourceName": "StableStock 官方博客《Introducing StableStock Points》",
+      "sourceUrl": "https://www.stablestock.finance/blog/detail/introducing-stablestock-points/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "只从 StableStock 官网博客或官网公布的链接进入 App（交易页 app.stablestock.finance/trade/market），完成注册。是否需要实名、所在地区是否可参与，以注册时页面提示为准（待确认）。",
+          "caution": "不要点社群转发的注册链接；先核对域名 stablestock.finance 逐字无误。",
+          "id": 52,
+          "title": "从官方入口注册"
+        },
+        {
+          "body": "按 App 指引存入 USDT/USDC。在标的详情页找 Points 徽章：带徽章的股票/ETF 才计积分，没有徽章的不计，不要凭感觉乱买。",
+          "caution": "现金余额不产生积分，必须持有或交易合格标的才有积分。",
+          "id": 53,
+          "title": "入金并认准 Points 徽章"
+        },
+        {
+          "body": "现货与杠杆现货交易、以及持有合格股票/ETF 都计积分。优先选自己本来就愿意持有的现货标的，用小额起步；前一日积分在次日 02:00 UTC 前更新到 Points 页，先核对到账再加码。",
+          "caution": "杠杆现货有强平风险且强平仓位不计积分，新手不要碰杠杆。",
+          "id": 54,
+          "title": "交易或持有合格标的攒积分"
+        },
+        {
+          "body": "在 Points 页查看积分余额与 OG Boost 等加成是否生效。历史贡献的追溯积分（Retroactive Points）如未显示，先等一个发放周期再找官方客服渠道核对。",
+          "caution": "具体计分公式官方未公开，不要按网传比例预估收益。",
+          "id": 55,
+          "title": "每天看 Points 页核对"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": "地区资格与实名要求以页面提示为准",
+          "done": false,
+          "id": 44,
+          "text": "从官网入口完成 StableStock 注册"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 45,
+          "text": "确认目标标的带 Points 徽章"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 46,
+          "text": "小额交易或持有一只合格股票/ETF"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 47,
+          "text": "次日 02:00 UTC 后在 Points 页核对积分到账"
+        }
+      ],
+      "updatedAt": 1794319249583
+    },
+    {
+      "category": "testnet",
+      "chain": "Asentum Testnet",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "后量子 JavaScript 原生 Layer 1 的激励测试网，做链上活动赚 XP，官方明确 XP 就是空投的支付方式。测试网自 2026-09-17 上线，官方文档 2026-11-08 刚更新过规则。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 15,
+      "name": "Asentum",
+      "officialUrl": "https://airdrop.asentum.com",
+      "potential": 3,
+      "prepItems": [
+        "一个专用 EVM 测试钱包（不装真钱）",
+        "可登录 airdrop.asentum.com 的浏览器",
+        "X 账号（做社交任务用，可选）"
+      ],
+      "rewardNote": "XP 决定未来 ASE 空投，但官方未公布 XP→ASE 换算率、总池子与发放日期；不要轻信第三方“6000 万 ASE”等数字。",
+      "riskItems": [
+        "XP→ASE 换算率、总奖励、发放时间均未公布，XP 不保证能换到币",
+        "测试 ASE 无价值、主网不继承测试网余额",
+        "质押真 ASE 有价格波动和锁仓风险，零撸用户不要碰",
+        "官方文档 2026-11-08 才更新过规则，参与前以官方文档为准，勿信第三方“保底收益”数字"
+      ],
+      "slug": "asentum",
+      "sourceName": "Asentum 官方文档《Incentivized Testnet & Airdrop》",
+      "sourceUrl": "https://www.asentum.com/docs/investors/airdrop",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 https://airdrop.asentum.com 登录、设用户名、绑定要用的钱包。",
+          "caution": "用专用测试钱包，不要导入装有真钱的主钱包；不要向任何页面提供助记词/私钥。",
+          "id": 60,
+          "title": "准备专用钱包并注册"
+        },
+        {
+          "body": "在仪表盘点 Faucet drip，每次领 5 ASE（官方水龙头页口径）。",
+          "caution": "测试 ASE 无价值、不能转到主网；每次领取间隔等细则待确认，不要按第三方说的间隔照抄。",
+          "id": 61,
+          "title": "领测试币"
+        },
+        {
+          "body": "官方 XP 表：Auras 兑换 25 XP/次、上限 150 XP/天；加流动性 45 XP/次、上限 90 XP/天；转账给他人 10 XP/次、上限 50 XP/天；任意交易 1 XP/次、上限 50 XP/天；Asentum 社交发帖 20 XP/次、上限 100 XP/天。",
+          "caution": "每项都有每日上限，刷量超过上限不计分。",
+          "id": 62,
+          "title": "每天做链上活动赚 XP"
+        },
+        {
+          "body": "仪表盘每天 3 个任务（含签到+随机 2 个，00:00 UTC 刷新）；在 X 发帖带 #asentum 得 15 XP/次、上限 45 XP/天，@asentum 回复/提及同规则。",
+          "caution": "需先在仪表盘绑定 X 账号，否则可能不计分。",
+          "id": 63,
+          "title": "做每日任务和社交任务"
+        },
+        {
+          "body": "质押至少 500 测试 ASE 成为验证者候选，绑定一次性 200 XP、满勤签块最高 300 XP/天。",
+          "caution": "需跑节点并保持在线，普通用户跳过此步不影响基础参与；验证者入选细节待确认。",
+          "id": 64,
+          "title": "（可选，不推荐新手）跑验证者"
+        },
+        {
+          "body": "在以太坊主网买 ASE 并质押可获 2×–10× XP 倍率。",
+          "caution": "这是真金白银、锁仓期官方未在本次核对页确认，且 ASE 流动性薄，零撸路线不要做这一步。",
+          "id": 65,
+          "title": "（可选付费，谨慎）质押真 ASE 拿倍率"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": "airdrop.asentum.com 登录、设用户名、绑定钱包",
+          "done": false,
+          "id": 53,
+          "text": "注册并绑定钱包"
+        },
+        {
+          "detail": "仪表盘 Faucet drip",
+          "done": false,
+          "id": 54,
+          "text": "领 5 ASE 测试币"
+        },
+        {
+          "detail": "25 XP/次，上限 150 XP/天",
+          "done": false,
+          "id": 55,
+          "text": "每日在 Auras 兑换"
+        },
+        {
+          "detail": "45 XP/次，上限 90 XP/天",
+          "done": false,
+          "id": 56,
+          "text": "每日加流动性"
+        },
+        {
+          "detail": "签到+随机任务，00:00 UTC 刷新",
+          "done": false,
+          "id": 57,
+          "text": "完成每日 3 个任务"
+        },
+        {
+          "detail": "#asentum 发帖 / @asentum 互动，各上限 45 XP/天",
+          "done": false,
+          "id": 58,
+          "text": "X 社交任务"
+        }
+      ],
+      "updatedAt": 1794360539364
+    },
+    {
+      "category": "testnet",
+      "chain": "FLOP Network（Substrate Layer 1）",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "测试网暂定开始日 2026-11-24（官方称 tentative，视准备情况而定），非截止日；TGE 日期未公布",
+      "description": "Flop Labs 测试网目标于 2026 年 11 月 24 日上线（官方称暂定），计划持续约 90 天；主网与 TGE 同步、日期未公布。此前收录的 11 月 24 日为开始日而非截止日，已修正口径。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 20,
+      "name": "Flop Labs",
+      "officialUrl": "https://flop.finance",
+      "potential": 3,
+      "prepItems": [
+        "支持 Substrate/SS58 地址的钱包（Polkadot.js、Talisman 或 SubWallet 三选一）",
+        "一台可联网的电脑；走矿工路径需 GPU/服务器（具体配置待确认）",
+        "绝不准备真钱、绝不提供助记词"
+      ],
+      "rewardNote": "创世池 44 亿 FLOP（含 12 亿 Agent 份额），全部数字均为官方草案暂定值；分配规模与资格细则尚未公布",
+      "riskItems": [
+        "项目已有两次延期记录，11 月 24 日仍可能再跳票（官方自己也称 working target）",
+        "分配规模、资格细则、白皮书均未公布，创世池数字只是草案",
+        "市面已出现假冒 FLOP 代币/领取站；官方无 Discord/Telegram/Reddit/Medium，只有 X @flop_labs",
+        "Devnet 现在刷了不计分，不要混淆 Devnet 与 11 月 24 日的奖励测试网"
+      ],
+      "slug": "flop-labs",
+      "sourceName": "Flop Labs 官方链接核验页",
+      "sourceUrl": "https://www.flop.finance/official/",
+      "status": "tge_soon",
+      "steps": [
+        {
+          "body": "装一个支持 Substrate/SS58 地址的钱包，官方文档提及 Polkadot.js、Talisman、SubWallet 三选一；准备一台可联网的电脑。不要为此买币、不要向任何地址打钱。",
+          "caution": "只认 flop.finance/official 列出的链接。",
+          "id": 83,
+          "title": "准备 Substrate 钱包"
+        },
+        {
+          "body": "11 月 24 日关注 X @flop_labs 与 flop.finance 的官方上线公告，从官方入口进入测试网。",
+          "caution": "上线前无可用入口链接，勿信提前流出的所谓“测试网链接”。",
+          "id": 84,
+          "title": "等 11 月 24 日官方上线公告"
+        },
+        {
+          "body": "上线后按官方指引从测试网水龙头领 testnet FLOP。",
+          "caution": "具体水龙头地址待确认；Devnet 水龙头 faucet.flop.network 不计分，别混淆。",
+          "id": 85,
+          "title": "领测试币"
+        },
+        {
+          "body": "二选一参与：(a) 矿工/验证者：按 docs.flop.network 的 run-miner / run-validator 指引跑节点（需 GPU/服务器）；(b) Agent：用 DID 身份密钥调用推理 API、花测试 FLOP 买算力。测试网无白名单、无矿工数量上限（据官方 FAQ）。",
+          "caution": "具体注册流程与硬件门槛待确认，以上线后官方文档为准。",
+          "id": 86,
+          "title": "选一种参与路径"
+        },
+        {
+          "body": "持续参与约 90 天，等官方公布快照区块高度与创世分配换算规则。",
+          "caution": "快照与换算规则待确认，不要按第三方数字预估收益。",
+          "id": 87,
+          "title": "持续参与，等快照规则"
+        }
+      ],
+      "symbol": "FLOP",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 74,
+          "text": "关注 @flop_labs，等 11 月 24 日测试网上线公告"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 75,
+          "text": "上线后从官方水龙头领测试币"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 76,
+          "text": "选择矿工/验证者/Agent 任一路径参与"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 77,
+          "text": "定期查看官方 FAQ 更新（分配规则、快照高度）"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "BNB Chain",
+      "confirmed": false,
+      "cost": "mixed",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "BNB 链事件交易协议 42.space 的 42 Points 积分计划：每周按交易量与持有至结算的仓位分配积分池，旧 Tickets 已按 1:1 转为积分；第 1 周进行中，暂无代币、TGE 或空投公告。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 23,
+      "name": "42.space 积分计划",
+      "officialUrl": "https://www.42.space/",
+      "potential": 2,
+      "prepItems": [
+        "EVM 钱包（支持 BNB 链）与少量 BNB 作手续费",
+        "了解事件交易规则：每个结果对应一个 ERC-20 代币，价格由联合曲线决定"
+      ],
+      "rewardNote": "每周积分池按交易量与持有至结算的仓位分配，池子规模未公布；积分用途待确认",
+      "riskItems": [
+        "官方未公布任何代币、TGE 或空投，积分不保证兑换成代币或有价值",
+        "参与需动用真实资金交易，结果代币可能归零",
+        "积分池规模与分配权重未公布，规则可能调整"
+      ],
+      "slug": "42-space-points",
+      "sourceName": "Odaily 星球日报",
+      "sourceUrl": "https://www.odaily.com.cn/en/post/5213913",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开官网 www.42.space，点击连接钱包登录。",
+          "caution": "只用官网与官方文档 docs.42.space，勿点回复或广告里的链接。",
+          "id": 100,
+          "title": "连接钱包"
+        },
+        {
+          "body": "选择事件，买入看好的结果代币；积分按周交易量分配。",
+          "caution": "交易需动用真实资金，结果代币价格波动大，只用能承受损失的资金。",
+          "id": 101,
+          "title": "交易事件结果代币"
+        },
+        {
+          "body": "将仓位持有至事件结算，积分按持有至结算的仓位另行分配。",
+          "caution": "提前卖出可能失去持有部分的积分；具体权重待确认。",
+          "id": 102,
+          "title": "持有仓位至结算"
+        },
+        {
+          "body": "积分周期为每周四 00:00 UTC 至周三 23:59 UTC，周期结束后在应用内 Points 页面与排行榜查看积分。",
+          "caution": "积分每周更新一次，非实时到账。",
+          "id": 103,
+          "title": "每周查看积分与榜单"
+        },
+        {
+          "body": "通过推荐与 Mindshare 获得额外加成，具体倍数以官方规则为准。",
+          "caution": "加成规则细节待确认，以官方文档为准。",
+          "id": 104,
+          "title": "邀请与 Mindshare 加成（可选）"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 89,
+          "text": "连接钱包登录 42.space"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 90,
+          "text": "交易事件结果代币攒交易量"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 91,
+          "text": "持有仓位至事件结算"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 92,
+          "text": "每周查看积分与排行榜"
+        }
+      ],
+      "updatedAt": 1794706168082
+    },
+    {
+      "category": "quest",
+      "chain": "Base",
+      "confirmed": true,
+      "cost": "gas_only",
+      "deadlineAt": null,
+      "deadlineLabel": "结束日待官方确认",
+      "description": "Season 2 规则已变：积分制于 11 月 14 日结束，改为每条已验证签名的 trajectory 直接赚 $AXIS（2 星 1 枚至 5 星 2.5 枚），每周六 10:00 UTC 结算，首期领取已于 11 月 21 日 10:00 UTC 开放，Base 链 Portfolio → Rewards 领取，未领取不失效。Season 2 池子仍为 6000 万 AXIS。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 25,
+      "name": "Axis Robotics Season 2",
+      "officialUrl": "https://airdrop.axisrobotics.ai",
+      "potential": 3,
+      "prepItems": [
+        "一台桌面电脑（浏览器内操作模拟机械臂）",
+        "邮箱、Google、X 或钱包，用于注册 Axis Hub 账号",
+        "少量 ETH（Base 链上），用于签署已验证的训练任务",
+        "关注官方 X @axisrobotics 与文档 docs.axisrobotics.ai，留意 Season 2 细则"
+      ],
+      "rewardNote": "Season 2 池子 6000 万 AXIS（总量 6%）；11 月 14 日起直接赚 $AXIS、每周可领，兑换规则待官方公布",
+      "riskItems": [
+        "Season 2 的积分兑换比、领取时间与资格细则官方尚未公布，奖励不保证",
+        "11 月 14 日积分制改直接赚 $AXIS 的具体结算规则待官方进一步说明",
+        "签署任务需付 Base 链 gas 费；$AXIS 代售、非官方领取链接均为诈骗高发区",
+        "任务名额有限、难度高于 Season 1，投入时间与回报不成正比的可能",
+        "项目方提示：持有积分不保证获得代币分配"
+      ],
+      "slug": "axis-robotics",
+      "sourceName": "Airdrops.io — Axis Robotics",
+      "sourceUrl": "https://airdrops.io/axis-robotics/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 Axis Hub，用邮箱、Google、X 或钱包注册账号；已有 Season 1 账号的直接登录。",
+          "caution": "只用官方渠道进 Hub，不要点私信或回复里的链接。",
+          "id": 109,
+          "title": "注册 Axis Hub"
+        },
+        {
+          "body": "查看 Hub 上开放的任务槽位，优先做官方主推的强化学习（RL）与专家演示类任务；新任务每日 12:00 UTC 上线，Season 2 名额比 Season 1 少，手慢无。",
+          "caution": "任务在浏览器内操作模拟机械臂，需桌面端完成；具体任务类型与分值以 Hub 当日显示为准，待确认。",
+          "id": 110,
+          "title": "抢任务名额并完成训练"
+        },
+        {
+          "body": "每条被验证通过的训练轨迹都要在 Base 链上签署，才计入奖励；只有周五 00:00 UTC 前签署的才计入当周 Epoch，奖励次周一 12:00 UTC 到账。",
+          "caution": "签署需少量 ETH 作 gas；未签署的任务不计分。",
+          "id": 111,
+          "title": "签署已验证的任务"
+        },
+        {
+          "body": "在官方分配页 airdrop.axisrobotics.ai 查自己的分配；Season 1 为 TGE 解锁 50%，其余 25% 分别于 2027 年 1 月 21 日与 4 月 21 日解锁。",
+          "caution": "查资格无需签名、无费用；Season 2 的领取时间与兑换比官方尚未公布，待确认，不要轻信非官方的领取链接。",
+          "id": 112,
+          "title": "查分配与领奖"
+        }
+      ],
+      "symbol": "AXIS",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": "邮箱、Google、X 或钱包均可",
+          "done": false,
+          "id": 97,
+          "text": "注册 Axis Hub 账号"
+        },
+        {
+          "detail": "Season 2 名额有限，优先高价值任务类型",
+          "done": false,
+          "id": 98,
+          "text": "每日 12:00 UTC 抢 RL 与专家演示任务"
+        },
+        {
+          "detail": "须在周五 00:00 UTC 前签署才计入当周 Epoch",
+          "done": false,
+          "id": 99,
+          "text": "在 Base 上签署每条已验证的训练轨迹"
+        },
+        {
+          "detail": "11 月 14 日起直接赚 $AXIS、每周可领",
+          "done": false,
+          "id": 100,
+          "text": "每周一 12:00 UTC 后查 $AXIS 到账"
+        },
+        {
+          "detail": "查资格无需签名、无费用",
+          "done": false,
+          "id": 101,
+          "text": "在 airdrop.axisrobotics.ai 查 Season 1 分配"
+        }
+      ],
+      "updatedAt": 1795224538765
+    },
+    {
+      "category": "testnet",
+      "chain": "Robinhood Chain 测试网",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "Seedify 团队在 Robinhood Chain 测试网上的无许可代币发行平台，测试网已上线：5% 代币供应预留给测试网用户与建设者，SPARK 持有者另享 25%（快照尚未进行）；代币经济学 11 月 12 日公布，总量 10 亿，TGE 日期待确认。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 26,
+      "name": "vibe/vibe（VIBEVIBE）",
+      "officialUrl": "https://testnet.vibevibe.fun",
+      "potential": 3,
+      "prepItems": [
+        "EVM 钱包（MetaMask/Rabby），只用全新的测试专用钱包",
+        "X 账号（用于毕业空投登记）",
+        "不向测试网地址转入任何主网资金"
+      ],
+      "rewardNote": "测试网池占总量 5%（用户约 1.75%、创作者等）；SPARK 持有者按余额分享 25%，TGE 时全额解锁",
+      "riskItems": [
+        "官方条款明确表示不承诺任何奖励计划，5% 仅为官方 X 公告口径",
+        "测试网资产无价值、不可买卖，任何出售测试 ETH 或 $VIBEVIBE 的均为诈骗",
+        "SPARK 快照尚未进行，具体规则与 TGE 日期待官方公布",
+        "vibe/vibe 并非 Robinhood 官方产品，不要与 Robinhood 官方服务混淆"
+      ],
+      "slug": "vibe-vibe",
+      "sourceName": "vibe/vibe 官网",
+      "sourceUrl": "https://vibevibe.fun/welcome/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "在 faucet.testnet.chain.robinhood.com/add-chain 把 Robinhood Chain 测试网（链 ID 46630）加进钱包，再到 faucet.testnet.chain.robinhood.com 领取免费测试 ETH（每 24 小时可领一次，具体额度待确认）。",
+          "caution": "只用官网链接添加网络；测试 ETH 无价值，任何人出售测试 ETH 均为诈骗。",
+          "id": 113,
+          "title": "添加测试网并领测试 ETH"
+        },
+        {
+          "body": "打开 testnet.vibevibe.fun，阅读并接受测试网用户协议，连接 EVM 钱包。",
+          "caution": "只认 testnet.vibevibe.fun 与官方 X @vibevibefun，不点私信里的链接。",
+          "id": 114,
+          "title": "连接测试网应用"
+        },
+        {
+          "body": "在测试网上发行自己的代币或交易他人代币，参与排行榜与推荐；真实参与才计入奖励，刷量与自交易可能被排除资格（具体计分规则待确认）。",
+          "caution": "全部用免费测试 ETH 操作，不要投入真实资金。",
+          "id": 115,
+          "title": "发行或交易测试代币"
+        },
+        {
+          "body": "到 vibevibe.fun/airdrops 登记毕业空投：用 X 登录并提交源钱包地址与一个 Robinhood Chain 测试网收款地址；首批登记上限 2 万个名额（是否仍开放待确认）。",
+          "caution": "登记本身不保证获得代币或分配，官方条款明确表示不承诺任何奖励计划。",
+          "id": 116,
+          "title": "登记毕业空投"
+        }
+      ],
+      "symbol": "VIBEVIBE",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 102,
+          "text": "添加 Robinhood Chain 测试网并领取测试 ETH"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 103,
+          "text": "在 testnet.vibevibe.fun 发行或交易测试代币"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 104,
+          "text": "在 vibevibe.fun/airdrops 登记毕业空投"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 105,
+          "text": "持有 SPARK 者留意快照公告（时间待确认）"
+        }
+      ],
+      "updatedAt": 1794878948274
+    },
+    {
+      "category": "testnet",
+      "chain": "BNB Chain 测试网 / Sepolia",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": null,
+      "description": "ZK 多链收益协议 Multipli 的激励测试网：质押测试稳定币赚取 tORBS 积分，作为潜在空投资格凭证；官方未公布 tORBS 兑换比例、空投分配与快照时间，积分不保证有代币回报。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 27,
+      "name": "Multipli 测试网",
+      "officialUrl": "https://testnet.multipli.fi",
+      "potential": 3,
+      "prepItems": [
+        "全新的 EVM 测试钱包",
+        "Sepolia ETH（可从 Alchemy 水龙头领取，额度待确认）"
+      ],
+      "rewardNote": "质押测试 USDC/USDT/BTC 赚 tORBS 积分；积分换算与空投分配待确认",
+      "riskItems": [
+        "官方未公布 tORBS 兑换比例与空投分配，积分不保证有代币回报",
+        "测试网活动细节以官网页面为准，第三方指南可能过时",
+        "只用测试钱包，勿连接主网常用钱包"
+      ],
+      "slug": "multipli-testnet",
+      "sourceName": "Multipli 测试网参与指南（Maran's Crypto，2026-11-17）",
+      "sourceUrl": "https://typefully.com/MaransCrypto/join-multiplifi-testnet-airdrop-zztN1V8",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 testnet.multipli.fi，连接全新的测试钱包。",
+          "caution": "只用测试专用钱包，不要连接主网常用钱包；不要点带邀请码的第三方链接。",
+          "id": 117,
+          "title": "打开测试网并连接钱包"
+        },
+        {
+          "body": "选择 BNB Chain 测试网，按页面提示领取 100 测试 USDC（领取方式待确认）；如在 Sepolia 网络参与，先从 Alchemy 水龙头领取 Sepolia ETH，再切换到 Sepolia 网络。",
+          "caution": "测试代币无价值，不要为领取测试币支付任何真实费用。",
+          "id": 118,
+          "title": "选择网络并领取测试代币"
+        },
+        {
+          "body": "把测试 USDC/USDT/BTC 质押进协议赚取 tORBS 积分，收益约每 48 小时结算一次（待确认）。",
+          "caution": "指南建议不要提前解押、每 10 天复投一次收益，具体规则以官网页面为准，待确认。",
+          "id": 119,
+          "title": "质押赚取 tORBS"
+        },
+        {
+          "body": "在排行榜页面查看自己的 tORBS 积分，等待官方公布快照与分配规则。",
+          "caution": "官方未公布兑换比例与分配，积分不保证有代币回报。",
+          "id": 120,
+          "title": "查看排行榜"
+        }
+      ],
+      "symbol": "tORBS",
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 106,
+          "text": "连接钱包并领取测试 USDC"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 107,
+          "text": "质押测试稳定币赚取 tORBS"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 108,
+          "text": "定期复投收益并在排行榜查看 tORBS"
+        }
+      ],
+      "updatedAt": 1794878948274
+    },
+    {
+      "category": "testnet",
+      "chain": "AEREDIUM 测试网",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "截止日待官方确认",
+      "description": "AEREDIUM 的无主借贷协议 LOVEH 已上测试网，基金会为每个确认有效的智能合约漏洞支付 10,000 AERX 空投积分。仅适合会审计智能合约的用户，普通刷交互不产生积分。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 30,
+      "name": "AEREDIUM LOVEH",
+      "officialUrl": "https://aeredium.io/loveh.html",
+      "potential": 2,
+      "prepItems": [
+        "智能合约审计能力（必需；无此能力基本拿不到奖励）",
+        "GitHub 账号（用于私密提交报告）",
+        "EVM 钱包（仅连测试网）",
+        "接受：无漏洞发现＝零收益"
+      ],
+      "rewardNote": "每个确认有效的资金风险类智能合约漏洞奖励 10,000 AERX 空投积分；同一漏洞只奖励最早提交者；奖励以空投积分记账，按已公布的空投计划条款释放。",
+      "riskItems": [
+        "普通用户大概率零收益：奖励只给确认有效的资金风险漏洞，日常借贷交互本身官网未承诺任何积分，别当成刷分项目。",
+        "积分不等于已流通代币：奖励记为空投积分，按空投计划条款释放；“积分按 10:1 换 AERX”的说法只见于第三方报道，官网未写明，待确认。",
+        "无截止日、无奖励发放时间表，基金会何时结束挑战待确认。",
+        "只通过官网与 GitHub 链接参与，警惕仿冒的“LOVEH 领取/AERX 空投”页面。"
+      ],
+      "slug": "aeredium-loveh",
+      "sourceName": "AEREDIUM 官网 LOVEH 页面",
+      "sourceUrl": "https://aeredium.io/loveh.html",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 https://aeredium.io/loveh.html 通读规则，再读公开代码库 https://github.com/aeredium/LOVEH。",
+          "caution": "合约无 owner、无管理密钥、不可升级，部署后规则无法更改。",
+          "id": 131,
+          "title": "读官方页面与代码"
+        },
+        {
+          "body": "钱包添加 AEREDIUM 测试网，Chain ID 2237，RPC https://testnet.rpc.aeredium.io（均取自官网）。",
+          "caution": "测试网不涉及真实资产。",
+          "id": 132,
+          "title": "连接测试网"
+        },
+        {
+          "body": "任何人可通过市场工厂（Market Factory）创建借贷市场并交互。官网公布的测试网合约地址：Factory 0xf40cf17C9414FeEd39cD7fF9Cd638cBFc4C91087、利率公式 0xD865FCA05C0bbC11174329C4E86841AfbEA07E77、基金会收款地址 0xE74b8B7EbCAB4562a39dE63FAAb01831c573df6D。",
+          "caution": "请以官网页面为准核对地址后再交互。",
+          "id": 133,
+          "title": "部署市场并交互找漏洞"
+        },
+        {
+          "body": "符合的漏洞指能让人拿走不属于自己的钱、锁住借贷双方的钱、或破坏 LOVEH 文档所述规则（如账本对不上、费用进了非基金会地址、限额内贷款被清算）。",
+          "caution": "代码风格、文案、Gas 成本等不危及资金的问题无奖励，官网称会公开致谢。",
+          "id": 134,
+          "title": "判定是否符合奖励"
+        },
+        {
+          "body": "用代码库上的 private report（私密报告）按钮提交，只 AEREDIUM 可见，处理后会公开报告与结果。提交内容：发现的问题＋可复现步骤。",
+          "caution": "同一漏洞只奖励最早提交者。",
+          "id": 135,
+          "title": "私密提交报告"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 118,
+          "text": "通读官网规则与 GitHub 代码库"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 119,
+          "text": "连接 AEREDIUM 测试网（Chain ID 2237）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 120,
+          "text": "通过市场工厂创建/交互测试市场"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 121,
+          "text": "审计合约，定位资金风险类漏洞"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 122,
+          "text": "经 GitHub 私密通道提交带复现步骤的报告"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "Base Sepolia（测试网）",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "快照日待官方确认（提前 7 天公布）",
+      "description": "LayerZero 新链 Zero 的首个 bonding-curve 发射台；Season 0 Pre-flight 积分在 Base Sepolia 测试网进行，分 5% 的 $T0 供应，满 500 分才有资格，快照日待官方提前 7 天公布。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 32,
+      "name": "Tzero（T0）",
+      "officialUrl": null,
+      "potential": 3,
+      "prepItems": [
+        "EVM 钱包（MetaMask/Rabby）",
+        "Base Sepolia 测试网配置",
+        "X 账号（用于 Signal 任务）",
+        "测试 ETH（水龙头领取，免费）"
+      ],
+      "rewardNote": "Season 0 分 5% 的 $T0 供应；满 500 分有资格，单钱包上限为总供应 0.1%。",
+      "riskItems": [
+        "团队匿名，$T0 尚未发行，Base Sepolia 上的 $T0 为无价值测试代币",
+        "积分在最终快照前均为暂定，快照前会公开审查剔除农场集群",
+        "Zero 主网定于 2026 年 11 月 30 日，之后 6% 份额转主网赛季，规则可能变化",
+        "官方积分页链接待确认，谨防钓鱼链接"
+      ],
+      "slug": "tzero",
+      "sourceName": "airdrops.io",
+      "sourceUrl": "https://airdrops.io/tzero/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "在官方积分页连接 EVM 钱包，面板会显示唯一钱包码（T0-XXXX 格式），后续 Signal 任务要用。注意：官方积分页链接待确认，请以官方 X @T0dotfun 公布的链接为准，不要点击来路不明的链接。",
+          "caution": "勿向任何人透露私钥或助记词；测试网操作不涉及真实资金。",
+          "id": 140,
+          "title": "连接钱包并获取钱包码"
+        },
+        {
+          "body": "在官方 Season 0 公告帖下回复或引用并附上钱包码，再在积分页绑定 X 账号签名（+200 分）；关注 @T0dotfun 并在面板确认（+100 分）。",
+          "caution": null,
+          "id": 141,
+          "title": "完成 Signal 社交任务"
+        },
+        {
+          "body": "在 Tzero 测试网水龙头领取免费测试 ETH，用于后续买入任务代币。",
+          "caution": null,
+          "id": 142,
+          "title": "领测试 ETH"
+        },
+        {
+          "body": "每买入 1 ETH 的任务代币并持有满 60 分钟得 1,000 分；单笔小于 0.0005 ETH 不计、自己发行的任务不计、每天每钱包最多 1 ETH 计入、60 分钟内卖出则取消对应买入积分。",
+          "caution": null,
+          "id": 143,
+          "title": "买入并持有任务代币赚积分"
+        },
+        {
+          "body": "在 liftoff 前买入≥0.01 ETH、持有 60 分钟且 liftoff 时仍持有，每个达标任务 +150 分（每天最多 5 个）；自己发行任务代币并达到 liftoff 且有≥5 个其他钱包支持（各≥0.01 ETH、持有 60 分钟），得 500 分。",
+          "caution": null,
+          "id": 144,
+          "title": "参与 Crew 与发行任务赚额外积分"
+        },
+        {
+          "body": "买入测试网 $T0 并在面板质押，质押者每天分享 5,000 分，按质押量与时长分配，每钱包每天上限 1,000 分。",
+          "caution": null,
+          "id": 145,
+          "title": "质押测试 $T0"
+        }
+      ],
+      "symbol": "T0",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 126,
+          "text": "连接钱包，记下钱包码 T0-XXXX"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 127,
+          "text": "完成 Signal 任务（回复公告帖 + 绑定 X + 关注）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 128,
+          "text": "水龙头领测试 ETH"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 129,
+          "text": "买入任务代币并持有满 60 分钟"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 130,
+          "text": "（可选）发行自己的任务代币或质押测试 $T0"
+        }
+      ],
+      "updatedAt": 1795224538765
+    },
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1794324600000,
+      "deadlineLabel": "2026-11-10 23:30（北京时间）注册截止",
+      "description": "S1/S2 注册已于 11 月 10 日 15:30 UTC 关闭，未注册钱包无缘本轮分配。11 月 14 日官方宣布：未领取的 INFI 将并入 Season 3 奖励池（YT 持有者另有加成），Season 3 进行中；TGE 目标 2026 年 Q4，具体日期未公布；11 月 16 日 11:00 ET 有官方 INFI 发布 Spaces。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": true,
+      "id": 1,
+      "name": "infiniFi",
+      "officialUrl": "https://app.infinifi.xyz/infi",
+      "potential": 4,
+      "prepItems": [
+        "持有 infiniFi Season 1 / Season 2 积分的原钱包（助记词/私钥可正常签名）",
+        "不需要准备 gas 代币的说法未获官方确认，钱包里留少量对应链原生币更稳妥",
+        "只从官方渠道进注册页，社群里转发的「注册链接」一律不点"
+      ],
+      "rewardNote": "按 S1 / S2 积分分发 INFI；据公开报道 500 INFI 首日可流通，个人份额以官方注册页显示为准。",
+      "riskItems": [
+        "截止时间以官网 / 官方公告为准，社群口径可能有时差",
+        "注册要签名：签名前看清是注册签名而不是转账或无限授权"
+      ],
+      "slug": "infinifi",
+      "sourceName": "信息差简报核验（TokenSignal 空投日历）",
+      "sourceUrl": "https://tokensignal.app/airdrops",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "先确认你参与 infiniFi Season 1 / Season 2 时用的钱包地址有积分记录。没参加过积分季的钱包不在本次注册范围内，不用白跑。",
+          "caution": "别为了「占坑」新开钱包注册，没有积分就没有分发资格。",
+          "id": 1,
+          "title": "确认资格"
+        },
+        {
+          "body": "从 infiniFi 官网或官方 X 公告进入注册页。本站暂未核到可直达的注册页链接（标注待确认），请以官方公告里的链接为准，逐字核对域名再连接钱包。",
+          "caution": "截止日当天是钓鱼高发期：搜索广告位、社群转发、仿冒域名的链接一律不点。",
+          "id": 2,
+          "title": "找到官方注册入口"
+        },
+        {
+          "body": "连接持有积分的原钱包，按页面提示完成注册签名。签名弹窗如果出现「授权全部代币」或转账内容，立即停下——正常注册只需要一条证明钱包归属的签名。",
+          "caution": null,
+          "id": 3,
+          "title": "连接钱包并签名注册"
+        },
+        {
+          "body": "注册流程里会让积分持有者选择分发条款（distribution terms），看清每个选项的解锁方式再选，提交后一般不可更改。",
+          "caution": "选项含义以注册页官方说明为准，本教程不替你做选择。",
+          "id": 4,
+          "title": "选择分发条款并提交"
+        },
+        {
+          "body": "注册成功后截图保存成功页面（含钱包地址和时间），并记下交易/签名记录。真出问题时这是唯一的自证材料。",
+          "caution": null,
+          "id": 5,
+          "title": "保存凭证"
+        }
+      ],
+      "symbol": "INFI",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": "没积分的钱包注册了也没用",
+          "done": false,
+          "id": 1,
+          "text": "确认自己的钱包持有 S1 / S2 积分"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 2,
+          "text": "从官方渠道进入注册页并连接钱包"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 3,
+          "text": "完成钱包注册（签名）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 4,
+          "text": "选择分发条款并提交"
+        },
+        {
+          "detail": "后续争议时自证用",
+          "done": false,
+          "id": 5,
+          "text": "截图保存注册成功页面"
+        }
+      ],
+      "updatedAt": 1794792506267
+    },
+    {
+      "category": "quest",
+      "chain": "Base",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1794787140000,
+      "deadlineLabel": "FAN SZN 冲刺排行榜 2026-11-15 23:59 UTC 冻结",
+      "description": "IPX FAN SZN 冲刺已于 11 月 15 日 23:59 UTC 冻结排行榜，今日（11 月 17 日）为 Drop Day 公布结果；前 100 名分 IPX、101–350 名分 2 万 USDC。FAN SZN 在 IPX OS 与交易所上线后继续运营，社区空投 3500 万 IPX（3.5%）24 个月线性解锁。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 21,
+      "name": "IPX FAN SZN",
+      "officialUrl": "https://ipx.exchange/fanszn",
+      "potential": 2,
+      "prepItems": [
+        "一个 X 账号（用于登录与发帖）",
+        "了解所选 fandom 的基础知识（用于粉丝测验）",
+        "无需钱包、无需充值"
+      ],
+      "rewardNote": "前 100 名分 0.05% IPX 供应（14 天线性解锁）；101–350 名分 2 万 USDC；另有 5000 美元名人互动池；社区空投份额锁仓至 TGE 后 24 个月线性释放",
+      "riskItems": [
+        "只奖前 350 名，晚加入者签到倍率吃亏、冲榜希望小",
+        "10 万美元奖池未全额逐项列明",
+        "社区空投份额锁仓至 TGE 后 24 个月线性释放，短期拿不到大头",
+        "官方明确 IPX 从不主动私信，私信索奖的全是骗子"
+      ],
+      "slug": "ipx-fan-szn",
+      "sourceName": "IPX 官方通稿（CryptoCompass）",
+      "sourceUrl": "https://cryptocompass.com/articles/ipx-launches-fan-szn-to-put-fans-at-the-center-of-music-and-pop-culture-ip-opening-with-a-100-000-pre-tge-sprint",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "只认 ipx.exchange 与 x.com/IPXExchange，官方明确“IPX never DMs first”，私信索奖的全是骗子。",
+          "caution": null,
+          "id": 88,
+          "title": "准备 X 账号"
+        },
+        {
+          "body": "打开 https://ipx.exchange/fanszn，用 X 账号登录，选一个 fandom。",
+          "caution": "是否必须选粉圈、能否更换，规则页未在二手来源中展开，待确认。",
+          "id": 89,
+          "title": "X 登录并选粉圈"
+        },
+        {
+          "body": "做一次粉丝测验 Fan Check：7 题限时，每题 10 秒，答对+10，速度奖励最高+5。",
+          "caution": null,
+          "id": 90,
+          "title": "做粉丝测验"
+        },
+        {
+          "body": "每天签到保连击，倍率逐日递增（2.0x→2.9x），断签归零；11 月 15 日 23:59 UTC 前完成全部操作。",
+          "caution": null,
+          "id": 91,
+          "title": "每天签到保连击"
+        },
+        {
+          "body": "在 X 发原创 IPX 相关帖并 @IPXExchange，把帖子链接提交到 FAN SZN Studio 等 Alfred 打分，每帖 20–1000 Aura，每天最多 5 帖计分。",
+          "caution": null,
+          "id": 92,
+          "title": "（可选冲榜）原创发帖冲分"
+        },
+        {
+          "body": "11 月 17 日 Drop Day 查看结果（前 1000 名需核查资格）。",
+          "caution": null,
+          "id": 93,
+          "title": "11 月 17 日查结果"
+        }
+      ],
+      "symbol": "IPX",
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 78,
+          "text": "用 X 账号登录 ipx.exchange/fanszn"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 79,
+          "text": "完成一次粉丝测验 Fan Check"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 80,
+          "text": "每天签到保连击"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 81,
+          "text": "原创发帖冲分（可选，每天最多 5 帖计分）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 82,
+          "text": "11 月 15 日 23:59 UTC 前确认榜单排名"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 83,
+          "text": "11 月 17 日 Drop Day 查结果"
+        }
+      ],
+      "updatedAt": 1794878948274
+    },
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1794837600000,
+      "deadlineLabel": "注册已于 2026-11-16 14:00 UTC 截止；Season 2 积分继续累积至 TGE 或 12 月 8 日快照（以先到者为准），领取在 TGE 开启",
+      "description": "DeFi 数字信贷协议 Saturn 的第一季、第二季活动登记已开放：连接累积了 Saturn 积分的钱包、签名并验证 Discord 账户即完成登记，为后续分发做准备。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": true,
+      "id": 2,
+      "name": "Saturn",
+      "officialUrl": "https://claim.saturn.credit",
+      "potential": 3,
+      "prepItems": [
+        "累积了 Saturn 积分的钱包",
+        "与积分活动绑定的 Discord 账号（需要登录验证）"
+      ],
+      "rewardNote": null,
+      "riskItems": [
+        "登记站只从官方公告进入，仿冒登记站专骗签名",
+        "验证 Discord 时只走官方 OAuth 页面，注意看域名"
+      ],
+      "slug": "saturn",
+      "sourceName": "Foresight News 空投线报",
+      "sourceUrl": "https://foresightnews.pro/airdropnews",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "准备两样东西：当初攒 Saturn 积分用的钱包（能正常签名），以及活动用的 Discord 账号（能正常登录）。两个都齐了再开始，登记中途换钱包会导致积分对不上。",
+          "caution": null,
+          "id": 6,
+          "title": "备好钱包和 Discord"
+        },
+        {
+          "body": "打开 Saturn 官方公告里的登记链接进入登记站。本站暂未核到登记页直达链接（标注待确认），只认官方公告原文给的地址，逐字核对域名。",
+          "caution": "不要在搜索引擎里搜「Saturn 登记」点广告结果，空投季仿冒站会买推广位。",
+          "id": 7,
+          "title": "从官方公告进入登记页"
+        },
+        {
+          "body": "在登记页连接积分钱包，按提示签名。签名内容应只包含登记/验证归属信息；出现代币授权（approve）要求直接关掉页面。",
+          "caution": null,
+          "id": 8,
+          "title": "连接钱包并签名"
+        },
+        {
+          "body": "按页面引导跳转 Discord 官方授权页，登录并授权关联。授权页域名应为 discord.com，授权范围只应是读取账号信息。",
+          "caution": null,
+          "id": 9,
+          "title": "验证 Discord 账户"
+        },
+        {
+          "body": "回到登记页确认状态显示已登记 / 成功，并截图保存。11-16 22:00 截止，尽量提前一天完成，避开最后时刻的网络拥堵。",
+          "caution": null,
+          "id": 10,
+          "title": "确认登记成功"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 6,
+          "text": "从官方公告进入登记页"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 7,
+          "text": "连接累积了积分的钱包并签名"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 8,
+          "text": "验证 Discord 账户"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 9,
+          "text": "确认登记状态显示成功"
+        }
+      ],
+      "updatedAt": 1794878948274
+    },
+    {
+      "category": "points",
+      "chain": null,
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": 1795017600000,
+      "deadlineLabel": "mPoints Season 1 已于 2026-11-18 16:00 UTC 结束",
+      "description": "Perpl mPoints Season 1 已于 11 月 18 日 16:00 UTC 结束，未见延期公告。注意：收官锦标赛持续至 11 月 23 日 16:00 UTC，常规 Perpl Points Season 1 仍在累计，本条按原 mPoints 截止口径标记为已结束。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": true,
+      "id": 3,
+      "name": "Perpl",
+      "officialUrl": "https://app.perpl.xyz",
+      "potential": 3,
+      "prepItems": [
+        "撸空投专用小号钱包，大额资产不要放在同一个钱包里"
+      ],
+      "rewardNote": null,
+      "riskItems": [
+        "细节待核实：不要根据二手攻略充值或授权，先看官方规则",
+        "日期口径来自链研站收录，实际截止时点以官方公告为准"
+      ],
+      "slug": "perpl",
+      "sourceName": "链研站 · 零撸空投雷达收录",
+      "sourceUrl": "https://lianyanzhan.com/",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "本项目本站目前只核到了截止日期（2026-11-19，来自链研站收录），活动轮次、玩法和官方入口都还在核实中。第一步不是做任务，而是去项目官方 X / 官网确认：活动是否还在、截止到几点、任务是什么。",
+          "caution": "网上流传的「Perpl 攻略」如果要求你先充值或给陌生合约无限授权，不要照做。",
+          "id": 11,
+          "title": "先核实，再动手"
+        },
+        {
+          "body": "新建或使用已有的空投专用小号钱包参与，助记词离线抄写保存。这个钱包不放主力资产。",
+          "caution": null,
+          "id": 12,
+          "title": "准备专用钱包"
+        },
+        {
+          "body": "以官方页面当时的任务说明为准逐项完成（具体任务待确认）。每完成一项回本站详情页勾掉对应清单，保持进度可见。",
+          "caution": null,
+          "id": 13,
+          "title": "按官方说明完成任务"
+        },
+        {
+          "body": "11-19 是日期口径，实际关闭时点待确认。建议 11-18 晚就复查一遍完成状态，别卡在最后几小时。",
+          "caution": null,
+          "id": 14,
+          "title": "截止前复查"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 2,
+      "tasks": [
+        {
+          "detail": "规则未核实前不做任何充值/授权",
+          "done": false,
+          "id": 10,
+          "text": "回官方渠道核对活动状态与截止时间"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 11,
+          "text": "按官方任务说明完成参与步骤（待官方规则确认）"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "Base（首发）/ Ethereum / Robinhood Chain",
+      "confirmed": true,
+      "cost": "mixed",
+      "deadlineAt": 1795017600000,
+      "deadlineLabel": "Genesis 阶段已于 2026-11-18 16:00 UTC 结束",
+      "description": "Nami Genesis 积分赚取阶段已结束，无延期。官方确认 Epoch 0 启动已推迟、新日期待定；积分按原计划在 Epoch 1 期间领取，领取开放日待官方公布。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 14,
+      "name": "Nami Genesis 流动性积分",
+      "officialUrl": "https://nami.fi/earn",
+      "potential": 3,
+      "prepItems": [
+        "EVM 钱包小号及对应链的 gas 代币（Base 首发，需少量 ETH）",
+        "用于提供流动性的本金（最低存入额官方文档未注明，待确认）",
+        "提前想清楚积分选项：手续费分成与积分倍率二选一侧重（见步骤）"
+      ],
+      "rewardNote": "Genesis Points 上限 100,000 分，按 1 分 = 1 NAMI 等值兑换（上限口径 40,000 NAMI + 60,000 veNAMI），Epoch 1 期间领取；奖励池最高约 50 万美元、与 NAMI 价格挂钩，个人份额以最终积分占比为准。",
+      "riskItems": [
+        "需要真实本金做 LP：有无常损失风险，可能亏本金",
+        "LP 仓位跑出价格区间即停止计分，需要持续盯仓位",
+        "短存短取会被反作弊机制清零积分",
+        "veNAMI 为锁仓代币不可直接交易；NAMI 处于价格发现期、波动大",
+        "推荐积分需推荐人仓位总价值不低于 500 美元才累计，别为凑门槛硬加仓"
+      ],
+      "slug": "nami-genesis",
+      "sourceName": "Nami 官方文档《The Genesis Phase》",
+      "sourceUrl": "https://docs.nami.fi/the-launch/genesis-phase",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "先看 Nami 官方文档的 Genesis Phase 页面确认规则，再从官网/文档公布的入口进入 App 连接钱包。App 直达链接以官网当前公布为准（待确认），不要用第三方教程里的带返佣链接。",
+          "caution": "新协议上线初期仿冒站多：核对域名，签名只应是登录/授权类，出现无限授权先停下。",
+          "id": 56,
+          "title": "先读官方文档再进 App"
+        },
+        {
+          "body": "每个仓位存入时要选一个选项：Max Fees 拿回 90% 手续费、积分倍率 0.15x；Balanced 拿回 45%、倍率 0.40x；Max Points 拿回 0%、倍率 1.00x。冲着积分去就选 Max Points；选项可改，但有 5 分钟冷却。",
+          "caution": "倍率按积分产生当时生效的选项计算，事后改选项不追溯。",
+          "id": 57,
+          "title": "选池并设定积分选项"
+        },
+        {
+          "body": "系统只奖励活跃且处于价格区间内的流动性，区间越窄积分与手续费越高。存入后定期回来看仓位是否跑出区间，跑出区间就不计分，需要调整或重开仓位。",
+          "caution": "短时间内存入又取出会被反 JIT 机制清掉已攒积分，别做快进快出。",
+          "id": 58,
+          "title": "提供区间内流动性并保持在区间"
+        },
+        {
+          "body": "2026-11-26 00:00 UTC Genesis 结束并快照，积分按 1:1 兑换。领取时可选 60% veNAMI 立即领 + 40% NAMI（2 个 Epoch 悬崖 + 90 天线性解锁），或把 NAMI 部分全转 veNAMI 立即领完。",
+          "caution": "veNAMI 是锁仓治理代币、不能直接卖出，选全转 veNAMI 前想清楚。",
+          "id": 59,
+          "title": "Genesis 结束后在 Epoch 1 领取"
+        }
+      ],
+      "symbol": "NAMI",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": "直达链接以官网公布为准",
+          "done": false,
+          "id": 48,
+          "text": "读完官方 Genesis 文档并从官网入口进入 App"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 49,
+          "text": "选定积分选项（冲积分选 Max Points）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 50,
+          "text": "提供一笔区间内流动性并确认开始计分"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 51,
+          "text": "每隔几天检查仓位是否仍在区间内"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 52,
+          "text": "11-26 08:00（北京时间）结束后在 Epoch 1 领取兑换"
+        }
+      ],
+      "updatedAt": 1795051756427
+    },
+    {
+      "category": "points",
+      "chain": "Solana",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1795172400000,
+      "deadlineLabel": "2026-11-20 11:00 UTC（竞赛已结束）",
+      "description": "Solana 链上现货与永续 DEX，Devnet 交易赛 11 月 13–20 日：免费领 1 万测试 USDC 参赛，按盈亏排名分 1 万 USDC（21 名获奖），同时开启 Flint Points 积分计划，积分拟带入主网并计入主网封闭 Alpha 选拔。官方明确未宣布代币与空投，积分无货币价值。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 28,
+      "name": "Flint Trade",
+      "officialUrl": "https://flint.trade/competition",
+      "potential": 3,
+      "prepItems": [
+        "Solana 钱包（参赛用 Solana devnet）",
+        "Telegram 账号（通过官方 @FlintCompetitionBot 注册）",
+        "devnet SOL 与测试 USDC 由官方机器人发放，无需充值真钱"
+      ],
+      "rewardNote": "1 万 USDC 奖池分给前 21 名，另有 500 USDC 从前 20 名之外抽取；Flint Points 拟带入主网",
+      "riskItems": [
+        "官方明确未宣布代币或空投，积分无货币价值，不保证主网封闭 Alpha 名额",
+        "排行榜为暂定，最终以官方复核为准；官方可随时延长、暂停或取消比赛",
+        "市面上任何 FLINT 代币售卖均为假冒，勿转账、勿分享助记词"
+      ],
+      "slug": "flint-trade",
+      "sourceName": "Flint Trade 官方竞赛页",
+      "sourceUrl": "https://flint.trade/competition",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "打开 https://flint.trade/competition ，确认奖池 1 万 USDC、21 名获奖、11 月 20 日 11:00 UTC 截止等规则后再参赛。",
+          "caution": "只认 flint.trade 官方域名，勿信私信发来的参赛链接。",
+          "id": 121,
+          "title": "打开官方竞赛页确认规则"
+        },
+        {
+          "body": "在 Telegram 打开官方 @FlintCompetitionBot，按指引完成注册；可先交易、但必须在 11 月 20 日 11:00 UTC 前完成注册才有领奖、积分与主网 Alpha 选拔资格。",
+          "caution": "注册链接由机器人个人发送，注意核对机器人账号是否为官方公布的账号。",
+          "id": 122,
+          "title": "通过官方 Telegram 机器人注册"
+        },
+        {
+          "body": "按机器人指引领取 1 万 Flint 测试 USDC 与 devnet SOL，在官方 devnet 应用内交易永续/现货，按盈亏参与排名。",
+          "caution": "测试资金无任何价值，比赛期间不展示积分总数，排行榜为暂定、最终以官方复核为准。",
+          "id": 123,
+          "title": "领取测试资金并在 devnet 交易"
+        },
+        {
+          "body": "官方称产品反馈与经确认的 bug 报告也可赚 Flint Points，具体提交入口与计分方式待确认，以官方竞赛页公布为准。",
+          "caution": "积分无货币价值，官方未承诺代币或空投；勿为刷分提交低质量或 AI 生成内容，官方称此类提交不计分。",
+          "id": 124,
+          "title": "提交产品反馈赚取 Flint Points（待确认）"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 109,
+          "text": "在 11 月 20 日 11:00 UTC 前完成官方机器人注册"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 110,
+          "text": "用测试资金在 devnet 交易，冲击盈亏排行榜"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 111,
+          "text": "提交产品反馈或 bug 报告赚取 Flint Points"
+        }
+      ],
+      "updatedAt": 1795224538765
+    },
+    {
+      "category": "claim",
+      "chain": "Robinhood Chain",
+      "confirmed": true,
+      "cost": "gas_only",
+      "deadlineAt": 1795219140000,
+      "deadlineLabel": "2026-11-20 23:59 UTC（领取窗口已关闭）",
+      "description": "Robinhood Chain 上的 DEX Fables 的 FABLES 已于 2026-10-20 TGE：积分持有者可领取 FABLES，PROLOGUE 持有者可赎回 FABLES，两项均于 2026-11-20 截止，逾期未领不再铸造。仅限 10 月 19 日前已保存领取选择的积分持有者，以及 10 月 17–18 日快照时持有 PROLOGUE 的钱包参与，新用户无法再加入。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 17,
+      "name": "Fables",
+      "officialUrl": "https://fables.fi",
+      "potential": 3,
+      "prepItems": [
+        "10 月 19 日前已保存领取选择的积分钱包（原钱包，换钱包查不到资格）",
+        "10 月 17–18 日快照时持有 PROLOGUE 的原钱包，且赎回前不要转移 PROLOGUE",
+        "Robinhood Chain 的少量 gas（具体币种与金额待确认）"
+      ],
+      "rewardNote": "每积分对应 0.08 FABLES 基础份额，最终到手按 10 月 19 日前已保存的选择执行：30–60% 直接领 liquid FABLES、80% 为 6 个月锁仓 veFABLES、或 100% 为滚动两年锁仓 veFABLES；PROLOGUE 赎回每 40 枚至少换 1 枚 liquid FABLES，池子共 2500 万 FABLES，个人份额以领取页显示为准。",
+      "riskItems": [
+        "领取选择已于 10 月 19 日截止且不可更改，选了锁仓就拿不到立即流通的部分",
+        "赎回前把 PROLOGUE 转出快照钱包会丧失赎回资格",
+        "Robinhood Chain 是新链，流动性与技术风险待确认；领取入口只认 fables.fi 官网，社群私信的领取链接一律不点",
+        "截止口径有两个转述版本（11-20 23:59 UTC 与合约截止 11-21 07:00 WIB），建议提前一天完成"
+      ],
+      "slug": "fables",
+      "sourceName": "Bittime 2026 年 11 月空投日历",
+      "sourceUrl": "https://www.bittime.com/en/blog/airdrop-november-2026",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "两类人才能领：一是 Fables 积分持有者，且已在 2026-10-19 02:00 UTC 前保存了领取选择（没保存的没有积分领取资格）；二是 PROLOGUE 持有者，且在 2026-10-17 至 18 日快照期间把 PROLOGUE 放在自托管钱包里、之后没有转出。两类都不沾就不用继续。",
+          "caution": "新钱包、新买的 PROLOGUE 不在本次领取范围内，不要为领空投现买。",
+          "id": 71,
+          "title": "先确认自己有没有资格"
+        },
+        {
+          "body": "手动输入 fables.fi 打开官网，从官网找领取入口。Bittime 称领取在 claim.fables.fi（该子域名待官方页复核），只认官网公布的入口，逐字核对域名。",
+          "caution": "不要点搜索引擎广告、社群转发或私信里的领取链接，TGE 后仿冒领取站高发。",
+          "id": 72,
+          "title": "从官网进入领取页"
+        },
+        {
+          "body": "连接积分或 PROLOGUE 快照用的原钱包，先看页面显示的可领数量：积分按每分 0.08 FABLES 为基础，最终按已保存的选择折算；PROLOGUE 按每 40 枚至少 1 枚 liquid FABLES 赎回。显示为 0 先确认是不是原钱包、选择是否已保存。",
+          "caution": null,
+          "id": 73,
+          "title": "连接快照钱包查份额"
+        },
+        {
+          "body": "按页面提示领取 FABLES 或赎回 PROLOGUE，交易确认后在钱包的 Robinhood Chain 下核对 FABLES 余额并截图保存。截止为 2026-11-20 23:59 UTC（北京时间 11-21 07:59），逾期未领不再铸造，建议 11 月 19 日前完成。",
+          "caution": "领取是链上交易，需付 gas；签名或授权里出现转出代币、无限授权等内容立即停下。",
+          "id": 74,
+          "title": "领取或赎回并核对到账"
+        }
+      ],
+      "symbol": "FABLES",
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 63,
+          "text": "确认自己属于已保存选择的积分持有者或快照钱包 PROLOGUE 持有者"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 64,
+          "text": "从 fables.fi 官网进入领取页并连接原钱包"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 65,
+          "text": "核对页面显示的 FABLES 可领数量"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 66,
+          "text": "在 11 月 20 日截止前完成领取或赎回并核对到账"
+        }
+      ],
+      "updatedAt": 1795224538765
+    },
+    {
+      "category": "testnet",
+      "chain": null,
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "已结束：原 L2 链 2026 年 8 月停运",
+      "description": "Superseed 测试网已结束：原 L2 链已于 2026 年 8 月停运，整个生态迁回以太坊主网；此前流传的“约 11 月 13 日最后窗口”仅为单条 X 教程帖说法，未查到任何官方公告证实。SUPR 代币已于 2025 年 5 月 5 日 TGE 并上线交易。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 11,
+      "name": "Superseed 测试网",
+      "officialUrl": "https://superseed.xyz",
+      "potential": 2,
+      "prepItems": [
+        "EVM 钱包小号",
+        "Discord 账号（需要进官方服务器完成验证）"
+      ],
+      "rewardNote": null,
+      "riskItems": [
+        "「最后一天」来自教程口径（11-09 发布），官方是否延期未核实",
+        "Discord 里私聊你的「管理员」全是骗子，官方不会私聊要助记词"
+      ],
+      "slug": "superseed-testnet",
+      "sourceName": "Maran's Crypto 测试网教程（Typefully）",
+      "sourceUrl": "https://typefully.com/MaransCrypto/time-sensitive-testnet-airdrop-how-to-f5OAhFj",
+      "status": "ended",
+      "steps": [
+        {
+          "body": "「仅剩一天」是 11-09 晚教程的说法。动手前先看 Superseed 官方 X / Discord 公告确认测试网是否仍在开放，关了就不用白忙。",
+          "caution": null,
+          "id": 44,
+          "title": "先确认是否还开放"
+        },
+        {
+          "body": "只从官方渠道公布的邀请链接进入 Discord 服务器，按服务器规则完成验证（通常是点验证按钮或答验证题）。",
+          "caution": "进服后私聊你的「客服/管理员」一律拉黑：官方人员不会私聊，更不会让你点链接领奖励。",
+          "id": 45,
+          "title": "进 Discord 并完成验证"
+        },
+        {
+          "body": "在指定的水龙头频道按格式发送 /faucet 指令（一般附钱包地址），领取 USDC / USDT / DAI / ETH 测试币。没到账就等几分钟或看频道置顶说明，不要重复刷屏。",
+          "caution": null,
+          "id": 46,
+          "title": "发 /faucet 领测试币"
+        },
+        {
+          "body": "用领到的测试币在测试网应用里走一遍核心流程（连接钱包后按页面功能操作）。测试币没有价值，做完即可，不需要追求金额。",
+          "caution": null,
+          "id": 47,
+          "title": "完成测试网交互"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 4,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 36,
+          "text": "回官方渠道确认测试网是否仍开放"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 37,
+          "text": "进官方 Discord 完成验证"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 38,
+          "text": "发 /faucet 领取测试币"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 39,
+          "text": "在测试网完成基础交互"
+        }
+      ],
+      "updatedAt": 1794619757890
+    }
+  ]
+}
