@@ -72,7 +72,11 @@
   // 剩余天数：ceil，不足一天按 1 天计；过去为负数
   function daysLeft(ms) {
     if (!ms) return null;
-    return Math.ceil((ms - Date.now()) / 86400000);
+    var now = new Date();
+    var d = new Date(ms);
+    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var day = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    return Math.round((day - today) / 86400000);
   }
 
   function deadlineHtml(p) {
@@ -82,7 +86,7 @@
     var d = daysLeft(p.deadlineAt);
     var cls = 'deadline';
     var txt;
-    if (d < 0) { cls += ' urgent'; txt = '已截止 ' + esc(p.deadlineLabel || fmtMD(p.deadlineAt)); }
+    if (d < 0) { cls += ' urgent'; txt = '已截止'; }
     else if (d === 0) { cls += ' urgent'; txt = '今天截止'; }
     else if (d <= 3) { cls += ' urgent'; txt = '剩 ' + d + ' 天'; }
     else if (d <= 7) { cls += ' soon'; txt = '剩 ' + d + ' 天'; }
