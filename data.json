@@ -1,6 +1,41 @@
 {
-  "lastRefreshedAt": "2026-11-21T01:28:58.765Z",
+  "lastRefreshedAt": "2026-11-22T01:28:26.104Z",
   "news": [
+    {
+      "createdAt": 1795310906104,
+      "id": 124,
+      "kind": "new",
+      "projectSlug": "ammora-season-2",
+      "text": "新收录：Ammora Season 2，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795310906104,
+      "id": 123,
+      "kind": "new",
+      "projectSlug": "ammora-season-2",
+      "text": "新收录：Ammora Season 2，GIWA Sepolia 测试网免费做任务赚积分，奖池 1 个 SBT + 2000 万 $tAMM（空投本身未确认）。"
+    },
+    {
+      "createdAt": 1795310906104,
+      "id": 122,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 已改为按轨迹直接发 $AXIS（2 星 1 枚、3 星 1.5 枚、4 星 2 枚、5 星 2.5 枚），首次周结算领取已于 11 月 21 日 10:00 UTC 开启，每周六 10:00 UTC 结算，未领取的 $AXIS 永不过期。"
+    },
+    {
+      "createdAt": 1795310906104,
+      "id": 121,
+      "kind": "deadline",
+      "projectSlug": "treehouse",
+      "text": "Treehouse Season 2 领取 11 月 25 日 07:00 UTC（北京时间 15:00）截止，逾期未领回归国库。"
+    },
+    {
+      "createdAt": 1795310906104,
+      "id": 120,
+      "kind": "deadline",
+      "projectSlug": "datai",
+      "text": "Datai 领取今天 13:00 UTC（北京时间今晚 21:00）截止，未领的代币将回归国库，符合资格的抓紧领取。"
+    },
     {
       "createdAt": 1795224538765,
       "id": 119,
@@ -385,41 +420,6 @@
       "kind": "deadline",
       "projectSlug": "treehouse",
       "text": "Treehouse Season 2 领取 11 月 25 日 7:00 UTC 截止：已于 10 月 26 日全额归属，现在领可一次拿满，逾期回归金库。"
-    },
-    {
-      "createdAt": 1794792506267,
-      "id": 64,
-      "kind": "deadline",
-      "projectSlug": "vearl-testnet",
-      "text": "Vearl 测试网一期 11 月 20 日结束：需满 3 个活跃日并完成奖励地址签名注册，才有资格分 0.7% 的主网供应。"
-    },
-    {
-      "createdAt": 1794792506267,
-      "id": 63,
-      "kind": "deadline",
-      "projectSlug": "fables",
-      "text": "Fables 领取 11 月 20 日截止：FABLES 积分领取与 PROLOGUE 兑换同日关闭，未领额度不再补发。"
-    },
-    {
-      "createdAt": 1794792506267,
-      "id": 62,
-      "kind": "deadline",
-      "projectSlug": "datai",
-      "text": "Datai 领取 11 月 22 日 13:00 UTC 截止：仅 942 个 DATUM 活动钱包可领 40 万 DATAI，须用活动钱包经 Sablier 领取，逾期回归金库。"
-    },
-    {
-      "createdAt": 1794792506267,
-      "id": 61,
-      "kind": "deadline",
-      "projectSlug": "saturn",
-      "text": "Saturn 注册今天截止：11 月 16 日 14:00 UTC（美东 9:00）关闭 Season 1/2 登记，错过不再补；登记不是领取，领币待 TGE 开启。"
-    },
-    {
-      "createdAt": 1794706168082,
-      "id": 60,
-      "kind": "new",
-      "projectSlug": "genius-airdrop",
-      "text": "新收录：Genius 11 月空投，详情页已附保姆级教程与任务清单。"
     }
   ],
   "projects": [
@@ -2545,7 +2545,7 @@
       "featured": false,
       "id": 32,
       "name": "Tzero（T0）",
-      "officialUrl": null,
+      "officialUrl": "https://testnet.tzer0.fun",
       "potential": 3,
       "prepItems": [
         "EVM 钱包（MetaMask/Rabby）",
@@ -2636,7 +2636,145 @@
           "text": "（可选）发行自己的任务代币或质押测试 $T0"
         }
       ],
-      "updatedAt": 1795224538765
+      "updatedAt": 1795310906104
+    },
+    {
+      "category": "testnet",
+      "chain": "GIWA Sepolia",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "结束日待官方确认",
+      "description": "Ammora 是 GIWA（Upbit 母公司 Dunamu 的以太坊 L2）上的流动性基础设施，入选 GIWA 的 GASOK 孵化计划。Season 2 于 2026-11-15 在 GIWA Sepolia 测试网开启，做任务赚 Ammora Points（AP），奖池为 1 个 SBT + 2000 万 $tAMM（测试网代币）。官方称 $tAMM 计划在主网后兑换成主网代币 $AMM，但兑换比例、$AMM 总量与主网日期均未公布，空投本身也未确认。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 34,
+      "name": "Ammora Season 2",
+      "officialUrl": "https://ammora.org/",
+      "potential": 3,
+      "prepItems": [
+        "全新 EVM 钱包（MetaMask/Rabby），不要用主钱包",
+        "GIWA Sepolia 网络（chain ID 91342）",
+        "GIWA Sepolia 测试 ETH（水龙头领取）",
+        "X 账号（需验证绑定）",
+        "Telegram 账号（可选，用于一次性任务）"
+      ],
+      "rewardNote": "奖池 1 个 SBT + 2000 万 $tAMM；$tAMM 计划主网后兑换 $AMM，比例与日期待确认",
+      "riskItems": [
+        "未确认空投：Ammora 没有主网代币、没有官宣空投，AP、$tAMM 未来能换什么、换多少全部待确认，可能白忙",
+        "Vault 存款不可取出：存入 Vault 的测试 ETH 按隐私条款不可取回，只用免费水龙头领的测试币，绝不存真实资产",
+        "X 账号风险：反复发相同推广文案曾导致用户 X 账号受限；按每周一次、用自己的话写，不要刷屏",
+        "钱包地址公开：排行榜公开显示连接的钱包地址，务必用全新小号钱包",
+        "钓鱼风险：只认 ammora.org 与官方 X @AmmoraHQ；任何索要私钥/助记词、让充真实 ETH 的页面都是诈骗"
+      ],
+      "slug": "ammora-season-2",
+      "sourceName": "Ammora 官网 + airdrops.io Ammora 专题页",
+      "sourceUrl": "https://airdrops.io/ammora/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "准备一个全新 EVM 钱包（MetaMask/Rabby 均可），不要用主钱包。连接后钱包地址会公开显示在排行榜上。",
+          "caution": "务必用全新小号钱包，不要连接主钱包。",
+          "id": 149,
+          "title": "准备钱包（全新地址）"
+        },
+        {
+          "body": "在钱包中添加 GIWA Sepolia 网络，chain ID 91342，RPC 为 https://sepolia-rpc.giwa.io（GIWA 官方文档给出，待确认——本次未在 GIWA 官网逐字复核该 RPC，添加时以钱包/官网提示为准）。",
+          "caution": "RPC 地址待确认，添加时以钱包或官网实际提示为准。",
+          "id": 150,
+          "title": "添加 GIWA Sepolia 网络"
+        },
+        {
+          "body": "到 Lambda256 水龙头或 GIWA 水龙头（faucet.giwa.io）领 GIWA Sepolia 测试 ETH；官方文档称 GIWA 水龙头每 24 小时限 0.005 测试 ETH（待确认——以水龙头页面实际显示为准）。",
+          "caution": "只要测试币，绝不往里面充真实 ETH。",
+          "id": 151,
+          "title": "领测试 ETH"
+        },
+        {
+          "body": "从官网 https://ammora.org/ 进入 Season 2，或经 airdrops.io Ammora 页内的官方跳转链接进入；连接钱包并签名（仅签名消息，不花钱）。",
+          "caution": "直接打开 ammora.org/season2/ 会返回 404，请从官网首页导航或经 airdrops.io 页内跳转链接进入，不要凭记忆拼 URL。",
+          "id": 152,
+          "title": "打开 Season 2 任务页并连接钱包"
+        },
+        {
+          "body": "验证 X 账号；关注 @AmmoraHQ（+100 AP）；关注 @AmmoraEco、@BaekhoGiwa、加入 Telegram 频道与群、点赞/转发/回复 Season 2 官宣帖，各 +50 AP；有邀请码可填（+100 AP，可选）。",
+          "caution": "每周发 Ammora 相关 X 帖曾导致部分用户 X 账号受限，现已改为每周一次，不要高频刷同样文案。",
+          "id": 153,
+          "title": "做一次性任务"
+        },
+        {
+          "body": "每天做：签到 Check-in +100 AP；GIWA ETH Vault 存入 0.01 测试 ETH +50 AP；Swap 每天最多 5 笔，每笔 +20 AP；质押 $tAMM +100 AP。按官方任务页合计每日最高 350 AP。",
+          "caution": "每日任务漏做不补；个别聚合页写的「每日 250 AP」是旧口径（不含签到），以官方任务页为准；Vault 存款不可取回，只用免费测试币。",
+          "id": 154,
+          "title": "每日任务（每天做）"
+        },
+        {
+          "body": "每周一 00:00 UTC 重置，在 X 分享一次 Ammora 使用体验，+300 AP。",
+          "caution": "用自己的话写，不要刷相同文案。",
+          "id": 155,
+          "title": "每周任务"
+        },
+        {
+          "body": "复制自己的邀请链接分享，赚 Referral Points（RP，单独排行榜）；每邀请 1 人得多少 RP 官方未公布，以应用内显示为准。",
+          "caution": "邀请奖励数额待确认，以应用内显示为准。",
+          "id": 156,
+          "title": "邀请（可选）"
+        },
+        {
+          "body": "官方称现在赚的 $tAMM 是未来换 $AMM 的路径，任务奖励的 $tAMM 建议先留着。",
+          "caution": "兑换未确认，不要为此投入真实资金。",
+          "id": 157,
+          "title": "持有 $tAMM，别乱花"
+        },
+        {
+          "body": "用 Ammora SDK 做一个交易所或 launchpad、发 X、提交网站链接审核，通过者进 $tAMM + SBT 抽奖。",
+          "caution": "仅会开发的人做，不会开发可跳过。",
+          "id": 158,
+          "title": "Builder 任务（仅会开发的人）"
+        }
+      ],
+      "symbol": "AMM",
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 134,
+          "text": "验证 X 账号并关注 @AmmoraHQ"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 135,
+          "text": "每日签到、GIWA ETH Vault、最多 5 笔 Swap、质押 $tAMM"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 136,
+          "text": "每周一次 X 分享帖"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 137,
+          "text": "一次性社交任务：关注 @AmmoraEco、@BaekhoGiwa、加 Telegram、官宣帖三连"
+        },
+        {
+          "detail": "可选",
+          "done": false,
+          "id": 138,
+          "text": "邀请好友赚 RP"
+        },
+        {
+          "detail": "仅会开发的人，可选",
+          "done": false,
+          "id": 139,
+          "text": "Builder 任务：用 SDK 做交易所或 launchpad 并提交审核"
+        }
+      ],
+      "updatedAt": 1795310906104
     },
     {
       "category": "points",
