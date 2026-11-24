@@ -1,6 +1,62 @@
 {
-  "lastRefreshedAt": "2026-11-23T01:29:37.916Z",
+  "lastRefreshedAt": "2026-11-24T01:28:58.504Z",
   "news": [
+    {
+      "createdAt": 1795483738504,
+      "id": 153,
+      "kind": "new",
+      "projectSlug": "mmix-points",
+      "text": "新收录：MMIX 积分计划，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 152,
+      "kind": "update",
+      "projectSlug": "ammora-season-2",
+      "text": "Ammora Season 2 已于 11 月 15 日上线，Season 1 快照完成，奖励池 SBT + 2000 万 $tAMM，每日任务最高 250 AP。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 151,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics 规则变了：积分制 11 月 14 日结束，现按 trajectory 直接赚 $AXIS，每周六 10:00 UTC 在 Base 上领取。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 150,
+      "kind": "update",
+      "projectSlug": "ondo-perps-points",
+      "text": "Ondo Perps Points Season 1 收尾规则已公布：最后一周积分 1.2x，11 月 30 日 23:59 UTC 快照，12 月初手动领取、开启后 3 周内未领作废；Season 2 自 12 月 1 日开始。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 149,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended 已确认 XTEN TGE 在 11 月 30 日，300M XTEN（30% 供应）TGE 时全解锁；签署条款的最终截止仍为 12 月 31 日，11 月 30 日前签署进首批发放。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 148,
+      "kind": "update",
+      "projectSlug": "flop-labs",
+      "text": "Flop Labs 测试网已确认今日 11 月 24 日 07:00 UTC 上线，周期约 90 天；主网/TGE 目标 2027 年 Q1。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 147,
+      "kind": "deadline",
+      "projectSlug": "treehouse",
+      "text": "Treehouse 领取明天截止：11 月 25 日 07:00 UTC 关闭窗口，逾期未领可能作废，抓紧领取。"
+    },
+    {
+      "createdAt": 1795483738504,
+      "id": 146,
+      "kind": "new",
+      "projectSlug": "mmix-points",
+      "text": "新收录：MMIX 积分计划上线，做社交任务+每日签到赚积分，3000 个 Districts NFT 免费 mint 白名单 11 月 26 日 14:00 UTC 截止申请。"
+    },
     {
       "createdAt": 1795397377916,
       "id": 145,
@@ -364,62 +420,6 @@
       "kind": "new",
       "projectSlug": "aura-protocol",
       "text": "新收录：Aura Protocol 激励测试网 Bonus Epoch 进行中，Token Quest 11 月 30 日截止，满 10,000 分才有资格。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 93,
-      "kind": "new",
-      "projectSlug": "flint-trade",
-      "text": "新收录：Flint Trade，详情页已附保姆级教程与任务清单。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 92,
-      "kind": "update",
-      "projectSlug": "zest-protocol",
-      "text": "Zest：Season 1 剩余 90% 份额 11 月 19 日 12:00 UTC 开领，12 月 10 日截止，未领将回归社区金库。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 91,
-      "kind": "deadline",
-      "projectSlug": "fables",
-      "text": "Fables：积分领取与 PROLOGUE 兑换 11 月 20 日 23:59 UTC 截止，仅剩 2 天，未领作废。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 90,
-      "kind": "new",
-      "projectSlug": "flint-trade",
-      "text": "新收录 Flint Trade：Solana devnet 交易赛 11 月 13–20 日，免费参赛分 1 万 USDC，前 21 名有奖，积分拟带入主网。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 89,
-      "kind": "update",
-      "projectSlug": "axis-robotics",
-      "text": "Axis Robotics：11 月 14 日起积分制结束，改为每条验证轨迹直接赚 $AXIS，每周结算领取。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 88,
-      "kind": "update",
-      "projectSlug": "vearl-testnet",
-      "text": "Vearl：官方未公布 Testnet 1 结束日，原 11 月 20 日截止未获证实，已改为待确认。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 87,
-      "kind": "deadline",
-      "projectSlug": "nami-genesis",
-      "text": "Nami Genesis：官方文档确认 11 月 18 日 16:00 UTC 结束并快照，今天就是最后一天。"
-    },
-    {
-      "createdAt": 1794965276666,
-      "id": 86,
-      "kind": "update",
-      "projectSlug": "predict-fun",
-      "text": "Predict.fun：11 月 17 日官方推迟 TGE 与 Season 1 领取 2–4 周，原 12 月 18 日截止作废，具体日期待确认。"
     }
   ],
   "projects": [
@@ -492,6 +492,113 @@
         }
       ],
       "updatedAt": 1794319249583
+    },
+    {
+      "category": "points",
+      "chain": "MMIX",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": 1795701600000,
+      "deadlineLabel": "白名单申请截止 2026-11-26 14:00 UTC；积分计划结束日待确认",
+      "description": "计划中的 RWA Layer 1（主网 2027 年），积分中心做社交任务与每日签到赚 MMIX Points，另有 3000 个免费 mint 的 MMIX Districts NFT 白名单名额。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 38,
+      "name": "MMIX 积分计划",
+      "officialUrl": "https://hub.mmix.io",
+      "potential": 2,
+      "prepItems": [
+        "EVM 钱包（建议用新钱包）",
+        "X 账号",
+        "Discord 账号",
+        "Telegram 账号",
+        "全程零成本，无需充值"
+      ],
+      "rewardNote": "MMIX Points 积分 + 3000 个免费 mint 的 MMIX Districts NFT 白名单名额；官方未公布代币、积分兑换规则与快照安排。",
+      "riskItems": [
+        "官方未公布代币、无空投条款、无积分兑换规则、无快照与结束日，官方原话是“细节将在上线前公布”",
+        "积分可随时更改或终止，不构成回报承诺",
+        "只认 mmix.io / hub.mmix.io / whitelist.mmix.io，警惕拼写相近的仿冒域名",
+        "Districts mint 日期与 gas 待确认，勿轻信非官方渠道的 mint 链接"
+      ],
+      "slug": "mmix-points",
+      "sourceName": "99airdrops《MMIX Airdrop Guide》",
+      "sourceUrl": "https://99airdrops.com/airdrops/mmix/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 hub.mmix.io，连接 X 账号与 EVM 钱包。",
+          "caution": "只认 mmix.io、hub.mmix.io、whitelist.mmix.io；官方 Linktree 曾把官网链到拼写相近的 mmiix.io（多一个 i），不要点错。",
+          "id": 167,
+          "title": "打开积分中心并连接账号"
+        },
+        {
+          "body": "关注官方 X、加入 Discord、加入 Telegram，各得 100 分。",
+          "caution": "确认任务状态显示已完成再离开页面。",
+          "id": 168,
+          "title": "先做三个一次性社交任务"
+        },
+        {
+          "body": "每天到积分中心签到一次，得 5 分。",
+          "caution": "签到奖励按天累计，尽量别断。",
+          "id": 169,
+          "title": "每天签到"
+        },
+        {
+          "body": "每周发一条带 @MMIX 的 X 帖，把帖子链接回填到积分中心，得 100 分。",
+          "caution": "发帖后记得回填链接，否则不计分；白名单 1.1x 加成任务 11 月 25 日 21:00 UTC 结束。",
+          "id": 170,
+          "title": "每周发帖回填"
+        },
+        {
+          "body": "到 whitelist.mmix.io 提交 MMIX Districts 白名单申请，3000 个免费 mint 名额，申请后积分享 1.1x 加成。",
+          "caution": "Districts mint 日期、mint 链与 gas 待确认；官方称免费 mint，但以官方后续公告为准。",
+          "id": 171,
+          "title": "11 月 26 日 14:00 UTC 前申请白名单"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 147,
+          "text": "关注 MMIX 官方 X"
+        },
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 148,
+          "text": "加入 MMIX Discord"
+        },
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 149,
+          "text": "加入 MMIX Telegram"
+        },
+        {
+          "detail": "每天 5 分，别断签",
+          "done": false,
+          "id": 150,
+          "text": "每日签到"
+        },
+        {
+          "detail": "每周 100 分",
+          "done": false,
+          "id": 151,
+          "text": "每周发一条带 @MMIX 的 X 帖并回填链接"
+        },
+        {
+          "detail": "白名单页 whitelist.mmix.io，可获积分 1.1x 加成",
+          "done": false,
+          "id": 152,
+          "text": "11 月 26 日 14:00 UTC 前提交 Districts 白名单申请"
+        }
+      ],
+      "updatedAt": 1795483738504
     },
     {
       "category": "claim",
@@ -1992,7 +2099,7 @@
       "confirmed": true,
       "cost": "free",
       "deadlineAt": null,
-      "deadlineLabel": "测试网暂定开始日 2026-11-24（官方称 tentative，视准备情况而定），非截止日；TGE 日期未公布",
+      "deadlineLabel": "测试网已确认 2026-11-24 07:00 UTC 上线（约 90 天周期）；TGE/主网目标 2027 年 Q1，未公布确切日期",
       "description": "Flop Labs 测试网目标于 2026 年 11 月 24 日上线（官方称暂定），计划持续约 90 天；主网与 TGE 同步、日期未公布。此前收录的 11 月 24 日为开始日而非截止日，已修正口径。",
       "doneCount": 0,
       "favorite": false,
@@ -2077,7 +2184,7 @@
           "text": "定期查看官方 FAQ 更新（分配规则、快照高度）"
         }
       ],
-      "updatedAt": 1795051756427
+      "updatedAt": 1795483738504
     },
     {
       "category": "points",
@@ -2177,7 +2284,7 @@
       "cost": "gas_only",
       "deadlineAt": null,
       "deadlineLabel": "结束日待官方确认",
-      "description": "Season 2 积分制已于 2026 年 11 月 14 日结束：此后每条验证并签名的轨迹直接赚 $AXIS（2 星 1 枚、3 星 1.5 枚、4 星 2 枚、5 星 2.5 枚），每周六 10:00 UTC 结算，在 Portfolio → Rewards 领取（首领 11 月 21 日）。Season 1 的 TGE 分配仍在官方领取门户开放，未解锁部分的领取截止 2027 年 1 月 21 日。",
+      "description": "Season 2 进行中：Axis Points 积分制已于 2026-11-14 结束，现按已验证签名的 trajectory 直接赚 $AXIS（2 星 1 枚、3 星 1.5 枚、4 星 2 枚、5 星 2.5 枚，练习与 1 星任务无奖励），奖励每周六 10:00 UTC 在 Portfolio → Rewards 于 Base 上领取，未领取的 $AXIS 不过期；结束日待官方确认。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -2263,7 +2370,7 @@
           "text": "在 airdrop.axisrobotics.ai 查 Season 1 分配"
         }
       ],
-      "updatedAt": 1795397377916
+      "updatedAt": 1795483738504
     },
     {
       "category": "testnet",
@@ -2644,7 +2751,7 @@
       "cost": "free",
       "deadlineAt": null,
       "deadlineLabel": "结束日待官方确认",
-      "description": "Season 2 已上线（GIWA Sepolia 测试网）：奖池为 SBT + 2000 万 $tAMM；每日任务最高 250 AP（金库 50 AP、最多 5 次互换各 20 AP、质押 $tAMM 100 AP），另有邀请 Referral Points。Ammora 计划主网后将 $tAMM 转为 $AMM，兑换比例与主网日期待公布。",
+      "description": "Season 2 已于 2026-11-15 16:30 UTC 上线，Season 1 快照已完成，新用户可直接加入；奖励池为 SBT + 2000 万 $tAMM，主网后计划兑换为 $AMM（兑换比例、总量与主网日期均未公布）；每日任务最高 250 AP；结束日待官方确认。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -2773,7 +2880,7 @@
           "text": "Builder 任务：用 SDK 做交易所或 launchpad 并提交审核"
         }
       ],
-      "updatedAt": 1795397377916
+      "updatedAt": 1795483738504
     },
     {
       "category": "points",
@@ -2782,7 +2889,7 @@
       "cost": "gas_only",
       "deadlineAt": null,
       "deadlineLabel": "未公布结束日；白名单仍开放，30 天累计签到解锁",
-      "description": "DI 在做面向美股与加密的 AI 研究智能体网络（数据面板、事件引擎、量化平台均未上线），目前唯一开放的是 BNB 链每日签到活动：累计签到 30 天（按北京时间自然日计，漏签不重置）可获得未来 Genesis NFT（共 2000 个）的白名单资格，另有 DI 积分与社交任务积分。官方未确认空投：没有 $DI 代币发行日期，未说明积分能否兑换代币；白名单 NFT 的铸造日期、价格与权益均未公布。截至 11 月 18 日已有 126,674 个钱包累计签到 3,556,245 次。",
+      "description": "每日签到：需连续签到 30 天（断一天即重置），达标可获 Genesis NFT 白名单资格（2000 个名额）；签到在 BNB Chain 上链，每次需少量 BNB gas；$DI 代币在路线图上但未确认空投；结束日未公布。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -2848,7 +2955,7 @@
           "text": "关注官方 X，等待 Genesis NFT 铸造细则公布"
         }
       ],
-      "updatedAt": 1795397377916
+      "updatedAt": 1795483738504
     },
     {
       "category": "claim",
