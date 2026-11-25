@@ -1,6 +1,76 @@
 {
-  "lastRefreshedAt": "2026-11-24T01:28:58.504Z",
+  "lastRefreshedAt": "2026-11-25T01:32:29.183Z",
   "news": [
+    {
+      "createdAt": 1795570349183,
+      "id": 163,
+      "kind": "new",
+      "projectSlug": "kaisar-season-0",
+      "text": "新收录：Kaisar Network Beta / Season 0，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 162,
+      "kind": "new",
+      "projectSlug": "kaisar-season-0",
+      "text": "新收录 Kaisar Network Beta / Season 0：11 月 24 日开放，做任务、跑节点赚 vKAI（兑换与 TGE 待确认，需装桌面客户端，建议隔离机运行）。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 161,
+      "kind": "update",
+      "projectSlug": "aeredium-loveh",
+      "text": "AEREDIUM 的 LOVEH 已于 11 月 15 日上线测试网，每个确认的安全漏洞奖励 10,000 AERX 积分。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 160,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 自 11 月 14 日起取消积分制，改为每条已验证并签名的轨迹直接赚 AXIS（2 星 1 枚至 5 星 2.5 枚），每周六 10:00 UTC 结算领取。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 159,
+      "kind": "update",
+      "projectSlug": "flop-labs",
+      "text": "Flop Labs 测试网已于 11 月 24 日 07:00 UTC 上线（无评分开局，6 个创世验证者出块，约 90 天周期），主网/TGE 目标 2027 年 Q1。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 158,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended XTEN 的 TGE 已定于 11 月 30 日，11 月 30 日前在 App 内签署条款可进首批转账；最终签署截止仍为 12 月 31 日 23:59 UTC。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 157,
+      "kind": "deadline",
+      "projectSlug": "doppler-finance",
+      "text": "Doppler Finance XDP 领取将于 11-28 12:00 UTC 关闭，过期未领作废。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 156,
+      "kind": "deadline",
+      "projectSlug": "ondo-perps-points",
+      "text": "Ondo Perps Season 1 将于 11-30 23:59 UTC 快照（11-16 至 11-30 积分享 1.2x），12 月初开放领取（3 周窗口），奖励 2027 年 1 月初发放；Season 2 于 12 月 1 日开启。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 155,
+      "kind": "deadline",
+      "projectSlug": "mmix-points",
+      "text": "MMIX：1.1x 积分加成今天 21:00 UTC 截止；Districts NFT 白名单申请明天 11-26 14:00 UTC 截止（已超 8000 份申请、仅 3000 个免费 mint 名额）。"
+    },
+    {
+      "createdAt": 1795570349183,
+      "id": 154,
+      "kind": "deadline",
+      "projectSlug": "treehouse",
+      "text": "Treehouse Season 2 领取将于今天 15:00（北京时间，11-25 07:00 UTC）截止，未领将返还国库，未核到延期公告。"
+    },
     {
       "createdAt": 1795483738504,
       "id": 153,
@@ -350,76 +420,6 @@
       "kind": "new",
       "projectSlug": "aura-protocol",
       "text": "新收录：Aura Protocol，详情页已附保姆级教程与任务清单。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 103,
-      "kind": "update",
-      "projectSlug": "flop-labs",
-      "text": "Flop Labs 澄清：11 月 24 日为测试网暂定开始日、非截止日，TGE 日期仍未公布。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 102,
-      "kind": "update",
-      "projectSlug": "axis-robotics",
-      "text": "Axis Robotics 规则变化：11 月 14 日起积分制结束，改为直接赚 $AXIS，每周六结算，首次领取 11 月 21 日。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 101,
-      "kind": "update",
-      "projectSlug": "zest-protocol",
-      "text": "Zest Season 1 空投今日 12:00 UTC 开放领取，截止 12 月 10 日。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 100,
-      "kind": "deadline",
-      "projectSlug": "datai",
-      "text": "Datai 领取 11 月 22 日 13:00 UTC 截止，未领取的代币将回归国库。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 99,
-      "kind": "deadline",
-      "projectSlug": "flint-trade",
-      "text": "Flint Devnet 交易赛明日（11 月 20 日 11:00 UTC）截止，须在此之前完成注册。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 98,
-      "kind": "deadline",
-      "projectSlug": "fables",
-      "text": "Fables 领取明日（11 月 20 日 23:59 UTC）截止，未领取的请尽快领取。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 97,
-      "kind": "ended",
-      "projectSlug": "perpl",
-      "text": "Perpl mPoints Season 1 已于 11 月 18 日结束；收官锦标赛持续至 11 月 23 日。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 96,
-      "kind": "ended",
-      "projectSlug": "nami-genesis",
-      "text": "Nami Genesis 积分赚取已于 11 月 18 日结束，Epoch 0 推迟，领取待 Epoch 1 开放。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 95,
-      "kind": "new",
-      "projectSlug": "aeredium-loveh",
-      "text": "新收录：AEREDIUM LOVEH 测试网安全挑战上线，每个确认有效的合约漏洞奖 10,000 AERX 积分，仅适合会审计合约的用户。"
-    },
-    {
-      "createdAt": 1795051756427,
-      "id": 94,
-      "kind": "new",
-      "projectSlug": "aura-protocol",
-      "text": "新收录：Aura Protocol 激励测试网 Bonus Epoch 进行中，Token Quest 11 月 30 日截止，满 10,000 分才有资格。"
     }
   ],
   "projects": [
@@ -775,118 +775,6 @@
         }
       ],
       "updatedAt": 1794360539364
-    },
-    {
-      "category": "points",
-      "chain": "LitVM（LiteForge 测试网）",
-      "confirmed": true,
-      "cost": "free",
-      "deadlineAt": 1796047200000,
-      "deadlineLabel": "Token Quest 截止 2026-11-30 14:00 UTC；Bonus Epoch 结束日待确认",
-      "description": "LitVM 上的硬件/RWA 发射台，激励测试网 Airdrop ZERO 共 1.5 亿 AURA（占总量 30%），最后一期 Bonus Epoch 进行中，每笔测试网交易 15 分，满 10,000 分才有资格。",
-      "doneCount": 0,
-      "favorite": false,
-      "featured": false,
-      "id": 29,
-      "name": "Aura Protocol",
-      "officialUrl": "https://beta.auralaunch.org/incentives",
-      "potential": 3,
-      "prepItems": [
-        "EVM 钱包（建议全新小号）",
-        "X 账号（必须绑定，否则无资格）",
-        "测试币 zkLTC（水龙头免费领）",
-        "接受：积分不等于代币，TGE/领取日均未公布"
-      ],
-      "rewardNote": "Airdrop ZERO 共 1.5 亿 AURA（占总量 30%）；须满 10,000 分且至少 1 笔 dApp 交易并通过反女巫检查；积分换算比例、TGE 与领取日均待官方公布。",
-      "riskItems": [
-        "官方有付费 Booster（每级约 1/2/4 美元，用 Arbitrum One 上的 ETH 支付），不保证能换成 AURA，零撸路线请跳过所有付费项。",
-        "团队匿名：官网、文档、条款均未具名团队成员与公司，未公布审计机构。",
-        "无 TGE/领取/换算时间表：Bonus Epoch 结束日、快照、代币上线、领取均未公布，积分最终可能价值为零。",
-        "官方 X 曾发过假 Litecoin 安全警报后称是“玩笑”，信息以官网文档为准。"
-      ],
-      "slug": "aura-protocol",
-      "sourceName": "99airdrops《Aura Protocol Airdrop Guide》",
-      "sourceUrl": "https://99airdrops.com/airdrops/aura-protocol/",
-      "status": "active",
-      "steps": [
-        {
-          "body": "在钱包中添加 Chain ID 4441、Gas 币 zkLTC 的 LitVM LiteForge 测试网。",
-          "caution": "RPC 已从旧 Caldera 地址迁移至 Zeeve，请以 LitVM 官方文档 docs.litvm.com 复核最新地址后再填，不要用旧的 Caldera 地址。",
-          "id": 125,
-          "title": "添加 LiteForge 测试网"
-        },
-        {
-          "body": "在激励面板 https://beta.auralaunch.org/incentives 上的水龙头免费领取 zkLTC。",
-          "caution": "每钱包每 6 小时可领一次（以页面实际显示为准）；全程只用测试币，不花真钱。",
-          "id": 126,
-          "title": "领取测试币 zkLTC"
-        },
-        {
-          "body": "打开激励面板，连接钱包并绑定 X 账号。",
-          "caution": "市面上有多个同名 Aura 项目，只认 auralaunch.org、beta.auralaunch.org、x.com/auralaunchorg，任何地方都不要输入助记词。",
-          "id": 127,
-          "title": "连接钱包并绑定 X"
-        },
-        {
-          "body": "按页面提示完成人性验证（humanity check），然后领取每日登录奖励。",
-          "caution": "指南称人性验证值 5,000 分，以页面实际显示为准；验证服务商与具体形式待确认。",
-          "id": 128,
-          "title": "完成人性验证并领每日登录奖励"
-        },
-        {
-          "body": "质押、投票、参与测试发售或部署代币，每笔交易 15 分；另可做免费社交任务。目标：至少 10,000 分＋至少 1 笔 dApp 交易＋通过反机器人/反女巫检查。",
-          "caution": "低于 10,000 分无奖励；积分不是 1:1 兑换 AURA，官方未公布换算比例。",
-          "id": 129,
-          "title": "刷测试网交易攒分"
-        },
-        {
-          "body": "2026-11-09 至 2026-11-30 14:00 UTC 期间：部署一个代币，然后在 https://litvmswap.com/pools 上建池加流动性，再发帖到 X。",
-          "caution": "具体评选标准待确认，以官方 X 的 Token Quest 原帖为准。",
-          "id": 130,
-          "title": "可选参加 Token Quest"
-        }
-      ],
-      "symbol": "AURA",
-      "taskCount": 6,
-      "tasks": [
-        {
-          "detail": null,
-          "done": false,
-          "id": 112,
-          "text": "添加 LiteForge 测试网（Chain ID 4441）"
-        },
-        {
-          "detail": null,
-          "done": false,
-          "id": 113,
-          "text": "水龙头领取 zkLTC（每 6 小时可领一次，以页面为准）"
-        },
-        {
-          "detail": null,
-          "done": false,
-          "id": 114,
-          "text": "连接激励面板并绑定 X 账号"
-        },
-        {
-          "detail": null,
-          "done": false,
-          "id": 115,
-          "text": "完成人性验证并领取每日登录奖励"
-        },
-        {
-          "detail": null,
-          "done": false,
-          "id": 116,
-          "text": "做测试网交易（质押/投票/测试发售/部署代币），攒满 10,000 分"
-        },
-        {
-          "detail": "奖品为 10 万 AURA 积分＋50 zkLTC 奖池（zkLTC 为测试币），评选标准待确认",
-          "done": false,
-          "id": 117,
-          "text": "可选：11 月 30 日 14:00 UTC 前参加 Token Quest（部署代币＋加池＋发 X）"
-        }
-      ],
-      "updatedAt": 1795051756427
     },
     {
       "category": "points",
@@ -2539,6 +2427,118 @@
       "updatedAt": 1794878948274
     },
     {
+      "category": "points",
+      "chain": "LitVM（LiteForge 测试网）",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "主活动结束日待确认；Token Quest 支线赛 2026-11-30 14:00 UTC 截止",
+      "description": "Aura Protocol Airdrop ZERO：1.5 亿 AURA（30% 供应）分 4 个 Epoch，最后一个 Bonus Epoch（1500 万）正在开放，结束日官方未公布；支线 Token Quest 赛 2026-11-30 14:00 UTC 截止。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 29,
+      "name": "Aura Protocol",
+      "officialUrl": "https://beta.auralaunch.org/incentives",
+      "potential": 3,
+      "prepItems": [
+        "EVM 钱包（建议全新小号）",
+        "X 账号（必须绑定，否则无资格）",
+        "测试币 zkLTC（水龙头免费领）",
+        "接受：积分不等于代币，TGE/领取日均未公布"
+      ],
+      "rewardNote": "Airdrop ZERO 共 1.5 亿 AURA（占总量 30%）；须满 10,000 分且至少 1 笔 dApp 交易并通过反女巫检查；积分换算比例、TGE 与领取日均待官方公布。",
+      "riskItems": [
+        "官方有付费 Booster（每级约 1/2/4 美元，用 Arbitrum One 上的 ETH 支付），不保证能换成 AURA，零撸路线请跳过所有付费项。",
+        "团队匿名：官网、文档、条款均未具名团队成员与公司，未公布审计机构。",
+        "无 TGE/领取/换算时间表：Bonus Epoch 结束日、快照、代币上线、领取均未公布，积分最终可能价值为零。",
+        "官方 X 曾发过假 Litecoin 安全警报后称是“玩笑”，信息以官网文档为准。"
+      ],
+      "slug": "aura-protocol",
+      "sourceName": "99airdrops《Aura Protocol Airdrop Guide》",
+      "sourceUrl": "https://99airdrops.com/airdrops/aura-protocol/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "在钱包中添加 Chain ID 4441、Gas 币 zkLTC 的 LitVM LiteForge 测试网。",
+          "caution": "RPC 已从旧 Caldera 地址迁移至 Zeeve，请以 LitVM 官方文档 docs.litvm.com 复核最新地址后再填，不要用旧的 Caldera 地址。",
+          "id": 125,
+          "title": "添加 LiteForge 测试网"
+        },
+        {
+          "body": "在激励面板 https://beta.auralaunch.org/incentives 上的水龙头免费领取 zkLTC。",
+          "caution": "每钱包每 6 小时可领一次（以页面实际显示为准）；全程只用测试币，不花真钱。",
+          "id": 126,
+          "title": "领取测试币 zkLTC"
+        },
+        {
+          "body": "打开激励面板，连接钱包并绑定 X 账号。",
+          "caution": "市面上有多个同名 Aura 项目，只认 auralaunch.org、beta.auralaunch.org、x.com/auralaunchorg，任何地方都不要输入助记词。",
+          "id": 127,
+          "title": "连接钱包并绑定 X"
+        },
+        {
+          "body": "按页面提示完成人性验证（humanity check），然后领取每日登录奖励。",
+          "caution": "指南称人性验证值 5,000 分，以页面实际显示为准；验证服务商与具体形式待确认。",
+          "id": 128,
+          "title": "完成人性验证并领每日登录奖励"
+        },
+        {
+          "body": "质押、投票、参与测试发售或部署代币，每笔交易 15 分；另可做免费社交任务。目标：至少 10,000 分＋至少 1 笔 dApp 交易＋通过反机器人/反女巫检查。",
+          "caution": "低于 10,000 分无奖励；积分不是 1:1 兑换 AURA，官方未公布换算比例。",
+          "id": 129,
+          "title": "刷测试网交易攒分"
+        },
+        {
+          "body": "2026-11-09 至 2026-11-30 14:00 UTC 期间：部署一个代币，然后在 https://litvmswap.com/pools 上建池加流动性，再发帖到 X。",
+          "caution": "具体评选标准待确认，以官方 X 的 Token Quest 原帖为准。",
+          "id": 130,
+          "title": "可选参加 Token Quest"
+        }
+      ],
+      "symbol": "AURA",
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 112,
+          "text": "添加 LiteForge 测试网（Chain ID 4441）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 113,
+          "text": "水龙头领取 zkLTC（每 6 小时可领一次，以页面为准）"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 114,
+          "text": "连接激励面板并绑定 X 账号"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 115,
+          "text": "完成人性验证并领取每日登录奖励"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 116,
+          "text": "做测试网交易（质押/投票/测试发售/部署代币），攒满 10,000 分"
+        },
+        {
+          "detail": "奖品为 10 万 AURA 积分＋50 zkLTC 奖池（zkLTC 为测试币），评选标准待确认",
+          "done": false,
+          "id": 117,
+          "text": "可选：11 月 30 日 14:00 UTC 前参加 Token Quest（部署代币＋加池＋发 X）"
+        }
+      ],
+      "updatedAt": 1795570349183
+    },
+    {
       "category": "testnet",
       "chain": "AEREDIUM 测试网",
       "confirmed": true,
@@ -3017,6 +3017,82 @@
         }
       ],
       "updatedAt": 1795397377916
+    },
+    {
+      "category": "points",
+      "chain": "Peaq",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "Season 0 结束日待确认；迁移 10% vKAI bonus 截止 2026-12-24 UTC",
+      "description": "DePIN 项目（交易 AI 算力验证网络，Peaq 生态）。Beta 于 2026-11-24 开放：Google 登录、做 Season 0 任务、跑 Kaisar Node（CPU 任务）赚 vKAI；vKAI 是不可转让的记账单位、无价格，KAI 兑换与 TGE 均待确认。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 39,
+      "name": "Kaisar Network Beta / Season 0",
+      "officialUrl": "https://kaisar.io",
+      "potential": 3,
+      "prepItems": [
+        "一个 Google 账号",
+        "一台可装桌面客户端的电脑（建议专用/隔离机，勿用主力机）",
+        "稳定网络与一定的 CPU 空闲算力",
+        "只认官网 kaisar.io，警惕假 KAI 代币诈骗"
+      ],
+      "rewardNote": "Season 0 任务与节点赚 vKAI；兑换比例与 TGE 待确认，不保证有空投",
+      "riskItems": [
+        "需安装桌面客户端，权限高、未独立审计，不要装在主力机",
+        "vKAI 不可转让、无价格，兑换比例与 TGE 均未确认，不保证有空投",
+        "Season 0 的「最高 1000 万 vKAI 池」只是估算，不是个人承诺奖励",
+        "市面上有假 KAI 代币诈骗，只认官方渠道 kaisar.io"
+      ],
+      "slug": "kaisar-season-0",
+      "sourceName": "AirdropBuzz《Kaisar Airdrop: Beta, Migration & Season 0》",
+      "sourceUrl": "https://airdropbuzz.com/airdrop/kaisar-airdrop-guide",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开官网 kaisar.io，用 Google 账号登录 Beta，查看旧身份（Provider / ZeroNode / KaiNode）的结转结果，完成 Receive 并领取 Kaisar Number。",
+          "caution": "12 月 24 日 UTC 前完成符合条件的 Receive 可拿 10% vKAI bonus；Legacy USDC 的领取方式待确认（只知在 TGE 之后）。",
+          "id": 172,
+          "title": "登录 Beta 并完成迁移 Receive"
+        },
+        {
+          "body": "在任务面板完成 daily / weekly / starter / Season 0 任务卡，具体任务以账号内实时显示为准。",
+          "caution": "任务内容以官网实时显示为准，勿信第三方代做链接。",
+          "id": 173,
+          "title": "做 Season 0 Missions"
+        },
+        {
+          "body": "按官网指引下载并运行 Kaisar Node（Mac/Windows/Linux CLI），做 CPU 任务赚 vKAI。",
+          "caution": "需安装桌面客户端，权限较高且未独立审计，不要装在主力机；电费、带宽与硬件损耗自担。Checker 角色需 KaiNode licence，细节待确认。",
+          "id": 174,
+          "title": "跑 Kaisar Node 赚 vKAI"
+        }
+      ],
+      "symbol": "KAI",
+      "taskCount": 3,
+      "tasks": [
+        {
+          "detail": "12 月 24 日 UTC 前完成可拿 10% vKAI bonus",
+          "done": false,
+          "id": 153,
+          "text": "Google 登录 Kaisar Beta，完成 Receive 并领取 Kaisar Number"
+        },
+        {
+          "detail": "daily / weekly / starter / Season 0，以官网实时显示为准",
+          "done": false,
+          "id": 154,
+          "text": "完成 Season 0 Missions 任务卡"
+        },
+        {
+          "detail": "建议隔离机运行，勿用主力机",
+          "done": false,
+          "id": 155,
+          "text": "运行 Kaisar Node 做 CPU 任务赚 vKAI"
+        }
+      ],
+      "updatedAt": 1795570349183
     },
     {
       "category": "points",
