@@ -1,6 +1,69 @@
 {
-  "lastRefreshedAt": "2026-11-26T01:30:07.378Z",
+  "lastRefreshedAt": "2026-11-27T01:31:40.917Z",
   "news": [
+    {
+      "createdAt": 1795743100917,
+      "id": 186,
+      "kind": "new",
+      "projectSlug": "causevest-testnet",
+      "text": "新收录：Causevest 测试网，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 185,
+      "kind": "deadline",
+      "projectSlug": "midnight-night-glacier",
+      "text": "Midnight NIGHT 解冻期 12 月 4 日结束，当天最后 25% 份额开放领取，随后进入 90 天宽限期。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 184,
+      "kind": "deadline",
+      "projectSlug": "aura-protocol",
+      "text": "Aura Protocol Token Quest 支线赛 11 月 30 日 14:00 UTC 截止，无延期。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 183,
+      "kind": "deadline",
+      "projectSlug": "genius-airdrop",
+      "text": "Genius 11 月空投将于 12 月 1 日 04:59 UTC（11 月 30 日 23:59 EST）关闭，无延期公告。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 182,
+      "kind": "deadline",
+      "projectSlug": "ondo-perps-points",
+      "text": "Ondo Perps Points Season 1 将于 11 月 30 日 23:59 UTC 快照，领取窗口 12 月初开放，开放后 3 周内关闭。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 181,
+      "kind": "deadline",
+      "projectSlug": "doppler-finance",
+      "text": "Doppler Finance 领取明天 11 月 28 日 12:00 UTC 关闭，过期未领作废，无延期。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 180,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 规则已变：积分制结束，改为每条 trajectory 直接赚 $AXIS，每周六结算领取。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 179,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended 确认 TGE 时间：XTEN 11 月 29 日开始分发，11 月 30 日 15:00 UTC 现货开盘；签署条款仍截至 12 月 31 日。"
+    },
+    {
+      "createdAt": 1795743100917,
+      "id": 178,
+      "kind": "update",
+      "projectSlug": "mmix-points",
+      "text": "MMIX 积分计划并未结束：11 月 26 日到期的只是 Districts 白名单申请，积分任务仍在继续，截止改为待确认。"
+    },
     {
       "createdAt": 1795656607378,
       "id": 177,
@@ -357,179 +420,9 @@
       "kind": "update",
       "projectSlug": "axis-robotics",
       "text": "Axis Robotics 积分制结束：11 月 14 日起每条验证轨迹直接赚 1–2.5 AXIS，每周六 10:00 UTC 可领。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 126,
-      "kind": "update",
-      "projectSlug": "extended-xten",
-      "text": "Extended 官宣 XTEN TGE 定于 11 月 30 日；持 Xpoints 的用户须在 12 月 31 日前在 App 内签署条款，否则分配作废。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 125,
-      "kind": "ended",
-      "projectSlug": "datai",
-      "text": "Datai 领取已于 11 月 22 日 13:00 UTC 关闭，未领取的 DATAI 将回归国库。"
-    },
-    {
-      "createdAt": 1795310906104,
-      "id": 124,
-      "kind": "new",
-      "projectSlug": "ammora-season-2",
-      "text": "新收录：Ammora Season 2，详情页已附保姆级教程与任务清单。"
-    },
-    {
-      "createdAt": 1795310906104,
-      "id": 123,
-      "kind": "new",
-      "projectSlug": "ammora-season-2",
-      "text": "新收录：Ammora Season 2，GIWA Sepolia 测试网免费做任务赚积分，奖池 1 个 SBT + 2000 万 $tAMM（空投本身未确认）。"
-    },
-    {
-      "createdAt": 1795310906104,
-      "id": 122,
-      "kind": "update",
-      "projectSlug": "axis-robotics",
-      "text": "Axis Robotics Season 2 已改为按轨迹直接发 $AXIS（2 星 1 枚、3 星 1.5 枚、4 星 2 枚、5 星 2.5 枚），首次周结算领取已于 11 月 21 日 10:00 UTC 开启，每周六 10:00 UTC 结算，未领取的 $AXIS 永不过期。"
-    },
-    {
-      "createdAt": 1795310906104,
-      "id": 121,
-      "kind": "deadline",
-      "projectSlug": "treehouse",
-      "text": "Treehouse Season 2 领取 11 月 25 日 07:00 UTC（北京时间 15:00）截止，逾期未领回归国库。"
-    },
-    {
-      "createdAt": 1795310906104,
-      "id": 120,
-      "kind": "deadline",
-      "projectSlug": "datai",
-      "text": "Datai 领取今天 13:00 UTC（北京时间今晚 21:00）截止，未领的代币将回归国库，符合资格的抓紧领取。"
-    },
-    {
-      "createdAt": 1795224538765,
-      "id": 119,
-      "kind": "new",
-      "projectSlug": "agent-circle",
-      "text": "新收录：Agent Circle（Circle Arena Season 0），详情页已附保姆级教程与任务清单。"
-    },
-    {
-      "createdAt": 1795224538765,
-      "id": 118,
-      "kind": "new",
-      "projectSlug": "tzero",
-      "text": "新收录：Tzero（T0），详情页已附保姆级教程与任务清单。"
     }
   ],
   "projects": [
-    {
-      "category": "points",
-      "chain": "MMIX",
-      "confirmed": false,
-      "cost": "free",
-      "deadlineAt": 1795701600000,
-      "deadlineLabel": "白名单申请截止 2026-11-26 14:00 UTC；积分计划结束日待确认",
-      "description": "计划中的 RWA Layer 1（主网 2027 年），积分中心做社交任务与每日签到赚 MMIX Points，另有 3000 个免费 mint 的 MMIX Districts NFT 白名单名额。",
-      "doneCount": 0,
-      "favorite": false,
-      "featured": false,
-      "id": 38,
-      "name": "MMIX 积分计划",
-      "officialUrl": "https://hub.mmix.io",
-      "potential": 2,
-      "prepItems": [
-        "EVM 钱包（建议用新钱包）",
-        "X 账号",
-        "Discord 账号",
-        "Telegram 账号",
-        "全程零成本，无需充值"
-      ],
-      "rewardNote": "MMIX Points 积分 + 3000 个免费 mint 的 MMIX Districts NFT 白名单名额；官方未公布代币、积分兑换规则与快照安排。",
-      "riskItems": [
-        "官方未公布代币、无空投条款、无积分兑换规则、无快照与结束日，官方原话是“细节将在上线前公布”",
-        "积分可随时更改或终止，不构成回报承诺",
-        "只认 mmix.io / hub.mmix.io / whitelist.mmix.io，警惕拼写相近的仿冒域名",
-        "Districts mint 日期与 gas 待确认，勿轻信非官方渠道的 mint 链接"
-      ],
-      "slug": "mmix-points",
-      "sourceName": "99airdrops《MMIX Airdrop Guide》",
-      "sourceUrl": "https://99airdrops.com/airdrops/mmix/",
-      "status": "active",
-      "steps": [
-        {
-          "body": "打开 hub.mmix.io，连接 X 账号与 EVM 钱包。",
-          "caution": "只认 mmix.io、hub.mmix.io、whitelist.mmix.io；官方 Linktree 曾把官网链到拼写相近的 mmiix.io（多一个 i），不要点错。",
-          "id": 167,
-          "title": "打开积分中心并连接账号"
-        },
-        {
-          "body": "关注官方 X、加入 Discord、加入 Telegram，各得 100 分。",
-          "caution": "确认任务状态显示已完成再离开页面。",
-          "id": 168,
-          "title": "先做三个一次性社交任务"
-        },
-        {
-          "body": "每天到积分中心签到一次，得 5 分。",
-          "caution": "签到奖励按天累计，尽量别断。",
-          "id": 169,
-          "title": "每天签到"
-        },
-        {
-          "body": "每周发一条带 @MMIX 的 X 帖，把帖子链接回填到积分中心，得 100 分。",
-          "caution": "发帖后记得回填链接，否则不计分；白名单 1.1x 加成任务 11 月 25 日 21:00 UTC 结束。",
-          "id": 170,
-          "title": "每周发帖回填"
-        },
-        {
-          "body": "到 whitelist.mmix.io 提交 MMIX Districts 白名单申请，3000 个免费 mint 名额，申请后积分享 1.1x 加成。",
-          "caution": "Districts mint 日期、mint 链与 gas 待确认；官方称免费 mint，但以官方后续公告为准。",
-          "id": 171,
-          "title": "11 月 26 日 14:00 UTC 前申请白名单"
-        }
-      ],
-      "symbol": null,
-      "taskCount": 6,
-      "tasks": [
-        {
-          "detail": "一次性任务，100 分",
-          "done": false,
-          "id": 147,
-          "text": "关注 MMIX 官方 X"
-        },
-        {
-          "detail": "一次性任务，100 分",
-          "done": false,
-          "id": 148,
-          "text": "加入 MMIX Discord"
-        },
-        {
-          "detail": "一次性任务，100 分",
-          "done": false,
-          "id": 149,
-          "text": "加入 MMIX Telegram"
-        },
-        {
-          "detail": "每天 5 分，别断签",
-          "done": false,
-          "id": 150,
-          "text": "每日签到"
-        },
-        {
-          "detail": "每周 100 分",
-          "done": false,
-          "id": 151,
-          "text": "每周发一条带 @MMIX 的 X 帖并回填链接"
-        },
-        {
-          "detail": "白名单页 whitelist.mmix.io，可获积分 1.1x 加成",
-          "done": false,
-          "id": 152,
-          "text": "11 月 26 日 14:00 UTC 前提交 Districts 白名单申请"
-        }
-      ],
-      "updatedAt": 1795483738504
-    },
     {
       "category": "claim",
       "chain": "Base",
@@ -1287,8 +1180,8 @@
       "confirmed": true,
       "cost": "free",
       "deadlineAt": 1798761540000,
-      "deadlineLabel": "TGE 已定于 2026-11-30；签署 XTEN 分配条款截止 2026-12-31 23:59 UTC，逾期未签分配划归生态基金",
-      "description": "XTEN TGE 已定于 2026 年 11 月 30 日。300M XTEN（30% 供应）分配给 Extended Points 用户，TGE 时 100% 解锁；须在 App 内签署社区分发条款（窗口 11 月 11 日–12 月 31 日 23:59 UTC），逾期未签分配划归生态基金。Starknet 账户须指定一个自托管 EVM 钱包收款。",
+      "deadlineLabel": "签署条款截止 2026-12-31 23:59 UTC；XTEN 分发 11 月 29 日开始，现货 11 月 30 日 15:00 UTC 开盘",
+      "description": "XTEN 分发将于 2026-11-29 开始，XTEN/USDC 现货 11 月 30 日 15:00 UTC 开盘；11 月 29 日 08:30 UTC 前签署条款并通过审核者进入首批转账。签署窗口截至 2026-12-31 23:59 UTC，逾期未签署的分配转入生态基金。最终快照为 2026-11-06。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -1365,7 +1258,7 @@
           "text": "关注官方 TGE 日期公告"
         }
       ],
-      "updatedAt": 1795656607378
+      "updatedAt": 1795743100917
     },
     {
       "category": "claim",
@@ -1447,6 +1340,101 @@
         }
       ],
       "updatedAt": 1795138205842
+    },
+    {
+      "category": "testnet",
+      "chain": "Causevest Layer 1",
+      "confirmed": true,
+      "cost": "free",
+      "deadlineAt": 1802707140000,
+      "deadlineLabel": "2027-02-15（官方只给日期，按北京时间当日 23:59 折算为 15:59 UTC）",
+      "description": "慈善主题 Layer 1 的激励测试网，2026-11-15 上线、跑 3 个月，做任务、测试链功能、参加团队竞赛赚积分，奖池 5000 美元 + 550 万 XCV + NFT，每月发 USD/ETH，结束时发最终奖励。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 42,
+      "name": "Causevest 测试网",
+      "officialUrl": "https://xcvesting.io/",
+      "potential": 3,
+      "prepItems": [
+        "专用邮箱",
+        "备用电脑或虚拟机（安装未审计的桌面软件用）",
+        "不存真资产的全新测试钱包",
+        "不买币、不捐款"
+      ],
+      "rewardNote": "奖池 5000 美元 + 550 万 XCV + NFT；每月发 USD/ETH，结束时发最终奖励（积分兑 XCV 比例、提现日待确认）",
+      "riskItems": [
+        "桌面钱包未经独立安全审计，勿导入已有钱包助记词或私钥",
+        "官网宣称的审计与 KYC 无独立报告可查",
+        "机构背书与注册信息未核实",
+        "积分兑 XCV 比例、提现日、XCV 上所情况均未公布",
+        "官方页面同时推销买币与捐赠，参与测试网不需要花钱，别买"
+      ],
+      "slug": "causevest-testnet",
+      "sourceName": "Causevest 官方论坛《Offical Causevest Testnet Launch: 15th November 2026》",
+      "sourceUrl": "https://discourse.causevest.io/t/offical-causevest-testnet-launch-15th-november-2026/816",
+      "status": "active",
+      "steps": [
+        {
+          "body": "用专用邮箱在 xcvesting.io 注册并登录账号，只用不存真资产的测试环境。",
+          "caution": "不要买 XCV、不要捐款，参与测试网本身免费。",
+          "id": 190,
+          "title": "注册并登录"
+        },
+        {
+          "body": "登录后下载官方桌面 GUI，点击 Testnet 板块进入测试网。",
+          "caution": "桌面软件安全性未经独立审计核实，建议用备用电脑或虚拟机安装，绝不导入已有钱包助记词或私钥。",
+          "id": 191,
+          "title": "下载官方桌面 GUI 钱包"
+        },
+        {
+          "body": "系统会随机把你分到 Knights 或 Chicks 其中一队，按 GUI 内任务指引完成任务、测试链功能、参与社区活动赚积分。",
+          "caution": "具体任务清单以登录后 GUI 内显示为准，是否可自选队伍待确认。",
+          "id": 192,
+          "title": "完成任务赚积分"
+        },
+        {
+          "body": "邀请好友可额外赚积分（据聚合页称邀请 1 人得 1 XCV，待确认，以官方页面为准）。",
+          "caution": "提现规则、快照与归属条件待确认，官方未公布确切提现日。",
+          "id": 193,
+          "title": "邀请好友"
+        }
+      ],
+      "symbol": "XCV",
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": null,
+          "done": false,
+          "id": 170,
+          "text": "注册并登录 xcvesting.io"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 171,
+          "text": "下载桌面 GUI 并进入 Testnet 板块"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 172,
+          "text": "完成任务、测试链功能赚积分"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 173,
+          "text": "参与社区活动与团队竞赛"
+        },
+        {
+          "detail": null,
+          "done": false,
+          "id": 174,
+          "text": "邀请好友（1 XCV/人，待确认）"
+        }
+      ],
+      "updatedAt": 1795743100917
     },
     {
       "category": "testnet",
@@ -2102,7 +2090,7 @@
       "cost": "gas_only",
       "deadlineAt": null,
       "deadlineLabel": "结束日待官方确认",
-      "description": "Season 2 进行中：Axis Points 积分制已于 2026-11-14 结束，现按已验证签名的 trajectory 直接赚 $AXIS（2 星 1 枚、3 星 1.5 枚、4 星 2 枚、5 星 2.5 枚，练习与 1 星任务无奖励），奖励每周六 10:00 UTC 在 Portfolio → Rewards 于 Base 上领取，未领取的 $AXIS 不过期；结束日待官方确认。",
+      "description": "Axis Robotics Season 2 进行中，规则已变：自 11 月 14 日起积分制结束，每条已验证签名的 trajectory 直接赚 $AXIS（2 星 1 枚、3 星 1.5、4 星 2、5 星 2.5），每周六 10:00 UTC 结算，首期领取 11 月 21 日已开放（Base 链领取，未领不失效）。Season 2 奖池仍为 6000 万 AXIS，结束日待官方确认。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -2188,7 +2176,7 @@
           "text": "在 airdrop.axisrobotics.ai 查 Season 1 分配"
         }
       ],
-      "updatedAt": 1795483738504
+      "updatedAt": 1795743100917
     },
     {
       "category": "testnet",
@@ -2860,6 +2848,113 @@
         }
       ],
       "updatedAt": 1795397377916
+    },
+    {
+      "category": "points",
+      "chain": "MMIX",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "待确认：2026-11-26 14:00 UTC 到期的仅为 Districts NFT 白名单申请，积分计划继续进行（官网 2026-11-27 实测仍在运行）",
+      "description": "MMIX 积分计划继续进行：每日签到、每周发帖、邀请返利等任务仍开放。注意 2026-11-26 14:00 UTC 到期的只是 Districts NFT 白名单申请，不是积分计划本身；1.1x 积分加成限时任务已于 11 月 25 日结束。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 38,
+      "name": "MMIX 积分计划",
+      "officialUrl": "https://hub.mmix.io",
+      "potential": 2,
+      "prepItems": [
+        "EVM 钱包（建议用新钱包）",
+        "X 账号",
+        "Discord 账号",
+        "Telegram 账号",
+        "全程零成本，无需充值"
+      ],
+      "rewardNote": "MMIX Points 积分 + 3000 个免费 mint 的 MMIX Districts NFT 白名单名额；官方未公布代币、积分兑换规则与快照安排。",
+      "riskItems": [
+        "官方未公布代币、无空投条款、无积分兑换规则、无快照与结束日，官方原话是“细节将在上线前公布”",
+        "积分可随时更改或终止，不构成回报承诺",
+        "只认 mmix.io / hub.mmix.io / whitelist.mmix.io，警惕拼写相近的仿冒域名",
+        "Districts mint 日期与 gas 待确认，勿轻信非官方渠道的 mint 链接"
+      ],
+      "slug": "mmix-points",
+      "sourceName": "99airdrops《MMIX Airdrop Guide》",
+      "sourceUrl": "https://99airdrops.com/airdrops/mmix/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "打开 hub.mmix.io，连接 X 账号与 EVM 钱包。",
+          "caution": "只认 mmix.io、hub.mmix.io、whitelist.mmix.io；官方 Linktree 曾把官网链到拼写相近的 mmiix.io（多一个 i），不要点错。",
+          "id": 167,
+          "title": "打开积分中心并连接账号"
+        },
+        {
+          "body": "关注官方 X、加入 Discord、加入 Telegram，各得 100 分。",
+          "caution": "确认任务状态显示已完成再离开页面。",
+          "id": 168,
+          "title": "先做三个一次性社交任务"
+        },
+        {
+          "body": "每天到积分中心签到一次，得 5 分。",
+          "caution": "签到奖励按天累计，尽量别断。",
+          "id": 169,
+          "title": "每天签到"
+        },
+        {
+          "body": "每周发一条带 @MMIX 的 X 帖，把帖子链接回填到积分中心，得 100 分。",
+          "caution": "发帖后记得回填链接，否则不计分；白名单 1.1x 加成任务 11 月 25 日 21:00 UTC 结束。",
+          "id": 170,
+          "title": "每周发帖回填"
+        },
+        {
+          "body": "到 whitelist.mmix.io 提交 MMIX Districts 白名单申请，3000 个免费 mint 名额，申请后积分享 1.1x 加成。",
+          "caution": "Districts mint 日期、mint 链与 gas 待确认；官方称免费 mint，但以官方后续公告为准。",
+          "id": 171,
+          "title": "11 月 26 日 14:00 UTC 前申请白名单"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 6,
+      "tasks": [
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 147,
+          "text": "关注 MMIX 官方 X"
+        },
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 148,
+          "text": "加入 MMIX Discord"
+        },
+        {
+          "detail": "一次性任务，100 分",
+          "done": false,
+          "id": 149,
+          "text": "加入 MMIX Telegram"
+        },
+        {
+          "detail": "每天 5 分，别断签",
+          "done": false,
+          "id": 150,
+          "text": "每日签到"
+        },
+        {
+          "detail": "每周 100 分",
+          "done": false,
+          "id": 151,
+          "text": "每周发一条带 @MMIX 的 X 帖并回填链接"
+        },
+        {
+          "detail": "白名单页 whitelist.mmix.io，可获积分 1.1x 加成",
+          "done": false,
+          "id": 152,
+          "text": "11 月 26 日 14:00 UTC 前提交 Districts 白名单申请"
+        }
+      ],
+      "updatedAt": 1795743100917
     },
     {
       "category": "points",
