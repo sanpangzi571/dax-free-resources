@@ -1,6 +1,62 @@
 {
-  "lastRefreshedAt": "2026-11-27T01:31:40.917Z",
+  "lastRefreshedAt": "2026-11-28T01:32:28.395Z",
   "news": [
+    {
+      "createdAt": 1795829548395,
+      "id": 194,
+      "kind": "new",
+      "projectSlug": "ghostdrive-testnet",
+      "text": "新收录：Ghostdrive 测试网积分，详情页已附保姆级教程与任务清单。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 193,
+      "kind": "deadline",
+      "projectSlug": "ondo-perps-points",
+      "text": "Ondo Perps Points Season 1 将于 11 月 30 日 23:59 UTC 快照，11 月 16–30 日积分享 1.2 倍。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 192,
+      "kind": "deadline",
+      "projectSlug": "incentiv",
+      "text": "Incentiv Epoch 0 将于 11 月 30 日 10:00 UTC 关闭，仅剩约 2 天。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 191,
+      "kind": "deadline",
+      "projectSlug": "doppler-finance",
+      "text": "Doppler Finance XDP 创世空投领取将于今天 12:00 UTC 关闭，未领额度将过期。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 190,
+      "kind": "deadline",
+      "projectSlug": "zest-protocol",
+      "text": "Zest Season 1 剩余领取截止修正为 12 月 10 日 12:00 UTC（原记录 15:59 有误），逾期未领回流金库。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 189,
+      "kind": "update",
+      "projectSlug": "axis-robotics",
+      "text": "Axis Robotics Season 2 积分制已结束，11 月 14 日起每条核验轨迹直接赚 $AXIS，每周六 10:00 UTC 可领。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 188,
+      "kind": "update",
+      "projectSlug": "extended-xten",
+      "text": "Extended 已官宣 XTEN 于 11 月 30 日 TGE，分发 11 月 29 日启动，08:30 UTC 前签署可进首批；签署窗口仍至 12 月 31 日，逾期份额作废。"
+    },
+    {
+      "createdAt": 1795829548395,
+      "id": 187,
+      "kind": "new",
+      "projectSlug": "ghostdrive-testnet",
+      "text": "新收录 Ghostdrive 测试网积分：11 月测试网已开放，零 gas 可做可验证工作赚积分，主网计划 2027 年 3 月 6 日上线后按社区分配兑换。"
+    },
     {
       "createdAt": 1795743100917,
       "id": 186,
@@ -364,62 +420,6 @@
       "kind": "deadline",
       "projectSlug": "incentiv",
       "text": "Incentiv Epoch 0 将于 11 月 30 日 10:00 UTC 关闭，新活动 XP 享 3 倍加速，门槛 1000 XP。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 134,
-      "kind": "deadline",
-      "projectSlug": "doppler-finance",
-      "text": "Doppler XDP 领取 11 月 28 日 12:00 UTC 关闭，逾期未领作废；Points Season 3 已上线（20 倍加速）。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 133,
-      "kind": "deadline",
-      "projectSlug": "treehouse",
-      "text": "Treehouse Season 2 领取 11 月 25 日 07:00 UTC 关闭，未领取的 TREE 回归国库。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 132,
-      "kind": "alert",
-      "projectSlug": "saturn",
-      "text": "警惕假冒 Saturn 领取链接：STRN 领取尚未开放，官方称只会通过官方 X 账号发布链接，$STRC 与 Saturn 无关。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 131,
-      "kind": "update",
-      "projectSlug": "infinifi",
-      "text": "INFI 已于 11 月 17 日 TGE，已注册钱包自动收到代币；Season 3 进行中，未领取份额并入 S3 奖励。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 130,
-      "kind": "update",
-      "projectSlug": "perpl",
-      "text": "Perpl mPoints 已结束并于 11 月 21 日发放 MON；常规积分 Season 1 免手续费、1.5 倍加速，年底前结束。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 129,
-      "kind": "update",
-      "projectSlug": "aeredium-loveh",
-      "text": "AEREDIUM LOVEH 借贷协议 11 月 17 日上线测试网，每确认一个安全漏洞奖 1 万 AERX 空投积分。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 128,
-      "kind": "update",
-      "projectSlug": "ammora-season-2",
-      "text": "Ammora Season 2 已上线：奖池 SBT + 2000 万 $tAMM，每日任务最高 250 AP，$tAMM 计划主网后转为 $AMM。"
-    },
-    {
-      "createdAt": 1795397377916,
-      "id": 127,
-      "kind": "update",
-      "projectSlug": "axis-robotics",
-      "text": "Axis Robotics 积分制结束：11 月 14 日起每条验证轨迹直接赚 1–2.5 AXIS，每周六 10:00 UTC 可领。"
     }
   ],
   "projects": [
@@ -923,8 +923,8 @@
       "chain": "Stacks",
       "confirmed": true,
       "cost": "free",
-      "deadlineAt": 1796918340000,
-      "deadlineLabel": "领取已于 11 月 19 日 12:00 UTC 开放，截止 12 月 10 日（官方只给日期；15:59 UTC 为北京时间 23:59 折算口径）",
+      "deadlineAt": 1796904000000,
+      "deadlineLabel": "Season 1 剩余份额领取截止 2026-12-10 12:00 UTC（官方 Points 页面口径）",
       "description": "Zest Season 1 空投（占总量 0.9%）已于 11 月 19 日 12:00 UTC 开放领取，须在 12 月 10 日前领取，逾期未领回流社区金库。",
       "doneCount": 0,
       "favorite": false,
@@ -996,7 +996,7 @@
           "text": "核对是否享有持仓/NFT 加成"
         }
       ],
-      "updatedAt": 1795051756427
+      "updatedAt": 1795829548395
     },
     {
       "category": "points",
@@ -1180,8 +1180,8 @@
       "confirmed": true,
       "cost": "free",
       "deadlineAt": 1798761540000,
-      "deadlineLabel": "签署条款截止 2026-12-31 23:59 UTC；XTEN 分发 11 月 29 日开始，现货 11 月 30 日 15:00 UTC 开盘",
-      "description": "XTEN 分发将于 2026-11-29 开始，XTEN/USDC 现货 11 月 30 日 15:00 UTC 开盘；11 月 29 日 08:30 UTC 前签署条款并通过审核者进入首批转账。签署窗口截至 2026-12-31 23:59 UTC，逾期未签署的分配转入生态基金。最终快照为 2026-11-06。",
+      "deadlineLabel": "TGE 2026-11-30；分发 11-29 启动，08:30 UTC 前签署进首批；签署窗口截止 2026-12-31 23:59 UTC",
+      "description": "XTEN 于 2026-11-30 TGE，分发 11 月 29 日开始，08:30 UTC 前签署可进首批；签署窗口仍至 12 月 31 日，逾期份额划归生态基金。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -1258,7 +1258,7 @@
           "text": "关注官方 TGE 日期公告"
         }
       ],
-      "updatedAt": 1795743100917
+      "updatedAt": 1795829548395
     },
     {
       "category": "claim",
@@ -2089,8 +2089,8 @@
       "confirmed": true,
       "cost": "gas_only",
       "deadlineAt": null,
-      "deadlineLabel": "结束日待官方确认",
-      "description": "Axis Robotics Season 2 进行中，规则已变：自 11 月 14 日起积分制结束，每条已验证签名的 trajectory 直接赚 $AXIS（2 星 1 枚、3 星 1.5、4 星 2、5 星 2.5），每周六 10:00 UTC 结算，首期领取 11 月 21 日已开放（Base 链领取，未领不失效）。Season 2 奖池仍为 6000 万 AXIS，结束日待官方确认。",
+      "deadlineLabel": "Season 2 结束日待官方确认；积分制已结束，改为直接赚 $AXIS、每周六 10:00 UTC 可领",
+      "description": "Season 2 积分制已于 2026-11-14 结束，改为每条核验轨迹直接赚 $AXIS，每周六 10:00 UTC 结算领取；Season 1 已解锁未领份额领取截止 2027-01-21 12:00 UTC。",
       "doneCount": 0,
       "favorite": false,
       "featured": false,
@@ -2176,7 +2176,7 @@
           "text": "在 airdrop.axisrobotics.ai 查 Season 1 分配"
         }
       ],
-      "updatedAt": 1795743100917
+      "updatedAt": 1795829548395
     },
     {
       "category": "testnet",
@@ -3286,6 +3286,125 @@
         }
       ],
       "updatedAt": 1795656607378
+    },
+    {
+      "category": "testnet",
+      "chain": "Base Sepolia / DRIVE 369 Network",
+      "confirmed": false,
+      "cost": "free",
+      "deadlineAt": null,
+      "deadlineLabel": "待确认（主网计划 2027-03-06，测试网结束日未公布）",
+      "description": "隐私加密存储与 AI 记忆应用，11 月测试网已开放，做可验证工作赚积分，主网后按社区分配兑换 DRIVE。",
+      "doneCount": 0,
+      "favorite": false,
+      "featured": false,
+      "id": 43,
+      "name": "Ghostdrive 测试网积分",
+      "officialUrl": "https://www.ghostdrive.com/",
+      "potential": 3,
+      "prepItems": [
+        "一个全新/专用的 EVM 钱包地址",
+        "Chrome/Brave 等 Chromium 浏览器",
+        "用于离线保存 24 词助记词的纸笔（不要截图存手机）",
+        "无需准备真实资金与 gas（官网中继代付）"
+      ],
+      "rewardNote": "积分在主网（计划 2027-03-06）按社区活动分配（9.63% 供应量，约 35,534,700 DRIVE，90 天一波）兑换，测试网份额由 DAO 决定；前 369 个链接的钱包各得 369 Test DRIVE。官方明确：积分不是代币，不保证任何回报。",
+      "riskItems": [
+        "官方明确积分不是代币、不保证任何回报，主网份额由 DAO 决定，存在零回报可能",
+        "测试网代币无价值、可被重置；智能合约审计待定（pending），未上主网",
+        "前 369 名奖励名额是否剩余未公布，不要为此投入额外成本",
+        "只认官网 ghostdrive.com，任何索要助记词/私钥的都是诈骗",
+        "一人一号，多号/刷量会被审核过滤"
+      ],
+      "slug": "ghostdrive-testnet",
+      "sourceName": "Ghostdrive 官网",
+      "sourceUrl": "https://www.ghostdrive.com/",
+      "status": "active",
+      "steps": [
+        {
+          "body": "准备一个全新或专用的 EVM 钱包地址（官网规则：一人一号，一个 Ghost ID 对应一个钱包）。使用 Chrome/Brave 等 Chromium 浏览器。不需要提前买币或准备 gas——官网称中继会代付 gas，并给新钱包补少量 Base Sepolia ETH。",
+          "caution": "不要用装有大额资产的主钱包参与测试网；助记词只自己保存，官方称绝不会索要助记词或私钥。",
+          "id": 194,
+          "title": "准备专用钱包与浏览器"
+        },
+        {
+          "body": "打开 https://www.ghostdrive.com/ ，点击页面上的 Open Ghostdrive 进入应用。只从官网进入，不要点社群里转发的所谓领取链接。",
+          "caution": "认准域名 ghostdrive.com，谨防仿冒站。",
+          "id": 195,
+          "title": "打开官网进入应用"
+        },
+        {
+          "body": "用 passkey 或 24 个助记词创建一个 Vault，按页面提示完成设置。",
+          "caution": "24 个助记词务必离线抄存，丢失无法找回；任何人索要助记词都是诈骗。",
+          "id": 196,
+          "title": "创建 Vault（保险库）"
+        },
+        {
+          "body": "在 Settings › Profile › Wallets 链接钱包；在 Settings › Profile › Invites 处按页面提示命名领取钱包（由你的 Ghost ID 签名）。具体入口名称以官网实时页面为准，如与文档不一致以页面为准（待确认）。",
+          "caution": "领取钱包地址填错可能影响后续兑换，提交前核对两遍。",
+          "id": 197,
+          "title": "链接钱包、设置领取钱包"
+        },
+        {
+          "body": "只有可验证的工作才计分：使用应用（封存文件、向 Terminal 提问、铸造 Ghost 名字）、在 City369 里建 block、运行节点、向 GitHub 仓库 NeyraLabs/ghostdrive 提交 PR、提交被接受的 bug 报告、通过评估的知识贡献、在 DAO 内提案与投票。积分按链上证明、已合并 PR、已接受报告等记录核算。",
+          "caution": "积分按类别设上限并经审核，刷量会被过滤；官方明确测试网代币（tDRIVE）没有货币价值、可被重置。",
+          "id": 198,
+          "title": "做可验证的工作赚积分"
+        },
+        {
+          "body": "官网称前 369 个在测试网链接的钱包各得 369 Test DRIVE，共 136,161。先到先得，操作越早越好。",
+          "caution": "官网未公布实时剩余名额，是否仍有名额待确认，不要以此作为参与的唯一理由。",
+          "id": 199,
+          "title": "抢前 369 名早鸟奖励（名额待确认）"
+        },
+        {
+          "body": "完成最初几步（如封存文件、问 Terminal 一个问题、铸造 Ghost 名字）后可获得邀请链接（格式为 ghostdrive.com/i/你的名字）。被邀请人做验证工作后，你可得其验证积分的 3.69%，持续 180 天，每月上限 369。",
+          "caution": "只有好友真实完成验证工作才计分，邀请本身不产生积分。",
+          "id": 200,
+          "title": "邀请好友赚加成"
+        },
+        {
+          "body": "每次审核后，页面 Claim 按钮可领取已赚到的部分；主网计划 2027 年 3 月 6 日上线，积分届时在 claim tree 中按社区活动分配兑换，具体测试网份额由 DAO 决定（待确认）。",
+          "caution": "兑换比例、快照规则均未公布，官方也明确「积分不是代币、什么都不保证」，不要按有回报来投入成本。",
+          "id": 201,
+          "title": "等待审核与主网兑换"
+        }
+      ],
+      "symbol": null,
+      "taskCount": 5,
+      "tasks": [
+        {
+          "detail": "官网建 Vault（passkey 或 24 词助记词），在设置里链接钱包并命名领取钱包",
+          "done": false,
+          "id": 175,
+          "text": "创建 Vault 并链接钱包"
+        },
+        {
+          "detail": "封存文件、Terminal 提问、铸造 Ghost 名字、在 City 里建 block",
+          "done": false,
+          "id": 176,
+          "text": "完成应用内可验证操作"
+        },
+        {
+          "detail": "跑节点、GitHub 提 PR、提交 bug 报告、知识贡献或 DAO 提案（均需通过审核）",
+          "done": false,
+          "id": 177,
+          "text": "做深度贡献赚积分"
+        },
+        {
+          "detail": "分享个人邀请链接，好友验证工作可带来 3.69% 积分加成，180 天、月上限 369",
+          "done": false,
+          "id": 178,
+          "text": "邀请好友"
+        },
+        {
+          "detail": "关注 ghostdrive.com 与 /Docs 的积分规则、主网时间表变化",
+          "done": false,
+          "id": 179,
+          "text": "定期核对官网与文档"
+        }
+      ],
+      "updatedAt": 1795829548395
     },
     {
       "category": "points",
